@@ -405,11 +405,11 @@
 			<Spanish>Le diste %1 %2 %3.</Spanish>
 		</Key>
 		<Key ID="STR_ZSC_TRANSFER_COINS">
-			<English>Transfer %1.</English>
-			<German>%1 senden.</German>
+			<English>Transfer %1</English>
+			<German>%1 senden</German>
 			<!-- <Russian></Russian> -->
-			<French>Transférer %1.</French>
-			<Spanish>%1 transferidos.</Spanish>
+			<French>Transférer %1</French>
+			<Spanish>%1 transferidos</Spanish>
 		</Key>
 		<Key ID="STR_ZSC_GIVE">
 			<English>Give</English>
