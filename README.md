@@ -19,6 +19,7 @@ Community based Localization / Translation files for popular mods - by salival
 * @dreamforceinc for Russian translations
 * @DAmNRelentless for German translations
 * @juandayz for Spanish translations
+* @FordGH for Russian translations
 
 # Install:
 
