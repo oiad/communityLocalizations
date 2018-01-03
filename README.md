@@ -1,13 +1,15 @@
 # Community localizations/translations
 Community based Localization / Translation files for popular mods - by salival
 
+* Discussion URL: https://epochmod.com/forum/topic/44788-community-based-translations/
+
 # Supported mods:
 
-* ESSv3 spawn script (by [@ebayShopper (repo here)](https://github.com/ebayShopper/ESSV3))
-* ZSC (by [@salival (repo here)](https://github.com/oiad/ZSC))
-* Remote Vehicle (by [@salival (repo here)](https://github.com/oiad/remoteVehicle))
-* Virtual Garage (by [@salival (repo here)](https://github.com/oiad/virtualGarage))
-* Vehicle Key Changer (by [@salival (repo here)](https://github.com/oiad/vkc))
+* ESSv3 spawn script by [@ebayShopper (repo here)](https://github.com/ebayShopper/ESSV3)
+* ZSC by [@salival (repo here)](https://github.com/oiad/ZSC)
+* Remote Vehicle by [@salival (repo here)](https://github.com/oiad/remoteVehicle)
+* Virtual Garage by [@salival (repo here)](https://github.com/oiad/virtualGarage)
+* Vehicle Key Changer by [@salival (repo here)](https://github.com/oiad/vkc)
 
 # Thanks to:
 
