@@ -86,7 +86,7 @@
 			<English>You need a helipad to spawn air vehicles.</English>
 			<French>Vous avez besoin d'un héliport pour engendrer des véhicules aériens.</French>
 			<German>Du benötigst ein Helipad, um Luftfahrzeuge auszuparken.</German>
-			<Russian>Вам нужна вертолетная площадка для спавна авиатехники.</Russian>
+			<Russian>Вам нужна вертолетная площадка, чтобы забрать авиатехнику.</Russian>
 		</Key>
 		<Key ID="STR_VG_STOREDATE">
 			<English>Stored Date</English>
@@ -145,13 +145,13 @@
 		<Key ID="STR_VG_BLACKLISTED">
 			<English>You are unable to store this vehicle in your garage.</English>
 			<German>Es ist nicht möglich dieses Fahrzeug in deiner Garage zu parken.</German>
-			<Russian>Вы не можете поставить данное ТС в гараж.</Russian>
+			<Russian>Вы не можете поставить данную технику в гараж.</Russian>
 			<French>Vous ne pouvez pas stocker ce véhicule dans votre garage.</French>
 		</Key>
 		<Key ID="STR_VG_LIMIT_ARRAY">
 			<English>You can't store any more of this kind of vehicle in your garage.</English>
 			<German>Es ist nicht möglich noch weitere Fahrzeuge dieses Typs in deiner Garage zu parken.</German>
-			<Russian>Вы не можете хранить в гараже больше ТС данного типа.</Russian>
+			<Russian>Вы не можете хранить в гараже больше техники данного типа.</Russian>
 			<French>Vous ne pouvez plus stocker ce type de véhicule dans votre garage.</French>
 		</Key>
 		<Key ID="STR_VG_LIMIT_NUMBER">
@@ -163,7 +163,7 @@
 		<Key ID="STR_VG_STORE_MISSION">
 			<English>You can't store a mission or deployable vehicle.</English>
 			<German>Du kannst kein temporäres Fahrzeug in deiner Garage parken.</German>
-			<Russian>Вы не можете ставить в гараж технику с миссий или скрафченные ТС.</Russian>
+			<Russian>Вы не можете ставить в гараж технику с миссий или скрафченный транспорт.</Russian>
 			<French>Vous ne pouvez pas stocker un véhicule de mission ou déployable.</French>
 		</Key>
 		<Key ID="STR_VG_REQUIRE_KEY">
@@ -561,7 +561,7 @@
 		<Key ID="STR_VKC_FAIL_CURSOR">
 			<English>cursorTarget is not a vehicle.</English>
 			<German>Du schaust nicht richtig auf das Fahrzeug.</German>	
-			<Russian>Цель не является ТС.</Russian>	
+			<Russian>Цель не является транспортным средством.</Russian>	
 		</Key>
 		<Key ID="STR_VKC_FAIL_SUPPORT">
 			<English>Sorry but %1 does not support Keychange/Claiming!</English>
@@ -586,7 +586,7 @@
 		<Key ID="STR_VKC_CLAIM_MESSAGE_1">
 			<English>%1 has been claimed, the new key is: %2</English>
 			<German>%1 wurde beansprucht, der neue Schlüssel ist: %2</German>
-			<Russian>%1 теперь ваше ТС, новый ключ: %2.</Russian>				
+			<Russian>Вы присвоили %1, новый ключ: %2.</Russian>				
 		</Key>
 		<Key ID="STR_VKC_CLAIM_MESSAGE_2">
 			<English>claim the key for</English>
