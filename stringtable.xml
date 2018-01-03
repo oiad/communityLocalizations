@@ -386,10 +386,10 @@
 			<Spanish>Depositaste %1 %2 dentro de %3.</Spanish>
 		</Key>
 		<Key ID="STR_ZSC_GIVE_FAIL">
-			<English>You can not give more than you currently have.</English>
-			<German>Du kannst nicht mehr geben als du gerade hast.</German>
+			<English>You can not give more %1 than you currently have.</English>
+			<German>Du kannst nicht mehr %1 geben als du gerade hast.</German>
 			<Russian>Вы не можете передать больше, чем у вас есть.</Russian>
-			<French>Vous ne pouvez pas donner plus que vous avez.</French>
+			<French>Vous ne pouvez pas donner %1 plus que vous avez.</French>
 			<Spanish>Cristo! No puedes dar mas lo que tienes.</Spanish>
 		</Key>
 		<Key ID="STR_ZSC_GIVE_PLAYER">
