@@ -153,7 +153,7 @@
 		</Key>
 		<Key ID="STR_VG_PLAYERNEARVEHICLE">
 			<English>You can't store a vehicle when a player within 15m of it.</English>
-			<German>Du kannst kein Fahrzeug einparken, in dessen Nähe von 15 Metern sich ein Spieler befindet.</German>
+			<German>Du kannst kein Fahrzeug einparken, wenn sich ein Spieler in dessen Nähe von 15 Metern befindet.</German>
 			<French>Vous ne pouvez pas stocker un véhicule lorsqu'un joueur se trouve à moins de 15 mètres de celui-ci.</French>
 			<Russian>Вы не можете поставить технику в гараж, пока другой игрок находится в радиусе 15м от неё.</Russian>
 			<Spanish>No puedes guardar un vehiculo cuando hay juagadores a menos de 15mts de el.</Spanish>
@@ -188,7 +188,7 @@
 		</Key>
 		<Key ID="STR_VG_STORE_MISSION">
 			<English>You can't store a mission or deployable vehicle.</English>
-			<German>Du kannst kein temporäres Fahrzeug in deiner Garage parken.</German>
+			<German>Du kannst kein Fahrzeug ohne Schlüssel in deiner Garage parken.</German>
 			<Russian>Вы не можете ставить в гараж технику с миссий или скрафченный транспорт.</Russian>
 			<French>Vous ne pouvez pas stocker un véhicule de mission ou déployable.</French>
 			<Spanish>No puedes guardar vehiculos de mision y/o desplegables.</Spanish>
@@ -457,7 +457,7 @@
 		</Key>
 		<Key ID="STR_ZSC_GLOBAL_DEPOSIT_FAIL">
 			<English>You can only have a maximum of %1 %2.</English>
-			<German>Du kannst nur %1 %2 haben.</German>
+			<German>Du kannst maximal %1 %2 haben.</German>
 			<Russian>Вы можете иметь максимум %1 %2.</Russian>
 			<French>Vous pouvez seulement avoir un maximum de %1 %2.</French>
 			<Spanish>Solo puedes tener un maximo de %1 %2.</Spanish>
