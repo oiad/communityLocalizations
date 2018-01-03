@@ -161,7 +161,7 @@
 		<Key ID="STR_VG_STORE_MISSION">
 			<English>You can't store a mission or deployable vehicle.</English>
 			<German>Du kannst kein Fahrzeug ohne Schlüssel in deiner Garage parken.</German>
-			<Russian>Вы не можете ставить в гараж технику с миссий или скрафченную технику.</Russian>
+			<Russian>Вы не можете ставить в гараж технику с миссий или скрафченный транспорт.</Russian>
 			<French>Vous ne pouvez pas stocker un véhicule de mission ou déployable.</French>
 		</Key>
 		<Key ID="STR_VG_REQUIRE_KEY">
