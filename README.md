@@ -3,11 +3,11 @@ Community based Localization / Translation files for popular mods - by salival
 
 # Supported mods:
 
-* ESSv3 spawn script (by [@ebayShopper](https://github.com/ebayShopper/ESSV3))
-* ZSC (by [@salival](https://github.com/oiad/ZSC))
-* Remote Vehicle (by [@salival](https://github.com/oiad/remoteVehicle))
-* Virtual Garage (by [@salival](https://github.com/oiad/virtualGarage))
-* Vehicle Key Changer (by [@salival](https://github.com/oiad/vkc))
+* ESSv3 spawn script (by [@ebayShopper (repo here)](https://github.com/ebayShopper/ESSV3))
+* ZSC (by [@salival (repo here)](https://github.com/oiad/ZSC))
+* Remote Vehicle (by [@salival (repo here)](https://github.com/oiad/remoteVehicle))
+* Virtual Garage (by [@salival (repo here)](https://github.com/oiad/virtualGarage))
+* Vehicle Key Changer (by [@salival (repo here)](https://github.com/oiad/vkc))
 
 # Thanks to:
 
@@ -20,7 +20,7 @@ Community based Localization / Translation files for popular mods - by salival
 
 # Install:
 
-1. Make sure any mods you have installed on your server that have a <code>stringtable.xml</code> are compatible with this repo.
+1. Make sure any mods you have installed on your server that have a <code>stringtable.xml</code> are compatible with this repo. [here](https://github.com/oiad/communityLocalizations/#supported-mods)
 1. Copy the supplied <code>stringTable.xml</code> to your mission folder.
 
 **[>> Download <<](https://github.com/oiad/communityLocalizations/archive/master.zip)**
