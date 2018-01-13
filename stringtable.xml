@@ -253,7 +253,7 @@
 			<English>Vehicles</English>
 			<German>Fahrzeuge</German>
 			<Russian>в гараже</Russian>
-		<!--	<French></French>	-->
+			<French>Véhicules</French>
 			<Spanish>Vehiculos</Spanish>
 		</Key>
 		<Key ID="STR_VG_VEHICLE_INFO">
