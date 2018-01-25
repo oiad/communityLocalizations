@@ -14,12 +14,13 @@ Community based Localization / Translation files for popular mods - by salival
 # Thanks to:
 
 * @ebayShopper for original ESSv3 translations
-* @A Man for German translations
-* @TheDuke77 for French translations
-* @dreamforceinc for Russian translations
+* @AMan for German translations
 * @DAmNRelentless for German translations
+* @TheDuke77 for French translations
 * @juandayz for Spanish translations
+* @dreamforceinc for Russian translations
 * @FordGH for Russian translations
+* @Snowman for Russian translations
 
 # Install:
 
