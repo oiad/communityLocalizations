@@ -10,6 +10,7 @@ Community based Localization / Translation files for popular mods - by salival
 * Remote Vehicle by [@salival (repo here)](https://github.com/oiad/remoteVehicle)
 * Virtual Garage by [@salival (repo here)](https://github.com/oiad/virtualGarage)
 * Vehicle Key Changer by [@salival (repo here)](https://github.com/oiad/vkc)
+* Vehicle Service Points by [@salival (repo here)](https://github.com/oiad/service_points)
 
 # Thanks to:
 
