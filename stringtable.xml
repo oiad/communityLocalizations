@@ -245,8 +245,8 @@
 		<Key ID="STR_VG_NEED_COINS">
 			<English>You need %1 %2 to store your %3.</English>
 			<German>Du benötigst %1 %2 um dein %3 zu parken.</German>
-			<Russian>Вам нужно %1 %2, чтобы поставить в гараж %3</Russian>
-			<French>Vous avez besoin de %1 %2 pour stocker votre %3</French>
+			<Russian>Вам нужно %1 %2, чтобы поставить в гараж %3.</Russian>
+			<French>Vous avez besoin de %1 %2 pour stocker votre %3.</French>
 			<Spanish>Necesitas %1 %2 para almacenar tu %3.</Spanish>
 		</Key>
 		<Key ID="STR_VG_NEED_BRIEFCASES">
@@ -636,14 +636,14 @@
 			<German>Motor %1 in: %2</German>
 			<French>Activer ou désactiver le moteur %1 dans: %2.</French>
 			<Spanish>Apagando el motor %1 en: %2</Spanish>
-			<Russian>Двигатель %1 в: %2.</Russian>
+			<Russian>%2: Двигатель %1</Russian>
 		</Key>
 		<Key ID="STR_RV_LIGHTS">
 			<English>Toggled lights %1: %2</English>
 			<German>Licht %1 in: %2</German>
 			<French>Activer ou désactiver les lumières %1: %2.</French>
 			<Spanish>Apagando Luces %1: %2</Spanish>
-			<Russian>Фары %1 в: %2.</Russian>
+			<Russian>%2: Фары %1</Russian>
 		</Key>
 	</Package>
 
@@ -815,12 +815,12 @@
 		<Key ID="STR_SP_FAIL_COINS">
 			<English>You need %1 %2 to %3 your %4.</English>
 			<German>Du benötigst %1 %2 um %4 zu %3.</German>
-			<Russian>Вам необходимо %1 %2 для %3 Вашего %4.</Russian>
+			<Russian>Вам необходимо %1 %2 для %3 вашего %4.</Russian>
 		</Key>
 		<Key ID="STR_SP_FAIL_BRIEFCASES">
 			<English>You need %1 to %2 your %3.</English>
 			<German>Du benötigst %1 um %3 zu %2.</German>
-			<Russian>Вам необходимо %1 для %2 Вашего %3.</Russian>
+			<Russian>Вам необходимо %1 для %2 вашего %3.</Russian>
 		</Key>
 	</Package>
 </Project>
