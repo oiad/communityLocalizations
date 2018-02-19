@@ -823,10 +823,4 @@
 			<Russian>Вам необходимо %1 для %2 Вашего %3.</Russian>
 		</Key>
 	</Package>
-
-	<Package name="test">
-		<Key ID="TEST">
-			<English>test</English>
-		</Key>
-	</Package>
 </Project>
