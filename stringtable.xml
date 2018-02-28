@@ -981,10 +981,6 @@
 			<English>Select the vehicle that you want to tow %1 with</English>
 			<German>Wähle das Fahrzeug aus, mit welchem du %1 abschleppen willst.</German>
 		</Key>
-		<Key ID="STR_CL_LOG_TOW_OK">
-			<English>%1 is now being towed.</English>
-			<German>%1 wird nun abgeschleppt.</German>
-		</Key>
 		<Key ID="STR_CL_LOG_TOW_FAR">
 			<English>%1 is too far from the towing vehicle to be towed.</English>
 			<German>%1 ist zu weit vom abschleppenden Fahrzeug entfernt.</German>
