@@ -17,6 +17,7 @@ Community based Localization / Translation files for popular mods - by salival
 * Garage Door Opener by [(repo here)](https://github.com/oiad/garageDoorOpener)
 * Logistic (to be released) by [(repo here)](https://github.com/oiad/logistic)
 * Click Actions/Deploy Anything by [(repo here)](https://github.com/oiad/deployAnything)
+* Safe Zones by [@BigEgg17 (repo here)](https://github.com/BigEgg17/Safe-Zones)
 
 # Thanks to:
 
