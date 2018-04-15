@@ -1096,4 +1096,31 @@
 			<German>Du hast %1 (abschließbar) gebaut, der Schlüssel ist: %2</German>
 		</Key>
 	</Package>
+	
+	<Package name="Safe_Zones">
+		<Key ID="STR_CL_SZ_ENTER">
+			<English>You entered a safe zone!</English>
+		</Key>
+		<Key ID="STR_CL_SZ_EXIT">
+			<English>You left the safe zone!</English>
+		</Key>
+		<Key ID="STR_CL_SZ_GEAR">
+			<English>You cannot open the gear of another player's vehicle!</English>
+		</Key>
+		<Key ID="STR_CL_SZ_FIRE">
+			<English>You cannot fire your weapon in a safe zone!</English>
+		</Key>
+		<Key ID="STR_CL_SZ_OWNER">
+			<English>You have been set as this vehicle's owner.</English>
+		</Key>
+		<Key ID="STR_CL_SZ_ENDING">
+			<English>Protection ending in %1 second(s)!</English>
+		</Key>
+		<Key ID="STR_CL_SZ_TIME">
+			<English>You were only in the safe zone for %1 second(s)!</English>
+		</Key>
+		<Key ID="STR_CL_SZ_DISABLED">
+			<English>Protection disabled!</English>
+		</Key>
+	</Package>
 </Project>
