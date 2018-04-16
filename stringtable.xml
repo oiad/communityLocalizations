@@ -1100,34 +1100,42 @@
 	<Package name="Safe_Zones">
 		<Key ID="STR_CL_SZ_ENTER">
 			<English>You entered a safe zone!</English>
+			<German>Du hast eine Safezone betreten!</German>
 			<Russian>Вы вошли в безопасную зону!</Russian>
 		</Key>
 		<Key ID="STR_CL_SZ_EXIT">
 			<English>You left the safe zone!</English>
+			<German>Du hast die Safezone verlassen!</German>
 			<Russian>Вы покинули безопасную зону!</Russian>
 		</Key>
 		<Key ID="STR_CL_SZ_GEAR">
 			<English>You cannot open the gear of another player's vehicle!</English>
+			<German>Du kannst nicht in die Fahrzeugausrüstung eines anderen Spielers schauen!</German>
 			<Russian>Вы не можете открыть инвентарь чужой техники!</Russian>
 		</Key>
 		<Key ID="STR_CL_SZ_FIRE">
 			<English>You cannot fire your weapon in a safe zone!</English>
+			<German>Du kannst in einer Safezone nicht schießen!</German>
 			<Russian>Вы не можете стрелять в безопасной зоне!</Russian>
 		</Key>
 		<Key ID="STR_CL_SZ_OWNER">
 			<English>You have been set as this vehicle's owner.</English>
+			<German>Du wurdest als Besitzer dieses Fahrzeugs gesetzt.</German>
 			<Russian>Вы стали владельцем этой техники.</Russian>
 		</Key>
 		<Key ID="STR_CL_SZ_ENDING">
 			<English>Protection ending in %1 second(s)!</English>
+			<German>Der Safezone-Schutz endet in %1 Sekunde(n)!</German>
 			<Russian>Защита перестанет действовать через %1 сек.!</Russian>
 		</Key>
 		<Key ID="STR_CL_SZ_TIME">
 			<English>You were only in the safe zone for %1 second(s)!</English>
+			<German>Du warst nur %1 Sekunde(n) in der Safezone!</German>
 			<Russian>Вы были в безопасной зоне %1 сек.!</Russian>
 		</Key>
 		<Key ID="STR_CL_SZ_DISABLED">
 			<English>Protection disabled!</English>
+			<German>Safezone-Schutz deaktiviert!</German>
 			<Russian>Защита отключена!</Russian>
 		</Key>
 	</Package>
