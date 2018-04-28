@@ -750,6 +750,9 @@
 			<Russian>присвоено</Russian>
 			<Spanish>reclamado</Spanish>
 		</Key>
+		<Key ID="STR_CL_VKC_WAIT">
+			<English>Please wait while your vehicle is being prepared.</English>
+		</Key>
 		<Key ID="STR_CL_VKC_FAIL_KEYS">
 			<English>No valid keys were found in your inventory.</English>
 			<German>Es wurden keine geeigneten Schlüssel in deinem Inventar gefunden.</German>
