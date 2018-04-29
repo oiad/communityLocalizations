@@ -6,17 +6,17 @@ Community based Localization / Translation files for popular mods - by salival
 # Supported mods:
 
 * ESSv3 spawn script by [@ebayShopper (repo here)](https://github.com/ebayShopper/ESSV3)
-* ZSC by [(repo here)](https://github.com/oiad/ZSC)
-* Remote Vehicle by [(repo here)](https://github.com/oiad/remoteVehicle)
-* Virtual Garage by [(repo here)](https://github.com/oiad/virtualGarage)
-* Vehicle Key Changer by [(repo here)](https://github.com/oiad/vkc)
-* Vehicle Service Points by [(repo here)](https://github.com/oiad/service_points)
-* Locate Vehicle by [(repo here)](https://github.com/oiad/locateVehicle)
-* Take Clothes by [(repo here)](https://github.com/oiad/takeClothes)
-* Bury Actions by [(repo here)](https://github.com/oiad/buryActions)
-* Garage Door Opener by [(repo here)](https://github.com/oiad/garageDoorOpener)
-* Logistic (to be released) by [(repo here)](https://github.com/oiad/logistic)
-* Click Actions/Deploy Anything by [(repo here)](https://github.com/oiad/deployAnything)
+* ZSC [(repo here)](https://github.com/oiad/ZSC)
+* Remote Vehicle [(repo here)](https://github.com/oiad/remoteVehicle)
+* Virtual Garage [(repo here)](https://github.com/oiad/virtualGarage)
+* Vehicle Key Changer [(repo here)](https://github.com/oiad/vkc)
+* Vehicle Service Points [(repo here)](https://github.com/oiad/service_points)
+* Locate Vehicle [(repo here)](https://github.com/oiad/locateVehicle)
+* Take Clothes [(repo here)](https://github.com/oiad/takeClothes)
+* Bury Actions [(repo here)](https://github.com/oiad/buryActions)
+* Garage Door Opener [(repo here)](https://github.com/oiad/garageDoorOpener)
+* Logistic (to be released) [(repo here)](https://github.com/oiad/logistic)
+* Click Actions/Deploy Anything [(repo here)](https://github.com/oiad/deployAnything)
 * Safe Zones by [@BigEgg17 (repo here)](https://github.com/BigEgg17/Safe-Zones)
 
 # Thanks to:
