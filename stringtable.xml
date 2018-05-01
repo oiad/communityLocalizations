@@ -752,6 +752,7 @@
 		</Key>
 		<Key ID="STR_CL_VKC_WAIT">
 			<English>Please wait while your vehicle is being prepared.</English>
+			<German>Bitte warten, während dein Fahrzeug vorbereitet wird.</German>
 		</Key>
 		<Key ID="STR_CL_VKC_FAIL_KEYS">
 			<English>No valid keys were found in your inventory.</English>
