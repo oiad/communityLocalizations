@@ -752,6 +752,7 @@
 		</Key>
 		<Key ID="STR_CL_VKC_WAIT">
 			<English>Please wait while your vehicle is being prepared.</English>
+			<Russian>Подождите, пока ваша техника будет готова.</Russian>
 			<German>Bitte warten, während dein Fahrzeug vorbereitet wird.</German>
 		</Key>
 		<Key ID="STR_CL_VKC_FAIL_KEYS">
