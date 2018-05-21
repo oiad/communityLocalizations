@@ -18,7 +18,7 @@ Community based Localization / Translation files for popular mods - by salival
 * Logistic (to be released) [(repo here)](https://github.com/oiad/logistic)
 * Click Actions/Deploy Anything [(repo here)](https://github.com/oiad/deployAnything)
 * Safe Zones by [@BigEgg17 (repo here)](https://github.com/BigEgg17/Safe-Zones)
-* Change code by [(repo here)](https://github.com/oiad/changeCode)
+* Change code [(repo here)](https://github.com/oiad/changeCode)
 
 # Thanks to:
 
