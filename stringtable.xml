@@ -1144,4 +1144,16 @@
 			<Russian>Защита отключена!</Russian>
 		</Key>
 	</Package>
+
+	<Package name="changeCode">
+		<Key ID="STR_CL_CC_CODE_INVALID">
+			<English>You entered an invalid code.</English>
+		</Key>
+		<Key ID="STR_CL_CC_CODE_CHANGED">
+			<English>The code has been changed to: %1</English>
+		</Key>
+		<Key ID="STR_CL_CC_CODE_CHANGE">
+			<English>Change %1 code</English>
+		</Key>
+	</Package>
 </Project>

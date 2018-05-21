@@ -18,6 +18,7 @@ Community based Localization / Translation files for popular mods - by salival
 * Logistic (to be released) [(repo here)](https://github.com/oiad/logistic)
 * Click Actions/Deploy Anything [(repo here)](https://github.com/oiad/deployAnything)
 * Safe Zones by [@BigEgg17 (repo here)](https://github.com/BigEgg17/Safe-Zones)
+* Change code by [(repo here)](https://github.com/oiad/changeCode)
 
 # Thanks to:
 
@@ -32,7 +33,7 @@ Community based Localization / Translation files for popular mods - by salival
 
 # Install:
 
-1. Make sure any mods you have installed on your server that have a <code>stringtable.xml</code> are compatible with this repo. [here](https://github.com/oiad/communityLocalizations/#supported-mods)
+1. Make sure any mods you have installed on your server that have a <code>stringTable.xml</code> are compatible with this repo. [here](https://github.com/oiad/communityLocalizations/#supported-mods)
 1. Copy the supplied <code>stringTable.xml</code> to your mission folder.
 
 **[>> Download <<](https://github.com/oiad/communityLocalizations/archive/master.zip)**
