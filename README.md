@@ -30,6 +30,7 @@ Community based Localization / Translation files for popular mods - by salival
 * @dreamforceinc for Russian translations
 * @FordGH for Russian translations
 * @Snowman for Russian translations
+* @RedLink-kam for Russian translations
 
 # Install:
 
