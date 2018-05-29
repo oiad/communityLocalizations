@@ -1149,14 +1149,17 @@
 		<Key ID="STR_CL_CC_CODE_INVALID">
 			<English>You entered an invalid code.</English>
 			<German>Du hast einen ungültigen Code eingegeben.</German>
+			<Russian>Вы ввели неправильный код!</Russian>
 		</Key>
 		<Key ID="STR_CL_CC_CODE_CHANGED">
 			<English>The code has been changed to: %1</English>
 			<German>Der Code wurde auf %1 geändert.</German>
+			<Russian>Код был изменен на: %1</Russian>
 		</Key>
 		<Key ID="STR_CL_CC_CODE_CHANGE">
 			<English>Change %1 code</English>
 			<German>%1 Code ändern</German>
+			<Russian>Изменить %1 код</Russian>
 		</Key>
 	</Package>
 </Project>
