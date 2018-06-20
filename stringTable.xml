@@ -1377,17 +1377,17 @@
 			<German>Die Polizei hat all die Drogen an sich genommen.</German>
 			<!-- <Russian></Russian> -->
 		</Key>
-		<Key ID="STR_CL_GENERAL_FARMER_ANNOUNCE">
+		<Key ID="STR_CL_BANDIT_FARMER_ANNOUNCE">
 			<English>A farmer is selling supplies at his farm!</English>
 			<German>Ein Farmer verkauft Materialien auf seiner Farm!</German>
 			<!-- <Russian></Russian> -->
 		</Key>
-		<Key ID="STR_CL_GENERAL_FARMER_WIN">
+		<Key ID="STR_CL_BANDIT_FARMER_WIN">
 			<English>Bandits have killed the farmer's workers.</English>
 			<German>Banditen haben die Mitarbeiter des Farmers getötet.</German>
 			<!-- <Russian></Russian> -->
 		</Key>
-		<Key ID="STR_CL_GENERAL_FARMER_FAIL">
+		<Key ID="STR_CL_BANDIT_FARMER_FAIL">
 			<English>The farmer has sold all of his supplies.</English>
 			<German>Der Farmer hat all seine Materialien verkauft.</German>
 			<!-- <Russian></Russian> -->
@@ -1482,17 +1482,17 @@
 			<German>Das Holz des Sägewerkes wird abtransportiert.</German>
 			<!-- <Russian></Russian> -->
 		</Key>
-		<Key ID="STR_CL_BANDIT_THEFARM_ANNOUNCE">
+		<Key ID="STR_CL_GENERAL_FARM_ANNOUNCE">
 			<English>Old MacDonald has a weed farm!</English>
 			<German>Old MacDonald hat eine Cannabis-Farm!</German>
 			<!-- <Russian></Russian> -->
 		</Key>
-		<Key ID="STR_CL_BANDIT_THEFARM_WIN">
+		<Key ID="STR_CL_GENERAL_FARM_WIN">
 			<English>Survivors have secured the weed farm.</English>
 			<German>Überlebende haben die Cannabis-Farm eingenommen.</German>
 			<!-- <Russian></Russian> -->
 		</Key>
-		<Key ID="STR_CL_BANDIT_THEFARM_FAIL">
+		<Key ID="STR_CL_GENERAL_FARM_FAIL">
 			<English>Survivors did not secure the weed farm.</English>
 			<German>Das Cannabis wurde geerntet. Die Farm ist nun leer.</German>
 			<!-- <Russian></Russian> -->
