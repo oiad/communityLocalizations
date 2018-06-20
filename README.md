@@ -19,12 +19,15 @@ Community based Localization / Translation files for popular mods - by salival
 * Click Actions/Deploy Anything [(repo here)](https://github.com/oiad/deployAnything)
 * Safe Zones by [@BigEgg17 (repo here)](https://github.com/BigEgg17/Safe-Zones)
 * Change code [(repo here)](https://github.com/oiad/changeCode)
+* WAI by [@worldwidesorrow (repo here)](https://github.com/worldwidesorrow/WICKED-AI)
 
 # Thanks to:
 
 * @ebayShopper for original ESSv3 translations
-* @AMan for German translations
+* @BigEgg17 for original Safe Zones translations
+* @worldwidesorrow for original WAI translations
 * @DAmNRelentless for German translations
+* @AMan for German translations
 * @TheDuke77 for French translations
 * @juandayz for Spanish translations
 * @dreamforceinc for Russian translations
