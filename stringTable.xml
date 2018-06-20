@@ -1215,4 +1215,852 @@
 			<Russian>Изменить %1 код</Russian>
 		</Key>
 	</Package>
+	
+<Package name="WickedAI">
+		<Key ID="STR_CL_MISSION_ANNOUNCE">
+			<English>Mission Announcement</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_MINEFIELD_WARNING">
+			<English>WARNING: You are approaching a live minefield!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_ABANDONEDTRADER_ANNOUNCE">
+			<English>Heroes are securing an abandoned trader</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_ABANDONEDTRADER_WIN">
+			<English>Bandits have secured the abandoned trader</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_ABANDONEDTRADER_FAIL">
+			<English>Bandits did not secure the abandoned trader</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_ARMEDVEHICLE_ANNOUNCE">
+			<English>Heroes have taken an armed vehicle from the bandits!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_ARMEDVEHICLE_WIN">
+			<English>Bandits have secured the armed vehicle!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_ARMEDVEHICLE_FAIL">
+			<English>Bandits did not secure the armed vehicle</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_ARMYBASE_ANNOUNCE">
+			<English>The ARMY set up a guarded base</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_ARMYBASE_WIN">
+			<English>Survivors have secured the ARMY Base</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_ARMYBASE_FAIL">
+			<English>Survivors did not secure the ARMY Base</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_BHCRASH_ANNOUNCE">
+			<English>A Hero Black Hawk carrying supplies has crashed!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_BHCRASH_WIN">
+			<English>Bandits have secured the crashed Black Hawk!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_BHCRASH_FAIL">
+			<English>Bandits did not secure the crashed Black Hawk</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_URAL_ANNOUNCE">
+			<English>Heroes are defending a broken down Ural!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_URAL_WIN">
+			<English>The supplies have been secured by bandits!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_URAL_FAIL">
+			<English>Bandits failed to secure the supplies</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_CANNIBALCAVE_ANNOUNCE">
+			<English>Cannibals are hiding in a cave</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_CANNIBALCAVE_WIN">
+			<English>Survivors secured the Cannibal Cave</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_CANNIBALCAVE_FAIL">
+			<English>Survivors did not secure the Cannibal Cave</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_MV22_ANNOUNCE">
+			<English>A group of red cross volunteers are giving away medical supplies</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_MV22_WIN">
+			<English>Bandits have murdered the volunteers</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_MV22_FAIL">
+			<English>The medical supplies have been given away</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_CROPRAIDER_ANNOUNCE">
+			<English>Crooked cops are about to raid the weed crops of a hippie commune</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_CROPRAIDER_WIN">
+			<English>Survivors saved the hippie commune</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_CROPRAIDER_FAIL">
+			<English>Survivors did not save the hippie commune</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_DRONEPILOT_ANNOUNCE">
+			<English>Heroes are training drone pilots at a secret airfield</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_DRONEPILOT_WIN">
+			<English>Survivors have secured the drones</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_DRONEPILOT_FAIL">
+			<English>Survivors did not secure the drones</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_DRUGBUST_ANNOUNCE">
+			<English>Police are about to raid a drug dealer!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_DRUGBUST_WIN">
+			<English>Bandits have secured the drugs!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_DRUGBUST_FAIL">
+			<English>Bandits did not secure the drugs</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_FARMER_ANNOUNCE">
+			<English>A farmer is selling supplies at his farm</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_FARMER_WIN">
+			<English>Bandits have killed the farmer's workers</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_FARMER_FAIL">
+			<English>The farmer has sold all of his supplies</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_GEMTOWER_ANNOUNCE">
+			<English>GEM TOWER! Climb up the tower and down the other side to get the loot</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_GEMTOWER_WIN">
+			<English>Survivors captured the Gem Tower</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_GEMTOWER_FAIL">
+			<English>Survivors were unable to capture the Gem Tower</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_HEROBASE_ANNOUNCE">
+			<English>Heroes have setup a heavily fortified base</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_HEROBASE_WIN">
+			<English>Bandits have captured the Hero base</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_HEROBASE_FAIL">
+			<English>Bandits did not capture the Hero base</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_HEROOUTPOST_ANNOUNCE">
+			<English>A Hero Squad has started an outpost</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_HEROOUTPOST_WIN">
+			<English>Bandits have secured the outpost!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_HEROOUTPOST_FAIL">
+			<English>Bandits did not secure the outpost</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_IKEA_ANNOUNCE">
+			<English>AN IKEA convoy is taking a lunch break</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_IKEA_WIN">
+			<English>Bandits have ambushed the IKEA convoy</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_IKEA_FAIL">
+			<English>Bandits did not secure the IKEA convoy</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_JUNKYARD_ANNOUNCE">
+			<English>Heroes are hiding something in a junk yard</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_JUNKYARD_WIN">
+			<English>Survivors have secured the Junk Yard</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_JUNKYARD_FAIL">
+			<English>Survivors did not secure the Junk Yard</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_LUMBERMILL_ANNOUNCE">
+			<English>Heroes are setting up a lumber mill</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_LUMBERMILL_WIN">
+			<English>Survivors secured the lumber</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_LUMBERMILL_FAIL">
+			<English>Survivors did not secure the lumber</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_THEFARM_ANNOUNCE">
+			<English>Old MacDonald has a weed farm</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_THEFARM_WIN">
+			<English>Survivors have secured the weed farm</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_THEFARM_FAIL">
+			<English>Survivors did not secure the weed farm</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_MSC_ANNOUNCE">
+			<English>A soldier squad have set up a medical supply camp!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_MSC_WIN">
+			<English>Survivors have taken control of the medical supply camp!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_MSC_FAIL">
+			<English>Survivors were unable to capture the medical supply camp</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_PATROL_ANNOUNCE">
+			<English>Heroes have started to patrol in %1</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_PATROL_WIN">
+			<English>Bandits have taken out the hero patrol!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_PATROL_FAIL">
+			<English>Heroes managed to reach their destination</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_PRESIDENT_ANNOUNCE">
+			<English>The President is in town for a press conference</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_PRESIDENT_WIN">
+			<English>The President has been assassinated</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_PRESIDENT_FAIL">
+			<English>The President managed to get away</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_RADIOTOWER_ANNOUNCE">
+			<English>Heroes set up a radio tower</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_RADIOTOWER_WIN">
+			<English>Survivors secured the Radio Tower</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_RADIOTOWER_FAIL">
+			<English>Survivors did not secure the Radio Tower</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_SLAUGHTERHOUSE_ANNOUNCE">
+			<English>Something smells funky at the Old Slaughter House</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_SLAUGHTERHOUSE_WIN">
+			<English>Survivors have secured the Slaughter House</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_SLAUGHTERHOUSE_FAIL">
+			<English>Survivors have discovered a mass grave</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_EXTRACTION_ANNOUNCE">
+			<English>Heroes are loading captured sniper rifles onto a chopper</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_EXTRACTION_WIN">
+			<English>Bandits have secured the snipers and taken the chopper!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_EXTRACTION_FAIL">
+			<English>Bandits did not secure the sniper rifles</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_TANK_ANNOUNCE">
+			<English>A U.N tank column stopped to resupply at an outpost</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_TANK_WIN">
+			<English>Survivors have secured the tank column</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_TANK_FAIL">
+			<English>Survivors were unable to secure the tank column</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_WEAPONCACHE_ANNOUNCE">
+			<English>Heroes have obtained a weapon cache</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_WEAPONCACHE_WIN">
+			<English>Bandits have secured the weapon cache!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_BANDIT_WEAPONCACHE_FAIL">
+			<English>Bandits did not secure the weapon cache</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_ABANDONEDTRADER_ANNOUNCE">
+			<English>Bandits are securing an abandoned trader</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_ABANDONEDTRADER_WIN">
+			<English>Survivors have secured the abandoned trader</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_ABANDONEDTRADER_FAIL">
+			<English>Survivors did not secure the abandoned trader</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_ARMEDVEHICLE_ANNOUNCE">
+			<English>Bandits have disabled an armed vehicle</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_ARMEDVEHICLE_WIN">
+			<English>Survivors have secured the armed vehicle!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_ARMEDVEHICLE_FAIL">
+			<English>Survivors did not secure the armed vehicle</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_ARMYBASE_ANNOUNCE">
+			<English>The ARMY set up a guarded base</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_ARMYBASE_WIN">
+			<English>Survivors have secured the ARMY Base</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_ARMYBASE_FAIL">
+			<English>Survivors did not secure the ARMY Base</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_BANDITBASE_ANNOUNCE">
+			<English>A jungle task force have set up a temporary encampment!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_BANDITBASE_WIN">
+			<English>Survivors captured the base</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_BANDITBASE_FAIL">
+			<English>Survivors were unable to capture the base</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_BANDITOUTPOST_ANNOUNCE">
+			<English>A Bandit Squad has started an outpost</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_BANDITOUTPOST_WIN">
+			<English>Survivors have secured the outpost!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_BANDITOUTPOST_FAIL">
+			<English>Survivors did not secure the outpost</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_BANDITPATROL_ANNOUNCE">
+			<English>A bandit scout patrol is checking out a new base location</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_BANDITPATROL_WIN">
+			<English>Survivors have dealt with the scout patrol!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_BANDITPATROL_FAIL">
+			<English>Survivors did not deal with the scout patrol</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_BHCRASH_ANNOUNCE">
+			<English>A Black Hawk carrying supplies has crashed</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_BHCRASH_WIN">
+			<English>Survivors have secured the crashed Black Hawk!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_BHCRASH_FAIL">
+			<English>Survivors did not secure the crashed Black Hawk in time</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_CANNIBAL_ANNOUNCE">
+			<English>Cannibals are hiding in a cave</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_CANNIBAL_WIN">
+			<English>Survivors secured the Cannibal Cave</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_CANNIBAL_FAIL">
+			<English>Survivors did not secure the Cannibal Cave</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_MV22_ANNOUNCE">
+			<English>Bandits have captured a Red Cross MV-22!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_MV22_WIN">
+			<English>Survivors have secured the MV-22!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_MV22_FAIL">
+			<English>Survivors did not secure the MV-22</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_CROPRAIDER_ANNOUNCE">
+			<English>Crooked cops are about to raid the weed crops of a hippie commune</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_CROPRAIDER_WIN">
+			<English>Survivors saved the hippie commune</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_CROPRAIDER_FAIL">
+			<English>Survivors did not save the hippie commune</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_URAL_ANNOUNCE">
+			<English>Bandits have destroyed a Ural with supplies</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_URAL_WIN">
+			<English>The supplies have been secured by survivors!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_URAL_FAIL">
+			<English>Survivors did not secure the supplies in time</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_MILCHOPPER_ANNOUNCE">
+			<English>A bandit helicopter is taking off with a crate of snipers!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_MILCHOPPER_WIN">
+			<English>Survivors have secured the armed chopper!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_MILCHOPPER_FAIL">
+			<English>Survivors did not secure the armed chopper in time</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_DRONE_ANNOUNCE">
+			<English>Bandits are training drone pilots at a secret airfield</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_DRONE_WIN">
+			<English>Survivors have secured the drones</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_DRONE_FAIL">
+			<English>Survivors did not secure the drones</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_DRUGBUST_ANNOUNCE">
+			<English>Bandits have set up a Crack House!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_DRUGBUST_WIN">
+			<English>Survivors have secured the Crack House!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_DRUGBUST_FAIL">
+			<English>Survivors did not secure the Crack House</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_FARMER_ANNOUNCE">
+			<English>Bandits are attacking a farmer and stealing his supplies</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_FARMER_WIN">
+			<English>Survivors have secured the farm</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_FARMER_FAIL">
+			<English>Bandits robbed the farmer</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_GEMTOWER_ANNOUNCE">
+			<English>GEM TOWER! Climb up the tower and down the other side to get the loot</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_GEMTOWER_WIN">
+			<English>Survivors captured the Gem Tower</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_GEMTOWER_FAIL">
+			<English>Survivors were unable to capture the Gem Tower</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_IKEA_ANNOUNCE">
+			<English>An IKEA delivery has been hijacked by bandits</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_IKEA_WIN">
+			<English>Survivors have secured the building supplies!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_IKEA_FAIL">
+			<English>Survivors did not secure the convoy in time</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_JUNKYARD_ANNOUNCE">
+			<English>Bandits are hiding something in a junk yard</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_JUNKYARD_WIN">
+			<English>Survivors have secured the Junk Yard</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_JUNKYARD_FAIL">
+			<English>Survivors did not secure the Junk Yard</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_LUMBER_ANNOUNCE">
+			<English>Bandits set up a lumber mill</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_LUMBER_WIN">
+			<English>Survivors secured the lumber</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_LUMBER_FAIL">
+			<English>Survivors did not secure the lumber</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_FARM_ANNOUNCE">
+			<English>Old MacDonald has a weed farm</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_FARM_WIN">
+			<English>Survivors have secured the weed farm</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_FARM_FAIL">
+			<English>Survivors did not secure the weed farm</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_MAYOR_ANNOUNCE">
+			<English>The Mayor has gone rogue!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_MAYOR_WIN">
+			<English>The rogue mayor has been taken out!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_MAYOR_FAIL">
+			<English>Survivors were unable to take the mayor down</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_MSC_ANNOUNCE">
+			<English>Bandits have taken over a medical supply camp!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_MSC_WIN">
+			<English>Survivors have secured the medical supply camp!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_MSC_FAIL">
+			<English>Survivors did not secure the medical supply camp</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_PATROL_ANNOUNCE">
+			<English>Bandits have started to patrol in %1</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_PATROL_WIN">
+			<English>Heroes have taken out the bandit patrol!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_PATROL_FAIL">
+			<English>Bandits managed to reach their destination</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_RADIO_ANNOUNCE">
+			<English>Bandits set up a radio tower</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_RADIO_WIN">
+			<English>Survivors secured the radio tower</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_RADIO_FAIL">
+			<English>Survivors did not secure the radio tower</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_SLAUGHTER_ANNOUNCE">
+			<English>Something smells funky down at the old Slaughter House</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_SLAUGHTER_WIN">
+			<English>Survivors have captured the Slaughter House</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_SLAUGHTER_FAIL">
+			<English>Survivors were unable to capture the Slaughter House</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_TANK_ANNOUNCE">
+			<English>A bandit tank column stopped to resupply at an outpost</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_TANK_WIN">
+			<English>Survivors have secured the tank column</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_TANK_FAIL">
+			<English>Survivors did not secure the tank column</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_WEAPONCACHE_ANNOUNCE">
+			<English>Bandits have obtained a weapon crate</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_WEAPONCACHE_WIN">
+			<English>Survivors have secured the weapon cache!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_HERO_WEAPONCACHE_FAIL">
+			<English>Survivors did not secure the weapon cache</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_PATROL_ARRIVE">
+			<English>The patrol arrived at %1, heading towards %2</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_PATROL_MOVE">
+			<English>The patrol is seen moving towards %1</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_AUTOCLAIM_ANNOUNCE">
+			<English>AutoClaim: If you want to claim %1, then do not leave the mission area for %2 seconds!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_AUTOCLAIM_NOCLAIM">
+			<English>AutoClaim: You did not claim %1</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_AUTOCLAIM_RETURN">
+			<English>You have left the mission area, you have %1 seconds to return!</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_AUTOCLAIM_RECLAIM">
+			<English>You are back in the mission area</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_AUTOCLAIM_CLAIM">
+			<English>AutoClaim: %1 has claimed %2! A marker has been placed</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+		<Key ID="STR_CL_AUTOCLAIM_ABANDON">
+			<English>AutoClaim: %1 has abandoned %2! The marker has been removed</English>
+			<German></German>
+			<Russian></Russian>
+		</Key>
+	</Package>
 </Project>
