@@ -1973,38 +1973,46 @@
 			<Russian>AutoClaim: %1 отказался от %2! Маркер удален!</Russian>
 		</Key>
 	</Package>
-	
+
 	<Package name="EpochServerEvents">
 		<Key ID="STR_CL_ESE_IKEA_HINT">
 			<English>&lt;t align='center' color='#00FF11' shadow='2' size='1.75'&gt;Construction Crate&lt;/t&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;IKEA truck lost its Cargo!&lt;/t&gt;</English>
+			<German>&lt;t align='center' color='#00FF11' shadow='2' size='1.75'&gt;Materialkiste&lt;/t&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Ein Ikea-Truck hat seine Materialien verloren!&lt;/t&gt;</German>
 			<Russian>&lt;t align='center' color='#00FF11' shadow='2' size='1.75'&gt;Строительные материалы&lt;/t&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Грузовик ИКЕЯ потерял свой груз!&lt;/t&gt;</Russian>
 		</Key>
 		<Key ID="STR_CL_ESE_TREASURE_HINT">
 			<English>&lt;t align='center' color='#FFFF66' shadow='2' size='1.75'&gt;Treasure Crate&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Pirates have hidden their treasure in a crate!&lt;/t&gt;</English>
+			<German>&lt;t align='center' color='#FFFF66' shadow='2' size='1.75'&gt;Schatztruhe&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Piraten haben ihren Schatz in einer Truhe versteckt!&lt;/t&gt;</German>
 			<Russian>&lt;t align='center' color='#FFFF66' shadow='2' size='1.75'&gt;Ящик с сокровищами&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Пираты спрятали свои сокровища в сундуке!&lt;/t&gt;</Russian>
 		</Key>
 		<Key ID="STR_CL_ESE_MILITARY_HINT">
 			<English>&lt;t align='center' color='#FF0000' shadow='2' size='1.75'&gt;Military Crate&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;A special forces unit lost a crate full of weapons!&lt;/t&gt;</English>
+			<German>&lt;t align='center' color='#FF0000' shadow='2' size='1.75'&gt;Militärkiste&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Eine Spezialeinheit hat eine Kiste voll mit Waffen verloren!&lt;/t&gt;</German>
 			<Russian>&lt;t align='center' color='#FF0000' shadow='2' size='1.75'&gt;Военный груз&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Группа военных потеряла груз с оружием!&lt;/t&gt;</Russian>
 		</Key>
 		<Key ID="STR_CL_ESE_UNSUPPLY_HINT">
 			<English>&lt;t align='center' color='#0D00FF' shadow='2' size='1.75'&gt;Supply Crate&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;UN Agency drops life-saving supplies for Survivors!&lt;/t&gt;</English>
+			<German>&lt;t align='center' color='#0D00FF' shadow='2' size='1.75'&gt;Versorgungskiste&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Die UN wirft lebensrettende Vorräte für Überlebende ab!&lt;/t&gt;</German>
 			<Russian>&lt;t align='center' color='#0D00FF' shadow='2' size='1.75'&gt;Гуманитарная помощь&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;ООН осуществила доставку необходимых вещей для выживших!&lt;/t&gt;</Russian>
 		</Key>
 		<Key ID="STR_CL_ESE_IKEA">
 			<English>IKEA truck lost its Cargo!</English>
+			<German>Ein Ikea-Truck hat seine Materialien verloren!</German>
 			<Russian>Грузовик ИКЕЯ потерял свой груз!</Russian>
 		</Key>
 		<Key ID="STR_CL_ESE_TREASURE">
 			<English>Pirates have hidden their treasure in a crate!</English>
+			<German>Piraten haben ihren Schatz in einer Truhe versteckt!</German>
 			<Russian>Пираты спрятали свои сокровища в сундуке!</Russian>
 		</Key>
 		<Key ID="STR_CL_ESE_MILITARY">
 			<English>A special forces unit lost a crate full of weapons!</English>
+			<German>Eine Spezialeinheit hat eine Kiste voll mit Waffen verloren!</German>
 			<Russian>Группа военных потеряла груз с оружием!</Russian>
 		</Key>
 		<Key ID="STR_CL_ESE_UNSUPPLY">
 			<English>UN Agency drops life-saving supplies for Survivors!</English>
+			<German>Die UN wirft lebensrettende Vorräte für Überlebende ab!</German>
 			<Russian>ООН осуществила доставку необходимых вещей для выживших!</Russian>
 		</Key>
 	</Package>
