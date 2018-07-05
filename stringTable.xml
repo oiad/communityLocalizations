@@ -1992,20 +1992,20 @@
 			<Russian>&lt;t align='center' color='#0D00FF' shadow='2' size='1.75'&gt;Гуманитарная помощь&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;ООН осуществила доставку необходимых вещей для выживших!&lt;/t&gt;</Russian>
 		</Key>
 		<Key ID="STR_CL_ESE_IKEA">
-			<English>Грузовик ИКЕЯ потерял свой груз!</English>
-			<Russian></Russian>
+			<English>IKEA truck lost its Cargo!</English>
+			<Russian>Грузовик ИКЕЯ потерял свой груз!</Russian>
 		</Key>
 		<Key ID="STR_CL_ESE_TREASURE">
-			<English>Пираты спрятали свои сокровища в сундуке!</English>
-			<Russian></Russian>
+			<English>Pirates have hidden their treasure in a crate!</English>
+			<Russian>Пираты спрятали свои сокровища в сундуке!</Russian>
 		</Key>
 		<Key ID="STR_CL_ESE_MILITARY">
-			<English>Группа военных потеряла груз с оружием!</English>
-			<Russian></Russian>
+			<English>A special forces unit lost a crate full of weapons!</English>
+			<Russian>Группа военных потеряла груз с оружием!</Russian>
 		</Key>
 		<Key ID="STR_CL_ESE_UNSUPPLY">
-			<English>ООН осуществила доставку необходимых вещей для выживших!</English>
-			<Russian></Russian>
+			<English>UN Agency drops life-saving supplies for Survivors!</English>
+			<Russian>ООН осуществила доставку необходимых вещей для выживших!</Russian>
 		</Key>
 	</Package>
 </Project>
