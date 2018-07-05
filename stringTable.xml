@@ -1976,8 +1976,8 @@
 	
 	<Package name="EpochServerEvents">
 		<Key ID="STR_CL_ESE_IKEA_HINT">
-			<English>&lt;t align='center' color='#00FF11' shadow='2' size='1.75'&gt;Construction Crate&lt;/t&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;IKEA truck lost its Cargo!&lt;/t</English>
-			<Russian>&lt;t align='center' color='#00FF11' shadow='2' size='1.75'&gt;Строительные материалы&lt;/t&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Грузовик ИКЕЯ потерял свой груз!&lt;/t</Russian>
+			<English>&lt;t align='center' color='#00FF11' shadow='2' size='1.75'&gt;Construction Crate&lt;/t&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;IKEA truck lost its Cargo!&lt;/t&gt;</English>
+			<Russian>&lt;t align='center' color='#00FF11' shadow='2' size='1.75'&gt;Строительные материалы&lt;/t&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Грузовик ИКЕЯ потерял свой груз!&lt;/t&gt;</Russian>
 		</Key>
 		<Key ID="STR_CL_ESE_TREASURE_HINT">
 			<English>&lt;t align='center' color='#FFFF66' shadow='2' size='1.75'&gt;Treasure Crate&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Pirates have hidden their treasure in a crate!&lt;/t&gt;</English>
