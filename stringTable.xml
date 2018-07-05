@@ -2003,7 +2003,7 @@
 			<English>IKEA truck lost its Cargo!</English>
 			<German>Ein Ikea-Truck hat seine Materialien verloren!</German>
 			<Russian>Грузовик ИКЕЯ потерял свой груз!</Russian>
-			Spanish>Un camión de IKEA perdió su carga!</spanish>
+			<Spanish>Un camión de IKEA perdió su carga!</spanish>
 		</Key>
 		<Key ID="STR_CL_ESE_TREASURE">
 			<English>Pirates have hidden their treasure in a crate!</English>
