@@ -20,12 +20,13 @@ Community based Localization / Translation files for popular mods - by salival
 * Safe Zones by [@BigEgg17 (repo here)](https://github.com/BigEgg17/Safe-Zones)
 * Change code [(repo here)](https://github.com/oiad/changeCode)
 * WAI by [@worldwidesorrow (repo here)](https://github.com/worldwidesorrow/WICKED-AI)
+* Server Events [@worldwidesorrow (repohere)](https://github.com/worldwidesorrow/Epoch-Server-Events)
 
 # Thanks to:
 
 * @ebayShopper for original ESSv3 translations
 * @BigEgg17 for original Safe Zones translations
-* @worldwidesorrow for original WAI translations
+* @worldwidesorrow for original WAI & SE translations
 * @DAmNRelentless for German translations
 * @AMan for German translations
 * @TheDuke77 for French translations
