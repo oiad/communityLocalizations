@@ -654,26 +654,31 @@
 			<English>Eject Passengers</English>
 			<German>Beifahrer rauswerfen</German>
 			<Russian>Высадить пассажиров</Russian>
+			<Spanish>Eyectar pasajero</Spanish>
 		</Key>
 		<Key ID="STR_CL_RV_CA_ENGINE">
 			<English>Toggle engine on/of</English>
 			<German>Motor ein/ausschalten</German>
 			<Russian>Вкл/Выкл двигатель</Russian>
+			<Spanish>Motor encendido/apagado</Spanish>
 		</Key>
 		<Key ID="STR_CL_RV_CA_UNLOCK">
 			<English>Unlock vehicle</English>
 			<German>Fahrzeug aufschließen</German>
 			<Russian>Открыть технику</Russian>
+			<Spanish>Destrabar vehículo</Spanish>
 		</Key>
 		<Key ID="STR_CL_RV_CA_LOCK">
 			<English>Lock vehicle</English>
 			<German>Fahrzeug abschließen</German>
 			<Russian>Закрыть технику</Russian>
+			<Spanish>Trabar vehículo</Spanish>
 		</Key>
 		<Key ID="STR_CL_RV_CA_LIGHTS">
 			<English>Toggle Lights on/off</English>
 			<German>Lichter ein/ausschalten</German>
 			<Russian>Вкл/Выкл фары</Russian>
+			<Spanish>Luces encendidas/apagadas</Spanish>
 		</Key>
 	</Package>
 
@@ -760,6 +765,7 @@
 			<English>Please wait while your vehicle is being prepared.</English>
 			<Russian>Подождите, пока ваша техника будет готова.</Russian>
 			<German>Bitte warten, während dein Fahrzeug vorbereitet wird.</German>
+			<Spanish>Por favor, espera mientras tu vehículo es preparado</Spanish>
 		</Key>
 		<Key ID="STR_CL_VKC_FAIL_KEYS">
 			<English>No valid keys were found in your inventory.</English>
@@ -783,11 +789,13 @@
 			<English>Claim %1</English>
 			<German>%1 beanspruchen</German>
 			<Russian>Присвоить %1</Russian>
+			<Spanish>Reclamar %1</Spanish>
 		</Key>
 		<Key ID="STR_CL_VKC_CHANGE_ACTION">
 			<English>Change vehicle key</English>
 			<German>Fahrzeugschlüssel wechseln</German>
 			<Russian>Сменить ключ</Russian>
+			<Spanish>Cambiar llave del vehículo</Spanish>
 		</Key>
 	</Package>
 
@@ -796,66 +804,79 @@
 			<English>Vehicle Service Point nearby</English>
 			<German>Nahe einer Fahrzeug-Servicestation</German>
 			<Russian>Пункт тех.обслуживания</Russian>
+			<Spanish>Estación de Servicio cerca</Spanish>
 		</Key>
 		<Key ID="STR_CL_SP_UNABLE_REARM">
 			<English>%1 is unable to be rearmed.</English>
 			<German>%1 kann nicht aufmunitioniert werden.</German>
 			<Russian>%1 не может быть перезаряжен.</Russian>
+			<Spanish>%1 no se puede recargar</Spanish>
 		</Key>
 		<Key ID="STR_CL_SP_UNABLE_REPAIR">
 			<English>%1 is unable to be repaired.</English>
 			<German>%1 kann nicht repariert werden.</German>
 			<Russian>%1 не может быть отремонтирован.</Russian>
+			<Spanish>%1 No se puede reparar</Spanish>
 		</Key>
 		<Key ID="STR_CL_SP_UNABLE_REFUEL">
 			<English>%1 is unable to be refueled.</English>
 			<German>%1 kann nicht betankt werden.</German>
 			<Russian>%1 не может быть заправлен топливом.</Russian>
+			<Spanish>%1 No se puede repostar</Spanish>
 		</Key>
 		<Key ID="STR_CL_SP_REFUELING">
 			<English>Refueling %1...</English>
 			<German>%1 auftanken...</German>
 			<Russian>Заправка %1...</Russian>
+			<Spanish>Repostando %1...</Spanish>
 		</Key>
 		<Key ID="STR_CL_SP_REFUELING_STOPPED">
 			<English>Refueling of %1 stopped</English>
 			<German>Betanken von %1 gestoppt</German>
 			<Russian>Заправка %1 остановлена</Russian>
+			<Spanish>Repostado de %1 detenido</Spanish>
 		</Key>
 		<Key ID="STR_CL_SP_REFUEL_OK">
 			<English>%1 Refueled</English>
 			<German>%1 betankt</German>
 			<Russian>%1 заправлен</Russian>
+			<Spanish>%1 Repostado</Spanish>
 		</Key>
 		<Key ID="STR_CL_SP_REPAIRING">
 			<English>Repairing: %1...</English>
 			<German>%1 reparieren...</German>
 			<Russian>Ремонт %1...</Russian>
+			<Spanish>Reparando: %1...</Spanish>
 		</Key>
 		<Key ID="STR_CL_SP_REPAIRING_STOPPED">
 			<English>Repairing of %1 stopped</English>
 			<German>Reparieren von %1 gestoppt</German>
 			<Russian>Ремонт %1 остановлен</Russian>
+			<Spanish>Reparación de %1 detenida</Spanish>
 		</Key>
 		<Key ID="STR_CL_SP_REPAIR_OK">
 			<English>%1 Repaired</English>
 			<German>%1 repariert</German>
 			<Russian>%1 отремонтирован</Russian>
+			<Spanish>%1 Reparado</Spanish>
 		</Key>
 		<Key ID="STR_CL_SP_REARMED">
 			<English>%1 of %2 rearmed</English>
 			<German>%1 von %2 aufmunitioniert</German>
 			<Russian>%1 из %2 перезаряжен</Russian>
+			<Spanish>%1 de %2 recargado</Spanish>
 		</Key>
 		<Key ID="STR_CL_SP_FAIL_COINS">
 			<English>You need %1 %2 to %3 your %4.</English>
 			<German>Du benötigst %1 %2 um %4 zu %3.</German>
 			<Russian>Вам необходимо %1 %2 для %3 вашего %4.</Russian>
+			<Spanish>Necesitas %1 %2 para %3 tu %4</Spanish>
 		</Key>
 		<Key ID="STR_CL_SP_FAIL_BRIEFCASES">
 			<English>You need %1 to %2 your %3.</English>
 			<German>Du benötigst %1 um %3 zu %2.</German>
 			<Russian>Вам необходимо %1 для %2 вашего %3.</Russian>
+			<Spanish>Necesitas %1 para %2 tu %3</Spanish>
 		</Key>
 	</Package>
 
@@ -864,26 +885,31 @@
 			<English>No keys were found in your toolbelt or backpack.</English>
 			<German>Es wurden keine Schlüssel an deinem Gürtel oder im Rucksack gefunden.</German>
 			<Russian>Не найдены ключи в вашем инвентаре или рюкзаке</Russian>
+			<Spanish>Ninguna llave fue encontrada en tu cinturón o mochila.</Spanish>
 		</Key>
 		<Key ID="STR_CL_LV_BELONGS">
 			<English>%1 belongs to %2%3.</English>
 			<German>%1 gehört zu %2%3.</German>
 			<Russian>%1 принадлежит %2%3.</Russian>
+			<Spanish>%1 pertenece a %2%3.</Spanish>
 		</Key>
 		<Key ID="STR_CL_LV_NO_VEHICLES">
 			<English>No vehicles found for %1.</English>
 			<German>Keine Fahrzeuge für %1 gefunden.</German>
 			<Russian>Не найдено техники для %1.</Russian>
+			<Spanish>Ningún vehículo encontrado para %1.</Spanish>
 		</Key>
 		<Key ID="STR_CL_LV_FOUND">
 			<English>Found %1 matching vehicles, check your map for marked locations.</English>
 			<German>%1 passende Fahrzeuge gefunden, schau auf die Karte um die Positionen zu sehen.</German>
 			<Russian>Найдено %1 техники, проверьте отметки на карте.</Russian>
+			<Spanish>%1 vehículos encontrados, chequea tu mapa para ver las locaciones.</Spanish>
 		</Key>
 		<Key ID="STR_CL_LV_LOCATE_VEHICLES">
 			<English>Locate Vehicles</English>
 			<German>Fahrzeuge lokalisieren</German>
 			<Russian>Поиск техники</Russian>
+			<Spanish>Localizar Vehículos</Spanish>
 		</Key>
 	</Package>
 
@@ -892,26 +918,31 @@
 			<English>These clothes have already been taken!</English>
 			<German>Diese Kleidung wurde bereits aufgenommen!</German>
 			<Russian>Эта одежда уже взята</Russian>
+			<Spanish>Estas ropas ya han sido tomadas!</Spanish>
 		</Key>
 		<Key ID="STR_CL_TC_NOT_SUPPORTED">
 			<English>Currently %1 is not supported by the take clothes script.</English>
 			<German>%1 wird derzeit nicht im Take-Clothes Script unterstützt.</German>
 			<Russian>Текущий %1 не поддерживается данным скриптом снятия одежды.</Russian>
+			<Spanish>%1 no está permitido actualmente por el script de tomar ropas.</Spanish>
 		</Key>
 		<Key ID="STR_CL_TC_ADD_OK">
 			<English>%1 has been added to your inventory!</English>
 			<German>%1 wurde zu deinem Inventar hinzugefügt!</German>
 			<Russian>%1 добавлен в ваш инвентарь.</Russian>
+			<Spanish>%1 ha sido agregado a tu inventario!.</Spanish>
 		</Key>
 		<Key ID="STR_CL_TC_ADD_FAIL">
 			<English>You don't have enough room to store a %1.</English>
 			<German>Du hast nicht genug Platz um %1 aufzunehmen.</German>
 			<Russian>У вас недостаточно свободного места для хранения %1.</Russian>
+			<Spanish>No tienes espacio suficiente para guardar %1.</Spanish>
 		</Key>
 		<Key ID="STR_CL_TC_TAKE_CLOTHES">
 			<English>Take Clothes</English>
 			<German>Kleidung nehmen</German>
 			<Russian>Снять одежду.</Russian>
+			<Spanish>Tomar la Ropa.</Spanish>
 		</Key>
 	</Package>
 
@@ -920,36 +951,43 @@
 			<English>Bury Human</English>
 			<German>Leiche begraben</German>
 			<Russian>Похоронить тело</Russian>
+			<Spanish>Enterrar Humano</Spanish>
 		</Key>
 		<Key ID="STR_CL_BA_BUTCHER">
 			<English>Butcher Human</English>
 			<German>Leiche schlachten</German>
 			<Russian>Разделать тело</Russian>
+			<Spanish>Destrozar Humano</Spanish>
 		</Key>
 		<Key ID="STR_CL_BA_RIP">
 			<English>Rest in peace, %1...</English>
 			<German>Ruhe in Frieden, %1...</German>
 			<Russian>Покойся с миром, %1...</Russian>
+			<Spanish>Descansa en paz, %1...</Spanish>
 		</Key>
 		<Key ID="STR_CL_BA_RIP_UNKNOWN">
 			<English>Rest in peace, unknown soldier....</English>
 			<German>Ruhe in Frieden, wer auch immer du bist...</German>
 			<Russian>Покойся с миром, неизвестный чувак...</Russian>
+			<Spanish>Descansa en paz, soldado desconocido...</Spanish>
 		</Key>
 		<Key ID="STR_CL_BA_ROAD">
 			<English>You can't %1 a body on the road!</English>
 			<German>Du kannst keine Leiche auf einer Straße %1!</German>
 			<Russian>Вы не можете %1 тело на дороге!</Russian>
+			<Spanish>No puedes %1 un cuerpo en el camino!</Spanish>
 		</Key>
 		<Key ID="STR_CL_BA_BURY1">
 			<English>bury</English>
 			<German>begraben</German>
 			<Russian>похоронить</Russian>
+			<Spanish>enterrar</Spanish>
 		</Key>
 		<Key ID="STR_CL_BA_BUTCHER1">
 			<English>butcher</English>
 			<German>Schlachten</German>
 			<Russian>разделать</Russian>
+			<Spanish>destrozar</Spanish>
 		</Key>
 	</Package>
 
@@ -958,16 +996,19 @@
 			<English>Garage Door Opener</English>
 			<German>Garagentor-Öffner</German>
 			<Russian>Гаражная дверь открыта</Russian>
+			<Spanish>Abridor de Garage</Spanish>
 		</Key>
 		<Key ID="STR_CL_GDO_DOOR_OPEN">
 			<English>Opening door</English>
 			<German>Tor öffnen</German>
 			<Russian>Открыть дверь</Russian>
+			<Spanish>Abriendo puerta</Spanish>
 		</Key>
 		<Key ID="STR_CL_GDO_DOOR_CLOSE">
 			<English>Closing Door</English>
 			<German>Tor schließen</German>
 			<Russian>Закрыть дверь</Russian>
+			<Spanish>Cerrando puerta</Spanish>
 		</Key>
 	</Package>
 
@@ -976,31 +1017,37 @@
 			<English>You can't untow/drop a vehicle near a building/base you don't have access to.</English>
 			<German>Du kannst kein Fahrzeug in der Nähe von Objekten abstellen, die dir nicht gehören.</German>
 			<Russian>Вы не можете отцепить/бросить транспорт около здания/базы, к которым у вас нет доступа.</Russian>
+			<Spanish>No puedes arrojar/quitar remolque cerca de una construcción/base al que no tienes acceso.</Spanish>
 		</Key>
 		<Key ID="STR_CL_LOG_LIFT">
 			<English>Lift vehicle</English>
 			<German>Fahrzeug anheben</German>
 			<Russian>Буксировать транспорт</Russian>
+			<Spanish>Levantar vehículo</Spanish>
 		</Key>
 		<Key ID="STR_CL_LOG_DROP">
 			<English>Drop vehicle</English>
 			<German>Fahrzeug abstellen</German>
 			<Russian>Бросить транспорт</Russian>
+			<Spanish>Arrojar vehículo</Spanish>
 		</Key>
 		<Key ID="STR_CL_LOG_DROPPED">
 			<English>%1 has been dropped.</English>
 			<German>%1 wurde abgestellt.</German>
 			<Russian>%1 был сброшен</Russian>
+			<Spanish>%1 ha sido arrojado.</Spanish>
 		</Key>
 		<Key ID="STR_CL_LOG_ATTACHED">
 			<English>%1 is now being towed.</English>
 			<German>%1 wird nun abgeschleppt.</German>
 			<Russian>%1 буксируется</Russian>
+			<Spanish>%1 está siendo remolcado.</Spanish>
 		</Key>
 		<Key ID="STR_CL_LOG_LIFT_FAIL_TOW">
 			<English>Can't lift %1, it's towing another vehicle.</English>
 			<German>%1 kann nicht angehoben werden, es schleppt ein anderes Fahrzeug ab.</German>
 			<Russian>Нельзя буксировать %1, так как он буксирует другой транспорт.</Russian>
+			<Spanish>No se puede levantar %1, está siendo remolcado por otro vehículo.</Spanish>
 		</Key>
 		<!-- This is an old translation I don't know what it does, so let's just leave it -->
 		<Key ID="STR_CL_LOG_LIFT_FAIL_TOWED">
@@ -1049,26 +1096,31 @@
 			<English>Within %1 Meters: %2 AI/players, %3 zombies, %4 vehicles</English>
 			<German>In %1 Meter: %2 AI/Spieler, %3 Zombies, %4 Fahrzeuge</German>
 			<Russian>В радиусе %1 Метров: %2 AI/игроков, %3 зомби, %4 транспорта.</Russian>
+			<Spanish>Dentro de %1 metros: %2 AI/Jugadores, %3 zombies, %4 vehículos</Spanish>
 		</Key>
 		<Key ID="STR_CL_CA_SCAN_NEARBY">
 			<English>Scan Nearby</English>
 			<German>Umgebung scannen</German>
 			<Russian>Сканирование местности.</Russian>
+			<Spanish>Escanear las cercanías</Spanish>
 		</Key>
 		<Key ID="STR_CL_CA_RANGE_UP">
 			<English>Range Up</English>
 			<German>Reichweite erhöhen</German>
 			<Russian>Увеличить радиус.</Russian>
+			<Spanish>Aumentar el rango</Spanish>
 		</Key>
 		<Key ID="STR_CL_CA_RANGE_DOWN">
 			<English>Range Down</English>
 			<German>Reichweite verringern</German>
 			<Russian>Уменьшить радиус.</Russian>
+			<Spanish>Disminuir el rango</Spanish>
 		</Key>
 		<Key ID="STR_CL_CA_RANGE_GPS">
 			<English>GPS RANGE: %1</English>
 			<German>GPS-Reichweite: %1</German>
 			<Russian>GPS Радиус: %1</Russian>
+			<Spanish>Rango del GPS: %1</Spanish>
 		</Key>
 	</Package>
 
@@ -1077,81 +1129,97 @@
 			<English>You need a %1 to build %2!</English>
 			<German>Du benötigst %1 um %2 zu bauen!</German>
 			<Russian>Вам нужно %1 чтобы скрафтить %2!</Russian>
+			<Spanish>Necesitas %1 para construir %2!</Spanish>
 		</Key>
 		<Key ID="STR_CL_DA_FAIL_NOW">
 			<English>You can't build a %1 right now.</English>
 			<German>Du kannst %1 gerade nicht bauen.</German>
 			<Russian>Вы не можете скрафтить %1 сейчас.</Russian>
+			<Spanish>No puedes construir un/a %1 ahora.</Spanish>
 		</Key>
 		<Key ID="STR_CL_DA_FAIL_BUILDING">
 			<English>You are already building something!</English>
 			<German>Du baust bereits etwas!</German>
 			<Russian>Вы уже что-то крафтите!</Russian>
+			<Spanish>Ya estás construyendo algo!</Spanish>
 		</Key>
 		<Key ID="STR_CL_DA_FAIL_PACKING">
 			<English>You are already packing something!</English>
 			<German>Du demontierst bereits etwas!</German>
 			<Russian>Вы уже что-то разбираете.</Russian>
+			<Spanish>Ya estás empacando algo!</Spanish>
 		</Key>
 		<Key ID="STR_CL_DA_FAIL_DEPLOYING">
 			<English>Deploying Failed!</English>
 			<German>Bauen fehlgeschlagen!</German>
 			<Russian>Крафт не удался!</Russian>
+			<Spanish>Falló la acción!</Spanish>
 		</Key>
 		<Key ID="STR_CL_DA_DEPLOY_OK">
 			<English>You've built a %1!</English>
 			<German>Du hast %1 gebaut!</German>
 			<Russian>Вы скрафтили %1!</Russian>
+			<Spanish>Has construido un/a %1!</Spanish>
 		</Key>
 		<Key ID="STR_CL_DA_DEPLOY_PERM_NO">
 			<English>Warning: Deployed vehicles DO NOT SAVE after server restart!</English>
 			<German>Warnung: Gebaute Fahrzeuge werden NICHT nach einem Restart gespeichert!</German>
 			<Russian>Внимание: Скрафченный транспорт НЕ СОХРАНЯЕТСЯ после рестарта сервера!</Russian>
+			<Spanish>Precaución: los vehículos desplegados NO SE SALVARÁN en el reinicio!</Spanish>
 		</Key>
 		<Key ID="STR_CL_DA_DEPLOY_PERM_OK">
 			<English>This vehicle is permanent and will persist through server restarts!</English>
 			<German>Dieses Fahrzeug ist permanent und wird auch nach Restarts noch verfügbar sein!</German>
 			<Russian>Данный транспорт является постоянным и он сохранится после рестарта!</Russian>
+			<Spanish>Este vehículo es permanente y persistirá luego del reinicio!</Spanish>
 		</Key>
 		<Key ID="STR_CL_DA_PACK">
 			<English>Pack %1</English>
 			<German>%1 demontieren</German>
 			<Russian>Упаковать %1</Russian>
+			<Spanish>Empacar %1</Spanish>
 		</Key>
 		<Key ID="STR_CL_DA_DEPLOY">
 			<English>Deploy %1</English>
 			<German>%1 bauen</German>
 			<Russian>Скрафтить %1</Russian>
+			<Spanish>Desplegar %1</Spanish>
 		</Key>
 		<Key ID="STR_CL_DA_PACK_FAIL">
 			<English>You can't pack your %1 right now.</English>
 			<German>Du kannst %1 gerade nicht demontieren.</German>
 			<Russian>Вы не можете упаковать %1 сейчас</Russian>
+			<Spanish>No puedes empacar tu %1 en este momento</Spanish>
 		</Key>
 		<Key ID="STR_CL_DA_PACK_COMBAT">
 			<English>You can't pack your %1 while in combat!</English>
 			<German>Du kannst %1 nicht demontieren, wenn du im Kampf bist!</German>
 			<Russian>Вы не можете упаковать %1 находять в режиме боя</Russian>
+			<Spanish>No puedes empacar tu %1 mientras estás en combate!</Spanish>
 		</Key>
 		<Key ID="STR_CL_DA_PACK_DAMAGE">
 			<English>Your %1 must be under %2 percent damage to pack!</English>
 			<German>Dein %1 muss zur Demontage weniger als %2 Prozent Schaden haben.</German>
 			<Russian>Ваш %1 должен иметь менее %2 урона для упакования!</Russian>
+			<Spanish>Tu %1 debe estar por debajo de %2 de daño para ser empacado!</Spanish>
 		</Key>
 		<Key ID="STR_CL_DA_PACK_INUSE">
 			<English>Someone just tried to pack that %1! Try again in a few seconds.</English>
 			<German>Jemand hat soeben versucht %1 zu demontieren! Versuche es in ein paar Sekunden erneut.</German>
 			<Russian>Кто-то уже пытается упаковать %1! Попробуйте позже.</Russian>
+			<Spanish>Alguien trató de empacar ese/a %1! Inténtalo nuevamente en unos segundos.</Spanish>
 		</Key>
 		<Key ID="STR_CL_DA_DEPLOY_BULDABLES">
 			<English>%1 can not be built near a wall/door</English>
 			<German>%1 kann nicht in der Nähe von Objekten gebaut werden.</German>
 			<Russian>%1 невозможно построить рядом с дверью/стеной.</Russian>
+			<Spanish>%1 no puede ser construido cerca de una pared/puerta</Spanish>
 		</Key>
 		<Key ID="STR_CL_DA_DEPLOY_PERM">
 			<English>You have deployed a lockable %1, the key is: %2</English>
 			<German>Du hast %1 (abschließbar) gebaut, der Schlüssel ist: %2</German>
 			<Russian>Вы скрафтили запираемый %1, ключ: %2.</Russian>
+			<Spanish>Has desplegado un/a %1 con cerradura, la llave es: %2</Spanish>
 		</Key>
 	</Package>
 
@@ -1160,41 +1228,49 @@
 			<English>You entered a safe zone!</English>
 			<German>Du hast eine Safezone betreten!</German>
 			<Russian>Вы вошли в безопасную зону!</Russian>
+			<Spanish>Has entrado en una zona segura!</Spanish>
 		</Key>
 		<Key ID="STR_CL_SZ_EXIT">
 			<English>You left the safe zone!</English>
 			<German>Du hast die Safezone verlassen!</German>
 			<Russian>Вы покинули безопасную зону!</Russian>
+			<Spanish>Has abandonado la zona segura!</Spanish>
 		</Key>
 		<Key ID="STR_CL_SZ_GEAR">
 			<English>You cannot open the gear of another player's vehicle!</English>
 			<German>Du kannst nicht in die Fahrzeugausrüstung eines anderen Spielers schauen!</German>
 			<Russian>Вы не можете открыть инвентарь чужой техники!</Russian>
+			<Spanish>No puedes abrir el inventario del vehículo de otro jugador!</Spanish>
 		</Key>
 		<Key ID="STR_CL_SZ_FIRE">
 			<English>You cannot fire your weapon in a safe zone!</English>
 			<German>Du kannst in einer Safezone nicht schießen!</German>
 			<Russian>Вы не можете стрелять в безопасной зоне!</Russian>
+			<Spanish>No puedes diparar un arma en una zona segura!</Spanish>
 		</Key>
 		<Key ID="STR_CL_SZ_OWNER">
 			<English>You have been set as this vehicle's owner.</English>
 			<German>Du wurdest als Besitzer dieses Fahrzeugs gesetzt.</German>
 			<Russian>Вы стали владельцем этой техники.</Russian>
+			<Spanish>Has sido designado como propietario de este vehículo.</Spanish>
 		</Key>
 		<Key ID="STR_CL_SZ_ENDING">
 			<English>Protection ending in %1 second(s)!</English>
 			<German>Der Safezone-Schutz endet in %1 Sekunde(n)!</German>
 			<Russian>Защита перестанет действовать через %1 сек.!</Russian>
+			<Spanish>La protección termina en %1 segundos(s)!</Spanish>
 		</Key>
 		<Key ID="STR_CL_SZ_TIME">
 			<English>You were only in the safe zone for %1 second(s)!</English>
 			<German>Du warst nur %1 Sekunde(n) in der Safezone!</German>
 			<Russian>Вы были в безопасной зоне %1 сек.!</Russian>
+			<Spanish>Solo has estado en la zona segura por %1 segundo(s)!</Spanish>
 		</Key>
 		<Key ID="STR_CL_SZ_DISABLED">
 			<English>Protection disabled!</English>
 			<German>Safezone-Schutz deaktiviert!</German>
 			<Russian>Защита отключена!</Russian>
+			<Spanish>Protección deshabilitada!</Spanish>
 		</Key>
 	</Package>
 
@@ -1203,16 +1279,19 @@
 			<English>You entered an invalid code.</English>
 			<German>Du hast einen ungültigen Code eingegeben.</German>
 			<Russian>Вы ввели неправильный код!</Russian>
+			<Spanish>Has ingresado un código inválido.</Spanish>
 		</Key>
 		<Key ID="STR_CL_CC_CODE_CHANGED">
 			<English>The code has been changed to: %1</English>
 			<German>Der Code wurde auf %1 geändert.</German>
 			<Russian>Код был изменен на: %1</Russian>
+			<Spanish>El código ha sido cambiado a: %1</Spanish>
 		</Key>
 		<Key ID="STR_CL_CC_CODE_CHANGE">
 			<English>Change %1 code</English>
 			<German>%1 Code ändern</German>
 			<Russian>Изменить %1 код</Russian>
+			<Spanish>Cambiar el código de %1</Spanish>
 		</Key>
 	</Package>
 
@@ -1221,799 +1300,960 @@
 			<English>Mission Announcement</English>
 			<German>Missionsankündigung</German>
 			<Russian>Оповещение миссии</Russian>
+			<Spanish>Anuncio de Misión</Spanish>
 		</Key>
 		<Key ID="STR_CL_MINEFIELD_WARNING">
 			<English>WARNING: You are approaching a live minefield!</English>
 			<German>WARNUNG: Du betrittst ein Minenfeld!</German>
 			<Russian>ВНИМАНИЕ! Вы приближаетесь к минному полю!</Russian>
+			<Spanish>Advertencia: Te estás aproximando a un campo minado!</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_ABANDONEDTRADER_ANNOUNCE">
 			<English>Heroes are securing an abandoned trader.</English>
 			<German>Einige Helden wurden bei einem verlassenen Händler gesichtet.</German>
 			<Russian>Герои охраняют брошенный торговый город.</Russian>
+			<Spanish>Héroes están asegurando un mercado abandonado.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_ABANDONEDTRADER_WIN">
 			<English>Bandits have secured the abandoned trader.</English>
 			<German>Die Banditen haben den verlassenen Händler unter ihrer Kontrolle.</German>
 			<Russian>Бандиты захватили торговый город</Russian>
+			<Spanish>Bandidos han asegurado el mercado abandonado.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_ABANDONEDTRADER_FAIL">
 			<English>Bandits did not secure the abandoned trader.</English>
 			<German>Die Banditen konnten den verlassenen Händler nicht an sich reißen.</German>
 			<Russian>Бандиты не смогли захватить торговый город.</Russian>
+			<Spanish>Los bandidos no han asegurado el mercado abandonado.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_ARMEDVEHICLE_ANNOUNCE">
 			<English>Heroes have taken an armed vehicle from the bandits.</English>
 			<German>Helden haben ein bewaffnetes Fahrzeug von den Banditen gestohlen.</German>
 			<Russian>Герои захватили у бандитов вооруженный транспорт!</Russian>
+			<Spanish>Héroes han tomado un vehículo armado de los bandidos.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_ARMEDVEHICLE_WIN">
 			<English>Bandits have secured the armed vehicle.</English>
 			<German>Banditen haben das bewaffnete Fahrzeug an sich genommen.</German>
 			<Russian>Бандиты отбили вооруженный транспорт!</Russian>
+			<Spanish>Los bandidos han asegurado el vehículo armado.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_ARMEDVEHICLE_FAIL">
 			<English>Bandits did not secure the armed vehicle.</English>
 			<German>Die Banditen konnten das bewaffnete Fahrzeug nicht für sich gewinnen.</German>
 			<Russian>Бандиты не смогли отбить вооруженный транспорт.</Russian>
+			<Spanish>Los bandidos no han asegurado el vehículo armado.</Spanish>
 		</Key>
 		<Key ID="STR_CL_GENERAL_ARMYBASE_ANNOUNCE">
 			<English>The ARMY set up a guarded base!</English>
 			<German>Die Armee hat ein bewachtes Lager aufgeschlagen!</German>
 			<Russian>Обнаружена армейская база под усиленной охраной!</Russian>
+			<Spanish>La Armada ha asentado una base custodiada!</Spanish>
 		</Key>
 		<Key ID="STR_CL_GENERAL_ARMYBASE_WIN">
 			<English>Survivors have secured the ARMY Base.</English>
 			<German>Überlebende haben das Lager der Armee unter Kontrolle.</German>
 			<Russian>Выжившие захватили армейскую базу.</Russian>
+			<Spanish>Sobrevivientes han asegurado la base de la Armada</Spanish>
 		</Key>
 		<Key ID="STR_CL_GENERAL_ARMYBASE_FAIL">
 			<English>Survivors did not secure the ARMY Base.</English>
 			<German>Die Armee zieht ab. Keine besonderen Vorkommnisse.</German>
 			<Russian>Выжившие не смогли захватить армейскую базу.</Russian>
+			<Spanish>Los Sobrevivientes no han asegurado la base de la Armada</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_BHCRASH_ANNOUNCE">
 			<English>A Hero Black Hawk carrying supplies has crashed!</English>
 			<German>Ein Black Hawk der Helden mit Materialien ist abgestürzt!</German>
 			<Russian>Разбился Черный Ястреб, перевозящий предметы снабжения!</Russian>
+			<Spanish>Un Black Hawk de los héroes transportando suministros se ha estrellado!</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_BHCRASH_WIN">
 			<English>Bandits have secured the crashed Black Hawk.</English>
 			<German>Banditen haben den abgestürzten Black Hawk gesichert.</German>
 			<Russian>Бандиты захватили место крушения Черного Ястреба.</Russian>
+			<Spanish>Los bandidos han asegurado el Black Hawk estrellado</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_BHCRASH_FAIL">
 			<English>Bandits did not secure the crashed Black Hawk.</English>
 			<German>Der abgestürzte Black Hawk wurde entfernt.</German>
 			<Russian>Бандиты не смогли захватить место крушения Черного Ястреба.</Russian>
+			<Spanish>Los bandidos no han asegurado el Black Hawk estrellado</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_URAL_ANNOUNCE">
 			<English>Heroes are defending a broken down Ural!</English>
 			<German>Helden verteidigen einen liegen gebliebenen Ural!</German>
 			<Russian>Герои охраняют сломанный Урал!</Russian>
+			<Spanish>Los Héroes están defendiendo un Utilitario averiado</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_URAL_WIN">
 			<English>The supplies have been secured by bandits.</English>
 			<German>Die Materialien wurden von Banditen gesichert.</German>
 			<Russian>Груз с Урала был захвачен бандитами.</Russian>
+			<Spanish>Los bandidos han asegurado los suministros</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_URAL_FAIL">
 			<English>Bandits failed to secure the supplies.</English>
 			<German>Die Banditen konnten die Materialien nicht für sich gewinnen.</German>
 			<Russian>Бандиты не смогли захватить груз с Урала.</Russian>
+			<Spanish>Los bandidos no han asegurado los suministros</Spanish>
 		</Key>
 		<Key ID="STR_CL_GENERAL_CANNIBALCAVE_ANNOUNCE">
 			<English>Cannibals are hiding in a cave!</English>
 			<German>Kannibalen verstecken sich in einer Höhle!</German>
 			<Russian>Каннибалы прячутся в пещере!</Russian>
+			<Spanish>Los caníbales están escondidos en una cueva</Spanish>
 		</Key>
 		<Key ID="STR_CL_GENERAL_CANNIBALCAVE_WIN">
 			<English>Survivors secured the Cannibal Cave.</English>
 			<German>Überlebende haben die Kannibalenhöhle gestürmt.</German>
 			<Russian>Выжившие зачистили Пещеру каннибалов.</Russian>
+			<Spanish>Sobrevivientes han asegurado la cueva de los caníbales</Spanish>
 		</Key>
 		<Key ID="STR_CL_GENERAL_CANNIBALCAVE_FAIL">
 			<English>Survivors did not secure the Cannibal Cave.</English>
 			<German>Die Kannibalen verlassen die Höhle und ziehen weiter.</German>
 			<Russian>Выжившие не смогли зачистить Пещеру каннибалов.</Russian>
+			<Spanish>Los Sobrevivientes no han asegurado la cueva de los caníbales.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_MV22_ANNOUNCE">
 			<English>A group of red cross volunteers are giving away medical supplies!</English>
 			<German>Eine Gruppe Freiwilliger des Roten Kreuzes verteilen Medizin!</German>
 			<Russian>Группа добровольцев из Красного Креста раздает предметы медицины из захваченного MV22!</Russian>
+			<Spanish>Un grupo de voluntarios de la Cruz Roja están entregando suministros médicos</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_MV22_WIN">
 			<English>Bandits have murdered the volunteers.</English>
 			<German>Banditen haben die Freiwilligen des Roten Kreuzes getötet.</German>
 			<Russian>Бандиты убили добровольцев и захватили лут.</Russian>
+			<Spanish>Los bandidos han asesinado a los voluntarios.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_MV22_FAIL">
 			<English>The medical supplies have been given away.</English>
 			<German>Die gesamte Medizin wurde verteilt. Das Rote Kreuz zieht ab.</German>
 			<Russian>Бандиты не смогли захватить медицинские препараты.</Russian>
+			<Spanish>Los suministros médicos han sido entregados.</Spanish>
 		</Key>
 		<Key ID="STR_CL_GENERAL_CROPRAIDER_ANNOUNCE">
 			<English>Crooked cops are about to raid the weed crops of a hippie commune!</English>
 			<German>Korrupte Polizisten sind dabei Cannabis einer Hippie-Kommune zu stehlen!</German>
 			<Russian>Полиция собирается совершить налет на общину хиппи!</Russian>
+			<Spanish>Policías corruptos están por asaltar la plantación de marihuana de una comunidad hippie!</Spanish>
 		</Key>
 		<Key ID="STR_CL_GENERAL_CROPRAIDER_WIN">
 			<English>Survivors saved the hippie commune.</English>
 			<German>Überlebende haben die Hippie-Kommune gerettet.</German>
 			<Russian>Выжившие спасли общину хиппи.</Russian>
+			<Spanish>Sobrevivientes han salvado la comunidad Hippie.</Spanish>
 		</Key>
 		<Key ID="STR_CL_GENERAL_CROPRAIDER_FAIL">
 			<English>Survivors did not save the hippie commune.</English>
 			<German>Die Hippie-Kommune wurde ausgeraubt.</German>
 			<Russian>Выжившие не смогли спасти общину.</Russian>
+			<Spanish>Los sobrevivientes no han salvado a la comunidad Hippie</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_DRONEPILOT_ANNOUNCE">
 			<English>Heroes are training drone pilots at a secret airfield!</English>
 			<German>Helden trainieren Dronenpiloten auf einem geheimen Flugplatz!</German>
 			<Russian>Герои готовят беспилотник на секретном аэродроме!</Russian>
+			<Spanish>Héroes están entrenando pilotos de drones en un campo aereo secreto</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_DRONEPILOT_WIN">
 			<English>Survivors have secured the drones.</English>
 			<German>Überlebende haben die Dronen an sich gerissen.</German>
 			<Russian>Выжившие захватили беспилотник.</Russian>
+			<Spanish>Los sobrevivientes han asegurado los drones</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_DRONEPILOT_FAIL">
 			<English>Survivors did not secure the drones.</English>
 			<German>Die Dronenpiloten haben sich unentdeckt aus dem Staub gemacht.</German>
 			<Russian>Выжившие не смогли захватить беспилотник.</Russian>
+			<Spanish>Los sobrevivientes no aseguraron los drones.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_DRUGBUST_ANNOUNCE">
 			<English>Police are about to raid a drug dealer!</English>
 			<German>Die Polizei ist dabei einen Drogendealer hochzunehmen!</German>
 			<Russian>Полиция совершила налет на драгдилера!</Russian>
+			<Spanish>La policía esta por atacar a un traficante de drogas!</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_DRUGBUST_WIN">
 			<English>Bandits have secured the drugs.</English>
 			<German>Banditen haben die Drogen für sich beansprucht.</German>
 			<Russian>Бандиты захватили наркоту.</Russian>
+			<Spanish>Los bandidos han asegurado las drogas.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_DRUGBUST_FAIL">
 			<English>Bandits did not secure the drugs.</English>
 			<German>Die Polizei hat all die Drogen an sich genommen.</German>
 			<Russian>Бандиты не смогли захватить наркоту.</Russian>
+			<Spanish>Los bandidos no han asegurado las drogas.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_FARMER_ANNOUNCE">
 			<English>A farmer is selling supplies at his farm!</English>
 			<German>Ein Farmer verkauft Materialien auf seiner Farm!</German>
 			<Russian>Фермер продает товары на ферме!</Russian>
+			<Spanish>Un Granjero está vendiendo suministros en su granja!</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_FARMER_WIN">
 			<English>Bandits have killed the farmer's workers.</English>
 			<German>Banditen haben die Mitarbeiter des Farmers getötet.</German>
 			<Russian>Бандиты убили всех рабочих на ферме.</Russian>
+			<Spanish>Los bandidos han asesinad a los trabajadores del granjero.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_FARMER_FAIL">
 			<English>The farmer has sold all of his supplies.</English>
 			<German>Der Farmer hat all seine Materialien verkauft.</German>
 			<Russian>Фермер распродал все свои товары.</Russian>
+			<Spanish>El granjero ha vendido todos sus suministros.</Spanish>
 		</Key>
 		<Key ID="STR_CL_GENERAL_GEMTOWER_ANNOUNCE">
 			<English>GEM TOWER! Climb up the tower and down the other side to get the loot!</English>
 			<German>EDELSTEIN-TURM! Klettere den Turm hinauf und auf der anderen Seite herunter, um deine Belohnung zu erhalten!</German>
 			<Russian>БАШНЯ! Подняться на Башню и спуститься вниз по другой стороне, чтобы получить добычу!</Russian>
+			<Spanish>TORRE DE GEMAS! Escala la torre y desciende por el otro lado para conseguir el botín!</Spanish>
 		</Key>
 		<Key ID="STR_CL_GENERAL_GEMTOWER_WIN">
 			<English>Survivors captured the Gem Tower.</English>
 			<German>Überlebende haben den Edelsteinturm bezwungen.</German>
 			<Russian>Выжившие захватили БАШНЮ.</Russian>
+			<Spanish>Sobrevivientes capturaron la Torre de las Gemas</Spanish>
 		</Key>
 		<Key ID="STR_CL_GENERAL_GEMTOWER_FAIL">
 			<English>Survivors were unable to capture the Gem Tower.</English>
 			<German>Keiner hat es geschafft den Edelsteinturm zu bezwingen.</German>
 			<Russian>Выжившие не смогли захватить БАШНЮ.</Russian>
+			<Spanish>Sobrevivientes no han podido capturar la Torre</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_HEROBASE_ANNOUNCE">
 			<English>Heroes have setup a heavily fortified base!</English>
 			<German>Helden haben ein schwer befestigtes Lager aufgeschlagen!</German>
 			<Russian>Герои основали укрепленную базу!</Russian>
+			<Spanish>Héroes han establecido una base fuertemente armada!</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_HEROBASE_WIN">
 			<English>Bandits have captured the Hero base.</English>
 			<German>Banditen haben das Heldenlager übernommen.</German>
 			<Russian>Бандиты захватили Геройскую базу.</Russian>
+			<Spanish>Bandidos han capturado la base de los Héroes</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_HEROBASE_FAIL">
 			<English>Bandits did not capture the Hero base.</English>
 			<German>Das Heldenlager wird abgerissen. Die Helden ziehen weiter.</German>
 			<Russian>Бандиты не смогли захватить Геройскую базу.</Russian>
+			<Spanish>Los bandidos no han capturado la base de los héroes</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_HEROOUTPOST_ANNOUNCE">
 			<English>A Hero Squad has started an outpost!</English>
 			<German>Ein Heldentrupp hat einen Vorposten aufgeschlagen!</German>
 			<Russian>Отряд героев обосновал аванпост!</Russian>
+			<Spanish>Un escuadrón de héroes ha comenzado un puesto de avanzada!</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_HEROOUTPOST_WIN">
 			<English>Bandits have secured the outpost.</English>
 			<German>Banditen haben den Vorposten erobert.</German>
 			<Russian>Бандиты захватили аванпост.</Russian>
+			<Spanish>ULos bandidos han asegurado el puesto de avanzada.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_HEROOUTPOST_FAIL">
 			<English>Bandits did not secure the outpost.</English>
 			<German>Der Vorposten zieht ab.</German>
 			<Russian>Бандиты не смогли захватить аванпост.</Russian>
+			<Spanish>Los bandidos no han asegurado el puesto de avanzada.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_IKEA_ANNOUNCE">
 			<English>AN IKEA convoy is taking a lunch break!</English>
 			<German>Ein Ikea-Convoy hat Mittagspause!</German>
 			<Russian>Конвой IKEA сделал остановку на обед!</Russian>
+			<Spanish>Un convoy de IKEA está tomando un descanso para almorzar!</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_IKEA_WIN">
 			<English>Bandits have ambushed the IKEA convoy.</English>
 			<German>Banditen haben den Ikea-Convoy überfallen.</German>
 			<Russian>Бандиты успешно захватили конвой IKEA.</Russian>
+			<Spanish>Bandidos han emboscado al convoy de IKEA.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_IKEA_FAIL">
 			<English>Bandits did not secure the IKEA convoy.</English>
 			<German>Der Ikea-Convoy setzt seine Reise fort.</German>
 			<Russian>Бандитам не удалось захватить конвой.</Russian>
+			<Spanish>Bandidos no han asegurado el convoy de IKEA.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_JUNKYARD_ANNOUNCE">
 			<English>Heroes are hiding something in a junk yard!</English>
 			<German>Die Helden verstecken etwas auf dem Schrottplatz!</German>
 			<Russian>Герои что-то скрывают на свалке!</Russian>
+			<Spanish>Los héroes están escondiendo algo en la chatarrería!</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_JUNKYARD_WIN">
 			<English>Survivors have secured the Junk Yard.</English>
 			<German>Überlebende haben den Schrottplatz übernommen.</German>
 			<Russian>Выжившие захватили свалку.</Russian>
+			<Spanish>Sobrevivientes han asegurado la chatarrería.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_JUNKYARD_FAIL">
 			<English>Survivors did not secure the Junk Yard.</English>
 			<German>Die Helden suchen sich ein neues Versteck.</German>
 			<Russian>Выжившие не смогли захватить свалку.</Russian>
+			<Spanish>Sobrevivientes no han asegurado la chatarrería.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_LUMBERMILL_ANNOUNCE">
 			<English>Heroes are setting up a lumber mill!</English>
 			<German>Helden haben ein Sägewerk eingerichtet!</German>
 			<Russian>Герои обосновались на лесопилке!</Russian>
+			<Spanish>Los Hérores están ensamblando un aserradero!</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_LUMBERMILL_WIN">
 			<English>Survivors secured the lumber.</English>
 			<German>Überlebende haben das Holz an sich gerissen.</German>
 			<Russian>Выжившие захватили лесопилку.</Russian>
+			<Spanish>Sobrevivientes han asegurado el aserradero.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_LUMBERMILL_FAIL">
 			<English>Survivors did not secure the lumber.</English>
 			<German>Das Holz des Sägewerkes wird abtransportiert.</German>
 			<Russian>Выжившие не смогли вовремя захватить лесопилку.</Russian>
+			<Spanish>Sobrevivientes no aseguraron el aserradero.</Spanish>
 		</Key>
 		<Key ID="STR_CL_GENERAL_FARM_ANNOUNCE">
 			<English>Old MacDonald has a weed farm!</English>
 			<German>Old MacDonald hat eine Cannabis-Farm!</German>
 			<Russian>Обнаружена старая ферма MacDonald!</Russian>
+			<Spanish>El Viejo MacDonald tiene una granja de Marihuana!</Spanish>
 		</Key>
 		<Key ID="STR_CL_GENERAL_FARM_WIN">
 			<English>Survivors have secured the weed farm.</English>
 			<German>Überlebende haben die Cannabis-Farm eingenommen.</German>
 			<Russian>Выжившие захватили ферму.</Russian>
+			<Spanish>Sobrevivientes han asegurado la granja de marihuana</Spanish>
 		</Key>
 		<Key ID="STR_CL_GENERAL_FARM_FAIL">
 			<English>Survivors did not secure the weed farm.</English>
 			<German>Das Cannabis wurde geerntet. Die Farm ist nun leer.</German>
 			<Russian>Выжившим не удалось захватить ферму.</Russian>
+			<Spanish>Sobrevivientes no han asegurado la granja de marihuana.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_MSC_ANNOUNCE">
 			<English>A soldier squad have set up a medical supply camp!</English>
 			<German>Eine Soldatengruppe hat ein Medizincamp aufgeschlagen!</German>
 			<Russian>Обнаружен медицинский лагерь!</Russian>
+			<Spanish>Un escuadrón ha instalado un campamento de suministros médicos!</Spanish>
+			
 		</Key>
 		<Key ID="STR_CL_BANDIT_MSC_WIN">
 			<English>Survivors have taken control of the medical supply camp.</English>
 			<German>Überlebende haben das Medizincamp unter ihre Kontrolle gebracht.</German>
 			<Russian>Выжившие взяли под контроль медицинский лагерь.</Russian>
+			<Spanish>Sobrevivientes han tomado control del campamento de suministros médicos.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_MSC_FAIL">
 			<English>Survivors were unable to capture the medical supply camp.</English>
 			<German>Das Medizincamp wird abgebaut.</German>
 			<Russian>Выжившим не удалось захватить медицинский лагерь.</Russian>
+			<Spanish>Sobrevivientes no han controlado el campamento de suministros médicos.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_PATROL_ANNOUNCE">
 			<English>Heroes have started to patrol in %1!</English>
 			<German>Helden haben in %1 eine Patroullie gestartet!</German>
 			<Russian>Герои начали патрулирование в %1!</Russian>
+			<Spanish>Héroes han comenzado a patrullar en %1!</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_PATROL_WIN">
 			<English>Bandits have taken out the hero patrol.</English>
 			<German>Banditen haben die Heldenpatroullie ausgeschaltet.</German>
 			<Russian>Бандиты уничтожили Геройский патруль</Russian>
+			<Spanish>Bandidos han desbaratado la patrulla de héroes.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_PATROL_FAIL">
 			<English>Heroes managed to reach their destination.</English>
 			<German>Die Heldenpatroullie ist am Zielpunkt angekommen.</German>
 			<Russian>Герои успешно закончили патрулирование.</Russian>
+			<Spanish>Los Héroes lograron alcanzar su destino.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_PRESIDENT_ANNOUNCE">
 			<English>The President is in town for a press conference!</English>
 			<German>Der Präsident ist für eine Pressekonferenz in der Stadt!</German>
 			<Russian>Президент приехал в город на конференцию!</Russian>
+			<Spanish>El Presidednte está en la ciudad por una conferencia de prensa!</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_PRESIDENT_WIN">
 			<English>The President has been assassinated.</English>
 			<German>Der Präsident wurde ermordet.</German>
 			<Russian>Президент был убит.</Russian>
+			<Spanish>El Presidente ha sido asesinado.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_PRESIDENT_FAIL">
 			<English>The President managed to get away.</English>
 			<German>Sicherheitspersonal hat den Präsidenten aus der Stadt geschafft.</German>
 			<Russian>Президенту удалось уйти.</Russian>
+			<Spanish>El Presidente logró escapar.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_RADIOTOWER_ANNOUNCE">
 			<English>Heroes set up a radio tower!</English>
 			<German>Helden haben einen Funkturm errichtet!</German>
 			<Russian>Герои основали радиовышку!</Russian>
+			<Spanish>Los héroes han instalado una torre de radio!</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_RADIOTOWER_WIN">
 			<English>Survivors secured the Radio Tower.</English>
 			<German>Überlebende haben den Funkturm für sich beansprucht.</German>
 			<Russian>Выжившие захватили радиовышку.</Russian>
+			<Spanish>Sobrevivientes han asegurado la Torre de Radio.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_RADIOTOWER_FAIL">
 			<English>Survivors did not secure the Radio Tower.</English>
 			<German>Der Funkturm wird abgebaut.</German>
 			<Russian>Выжившим не удалось захватить радиовышку.</Russian>
+			<Spanish>Los sobrevivientes no han asegurado la Torre de Radio.</Spanish>
 		</Key>
 		<Key ID="STR_CL_GENERAL_SLAUGHTERHOUSE_ANNOUNCE">
 			<English>Something smells funky at the Old Slaughter House!</English>
 			<German>Etwas riecht komisch beim alten Schlachtaus!</German>
 			<Russian>Какая-то движуха на старой бойне!</Russian>
+			<Spanish>Algo huele mal en el Viejo Matadero!</Spanish>
 		</Key>
 		<Key ID="STR_CL_GENERAL_SLAUGHTERHOUSE_WIN">
 			<English>Survivors have secured the Slaughter House.</English>
 			<German>Überlebende haben das alte Schlachtaus übernommen.</German>
 			<Russian>Выжившие захватили старую бойню.</Russian>
+			<Spanish>Los sobrevivientes han asegurado el Matadero.</Spanish>
 		</Key>
 		<Key ID="STR_CL_GENERAL_SLAUGHTERHOUSE_FAIL">
 			<English>Survivors have discovered a mass grave.</English>
 			<German>Überlebende haben ein Massengrab entdeckt.</German>
 			<Russian>Выжившие обнаружили массоую могилу.</Russian>
+			<Spanish>Los sobrevivientes descubrieron una Fosa común.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_EXTRACTION_ANNOUNCE">
 			<English>Heroes are loading captured sniper rifles onto a chopper!</English>
 			<German>Helden beladen einen Helikopter mit Scharfschützengewehren!</German>
 			<Russian>Герои загружают снайперское оружие в вертолет!</Russian>
+			<Spanish>Los héroes están cargando los rifles de franco tirador a un helicóptero!</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_EXTRACTION_WIN">
 			<English>Bandits have secured the snipers and taken the chopper.</English>
 			<German>Banditen haben die Scharfschützengewehre geklaut und den Helikopter entwendet.</German>
 			<Russian>Бандиты захватили снайперское оружие и вертолет.</Russian>
+			<Spanish>Los bandidos han asegurado los rifles y tomado el helicóptero.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_EXTRACTION_FAIL">
 			<English>Bandits did not secure the sniper rifles.</English>
 			<German>Die Scharfschützengewehre konnten abtransportiert werden.</German>
 			<Russian>Бандиты не смогли захватить оружие.</Russian>
+			<Spanish>Los bandidos no han asegurado los rifles de franco tirador.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_TANK_ANNOUNCE">
 			<English>A U.N tank column stopped to resupply at an outpost!</English>
 			<German>Eine U.N. Panzerkolonne hält für Nachschub an einem Außenposten!</German>
 			<Russian>Танковая колонна ООН остановилась для пополнения запасов!</Russian>
+			<Spanish>Una columna de tanques de la ONU se a detenido a reabastecerse!</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_TANK_WIN">
 			<English>Survivors have secured the tank column.</English>
 			<German>Überlebende haben die Panzerkolonne übernommen.</German>
 			<Russian>Выжившие захватили танковую колонну.</Russian>
+			<Spanish>Los sobrevivientes han asegurado la columna de tanques.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_TANK_FAIL">
 			<English>Survivors were unable to secure the tank column.</English>
 			<German>Die Panzerkolonne setzt ihren Weg fort.</German>
 			<Russian>Выжившим не удалось захватить танковую колонну.</Russian>
+			<Spanish>Los sobrevivientes no han podido asegurar la columna de tanques.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_WEAPONCACHE_ANNOUNCE">
 			<English>Heroes have obtained a weapon cache!</English>
 			<German>Helden beziehen ein Waffenlager!</German>
 			<Russian>Герои обнаружили ящик с оружием!</Russian>
+			<Spanish>Los héroes han obtenido un cache de armas!</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_WEAPONCACHE_WIN">
 			<English>Bandits have secured the weapon cache.</English>
 			<German>Banditen haben das Waffenlager eingenommen.</German>
 			<Russian>Бандиты захватили ящик с оружием.</Russian>
+			<Spanish>Los bandidos han asegurado el cache de armas.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_WEAPONCACHE_FAIL">
 			<English>Bandits did not secure the weapon cache.</English>
 			<German>Das Waffenlager wird verlegt.</German>
 			<Russian>Бандиты не смогли захватить ящик с оружием.</Russian>
+			<Spanish>Los bandidos no aseguraron el cache de armas!</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_ABANDONEDTRADER_ANNOUNCE">
 			<English>Bandits are securing an abandoned trader!</English>
 			<German>Einige Banditen wurden bei einem verlassenen Händler gesichtet.</German>
 			<Russian>Бандиты охраняют брошенный торговый город!</Russian>
+			<Spanish>Bandidos están asegurando un mercado abandonado!</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_ABANDONEDTRADER_WIN">
 			<English>Survivors have secured the abandoned trader.</English>
 			<German>Überlebende haben den verlassenen Händler eingenommen.</German>
 			<Russian>Выжившие захватили торговый город.</Russian>
+			<Spanish>Los sobrevivientes han asegurado el mercado abandonado</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_ABANDONEDTRADER_FAIL">
 			<English>Survivors did not secure the abandoned trader.</English>
 			<German>Kein Überlebender konnte den verlassenen Händler an sich reißen.</German>
 			<Russian>Выжившие не смогли захватить торговый город.</Russian>
+			<Spanish>Los Sobrevivientes no aseguraron el mercado abandonado.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_ARMEDVEHICLE_ANNOUNCE">
 			<English>Bandits have disabled an armed vehicle!</English>
 			<German>Banditen haben ein bewaffnetes Fahrzeug ausgeschalten!</German>
 			<Russian>Бандиты захватили вооруженный транспорт!</Russian>
+			<Spanish>Los bandidos han desabilitado un vehículo armado!</Spanish>
+			
 		</Key>
 		<Key ID="STR_CL_HERO_ARMEDVEHICLE_WIN">
 			<English>Survivors have secured the armed vehicle.</English>
 			<German>Überlebende haben das bewaffnete Fahrzeug gesichert.</German>
 			<Russian>Герои отбили вооруженный транспорт.</Russian>
+			<Spanish>Los sobrevivientes han asegurado un vehículo armado.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_ARMEDVEHICLE_FAIL">
 			<English>Survivors did not secure the armed vehicle.</English>
 			<German>Das bewaffnete Fahrzeug wurde von den Banditen fort geschafft.</German>
 			<Russian>Герои не смогли отбить вооруженный транспорт.</Russian>
+			<Spanish>Los sobrevivientes no aseguraron el vehículo armado.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_BANDITBASE_ANNOUNCE">
 			<English>A jungle task force have set up a temporary encampment!</English>
 			<German>Eine Spezialeinheit hat ein temporäres Lager aufgeschlagen!</German>
 			<Russian>Обнаружен временный военный лагерь!</Russian>
+			<Spanish>Una unidad especial ha establecido un campamento temporal!</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_BANDITBASE_WIN">
 			<English>Survivors captured the encampment.</English>
 			<German>Überlebende haben das Lager der Spezialeinheiten erobert.</German>
 			<Russian>Выжившие захватили лагерь.</Russian>
+			<Spanish>Los sobrevivientes han capturado el campamento.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_BANDITBASE_FAIL">
 			<English>Survivors were unable to capture the encampment.</English>
 			<German>Das temporäre Lager wurde abgebaut.</German>
 			<Russian>Выживние не смогли захватить лагерь.</Russian>
+			<Spanish>Los sobrevivientes fueron incapaces de capturar el campamento.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_BANDITOUTPOST_ANNOUNCE">
 			<English>A Bandit Squad has started an outpost!</English>
 			<German>Ein Banditentrupp hat einen Vorposten aufgeschlagen!</German>
 			<Russian>Отряд бандитов обосновал аванпост!</Russian>
+			<Spanish>Un escuadrón de bandidos ha comenzado un puesto de avanzada!</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_BANDITOUTPOST_WIN">
 			<English>Survivors have secured the outpost.</English>
 			<German>Überlebende haben den Vorposten erobert.</German>
 			<Russian>Выжившие захватили аванпост.</Russian>
+			<Spanish>Los sobrevivientes han asegurado el puesto de avanzada.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_BANDITOUTPOST_FAIL">
 			<English>Survivors did not secure the outpost.</English>
 			<German>Der Vorposten zieht ab.</German>
 			<Russian>Выжившие не смогли захватить аванпост.</Russian>
+			<Spanish>Los sobrevivientes no han asegurado el puesto de avanzada.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_BANDITPATROL_ANNOUNCE">
 			<English>A bandit scout patrol is checking out a new base location!</English>
 			<German>Eine Banditen-Patroullie untersucht die Umgebung für einen neuen Stützpunkt!</German>
 			<Russian>Патруль бандитских разведчиков проверяет новое место для базы!</Russian>
+			<Spanish>Una patrulla de reconocimiento de bandidos está buscando un lugar para una nueva base!</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_BANDITPATROL_WIN">
 			<English>Survivors have dealt with the scout patrol.</English>
 			<German>Überlebende haben sich um die Banditen-Patroullie gekümmert.</German>
 			<Russian>Выжившие уничтожили бандитский патруль.</Russian>
+			<Spanish>Los sobrevivientes se han encargado de la patrulla de reconocimiento.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_BANDITPATROL_FAIL">
 			<English>Survivors did not deal with the scout patrol.</English>
 			<German>Die Banditen-Patroullie hat keinen geeigneten Ort gefunden.</German>
 			<Russian>Выжившим не удалось уничтожить бандитский патруль.</Russian>
+			<Spanish>Los sobrevivientes no se encargaron de la patrulla de reconocimiento.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_BHCRASH_ANNOUNCE">
 			<English>A Black Hawk carrying supplies has crashed!</English>
 			<German>Ein Black Hawk mit Materialien ist abgestürzt!</German>
 			<Russian>Разбился Черный Ястреб, перевозящий предметы снабжения!</Russian>
+			<Spanish>Un Black Hawk transportando suministros se ha estrellado!</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_BHCRASH_WIN">
 			<English>Survivors have secured the crashed Black Hawk.</English>
 			<German>Überlebende haben den abgestürzten Black Hawk gesichert.</German>
 			<Russian>Выжившие захватили место крушения Черного Ястреба.</Russian>
+			<Spanish>Los sobrevivientes han asegurado el Black Hawk estrellado.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_BHCRASH_FAIL">
 			<English>Survivors did not secure the crashed Black Hawk in time.</English>
 			<German>Der abgestürzte Black Hawk wurde entfernt.</German>
 			<Russian>Выжившие не смогли захватить место крушения Черного Ястреба.</Russian>
+			<Spanish>Los sobrevivientes no han asegurado el Black Hawk estrellado a tiempo.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_MV22_ANNOUNCE">
 			<English>Bandits have captured a Red Cross MV-22!</English>
 			<German>Banditen haben ein MV-22 des Roten Kreuzes gekapert!</German>
 			<Russian>Бандиты захватили MV-22 Красного Креста!</Russian>
+			<Spanish>Bandidos han capturado un MV-22 de la Cruz Roja!</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_MV22_WIN">
 			<English>Survivors have secured the MV-22.</English>
 			<German>Überlebende haben den MV-22 unter ihrer Kontrolle.</German>
 			<Russian>Выжившие убили бандитов и захватили MV-22.</Russian>
+			<Spanish>Los sobrevivientes han asegurado el MV-22 de la Cruz Roja.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_MV22_FAIL">
 			<English>Survivors did not secure the MV-22.</English>
 			<German>Der MV-22 ist davon gekommen.</German>
 			<Russian>Выжившие не смогли захватить MV-22.</Russian>
+			<Spanish>Los sobrevivientes no han asegurado el MV-22 de la Cruz Roja.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_URAL_ANNOUNCE">
 			<English>Bandits have destroyed a Ural with supplies!</English>
 			<German>Banditen haben einen Ural mit Materialien zerstört!</German>
 			<Russian>Бандиты охраняют сломанный Урал!</Russian>
+			<Spanish>Bandidos han destruido un Ural con suministros!</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_URAL_WIN">
 			<English>The supplies have been secured by survivors.</English>
 			<German>Die Materialien wurden von Überlebenden gesichert.</German>
 			<Russian>Груз с Урала был захвачен выжившими.</Russian>
+			<Spanish>Los suministros han sido asegurados por los sobrevivientes.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_URAL_FAIL">
 			<English>Survivors did not secure the supplies in time.</English>
 			<German>Die Banditen sind mit den Materialien verschwunden.</German>
 			<Russian>Выжившие не смогли захватить груз с Урала.</Russian>
+			<Spanish>Los sobrevivientes no han asegurado los suministros a tiempo.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_MILCHOPPER_ANNOUNCE">
 			<English>A bandit helicopter is taking off with a crate of snipers!</English>
 			<German>Ein Helikopter der Banditen, besetzt mit Scharfschützen, startet seinen Flug!</German>
 			<Russian>Бандитский вертолет со снайперским оружием готовится к вылету!</Russian>
+			<Spanish>Un helicóptero bandido está despegando con una caja de rifles de franco tirador!</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_MILCHOPPER_WIN">
 			<English>Survivors have secured the armed chopper.</English>
 			<German>Überlebende haben den bewaffneten Helikopter erobert.</German>
 			<Russian>Выжившие захватили вооруженный вертолет.</Russian>
+			<Spanish>Los sobrevivientes han asegurado el helicóptero armado.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_MILCHOPPER_FAIL">
 			<English>Survivors did not secure the armed chopper in time.</English>
 			<German>Der Scharfschützen-Helikopter zieht ab.</German>
 			<Russian>Выжившие не смогли захватить снайперское оружие с вертолета.</Russian>
+			<Spanish>Los sobrevivientes no han asegurado el helicóptero armado.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_DRONE_ANNOUNCE">
 			<English>Bandits are training drone pilots at a secret airfield.</English>
 			<German>Banditen trainieren Dronenpiloten auf einem geheimen Flugplatz!</German>
 			<Russian>Бандиты готовят беспилотник на секретном аэродроме!</Russian>
+			<Spanish>Los bandidos están entrenando pilotos de drones en un aeropuerto secreto!</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_DRONE_WIN">
 			<English>Survivors have secured the drones.</English>
 			<German>Überlebende haben die Dronen an sich gerissen.</German>
 			<Russian>Выжившие захватили беспилотник.</Russian>
+			<Spanish>Los sobrevivientes han asegurado los drones.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_DRONE_FAIL">
 			<English>Survivors did not secure the drones.</English>
 			<German>Die Dronenpiloten haben sich unentdeckt aus dem Staub gemacht.</German>
 			<Russian>Выжившие не смогли захватить беспилотник.</Russian>
+			<Spanish>Los sobrevivientes no han asegurado los drones.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_DRUGBUST_ANNOUNCE">
 			<English>Bandits have set up a Crack House!</English>
 			<German>Banditen haben ein Drogenlabor aufgeschlagen!</German>
 			<Russian>Обнаружен бандитский наркопритон!</Russian>
+			<Spanish>Los bandidos han instalado una Casa de Crack!</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_DRUGBUST_WIN">
 			<English>Survivors have secured the Crack House.</English>
 			<German>Überlebende haben das Drogenlabor gestürmt.</German>
 			<Russian>Выжившие захватили наркопритон.</Russian>
+			<Spanish>Los sobrevivientes han asegurado la Casa de Crack.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_DRUGBUST_FAIL">
 			<English>Survivors did not secure the Crack House.</English>
 			<German>Das Drogenlaber wurde geräumt.</German>
 			<Russian>Выжившине не смогли захватить наркопритон.</Russian>
+			<Spanish>Los sobrevivientes no han asegurado la Casa de Crack.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_FARMER_ANNOUNCE">
 			<English>Bandits are attacking a farmer and stealing his supplies!</English>
 			<German>Banditen attackieren einen Farmer und stehlen seine Materialien!</German>
 			<Russian>Бандиты напали на фермера и крадут его запасы!</Russian>
+			<Spanish>Los bandidos están atacando una granja y robando sus suministros!</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_FARMER_WIN">
 			<English>Survivors have secured the farm.</English>
 			<German>Überlebende haben die Farm gesichert.</German>
 			<Russian>Выжившие отбили ферму от бандитов.</Russian>
+			<Spanish>Los sobrevivientes han asegurado la granja.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_FARMER_FAIL">
 			<English>Bandits robbed the farmer.</English>
 			<German>Der Farmer wurde ausgeraubt.</German>
 			<Russian>Бандиты ограбили фермера.</Russian>
+			<Spanish>Los bandidos robaron la granja.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_IKEA_ANNOUNCE">
 			<English>An IKEA delivery has been hijacked by bandits!</English>
 			<German>Ein Ikea-Convoy wurde von Banditen hoch genommen!</German>
 			<Russian>Конвой IKEA был захвачен бандитами!</Russian>
+			<Spanish>Una entrega de IKEA ha sido tomada por los bandidos!</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_IKEA_WIN">
 			<English>Survivors have secured the building supplies.</English>
 			<German>Überlebende haben die Bauteile gesichert.</German>
 			<Russian>Выжившие успешно захватили конвой IKEA.</Russian>
+			<Spanish>Los sobrevivientes han asegurado los suministros de construcción.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_IKEA_FAIL">
 			<English>Survivors did not secure the convoy in time.</English>
 			<German>Die Banditen sind mit dem Ikea-Convoy davon gefahren.</German>
 			<Russian>Выжившим не удалось захватить конвой.</Russian>
+			<Spanish>Los sobrevivientes no han asegurado el convoy a tiempo.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_JUNKYARD_ANNOUNCE">
 			<English>Bandits are hiding something in a junk yard!</English>
 			<German>Die Banditen verstecken etwas auf dem Schrottplatz!</German>
 			<Russian>Бандиты что-то скрывают на свалке!</Russian>
+			<Spanish>Los bandidos están escondiendo algo en la chatarrería!</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_JUNKYARD_WIN">
 			<English>Survivors have secured the Junk Yard.</English>
 			<German>Überlebende haben den Schrottplatz übernommen.</German>
 			<Russian>Выжившие захватили свалку.</Russian>
+			<Spanish>Los sobrevivientes han asegurado la chatarrería.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_JUNKYARD_FAIL">
 			<English>Survivors did not secure the Junk Yard.</English>
 			<German>Die Banditen suchen sich ein neues Versteck.</German>
 			<Russian>Выжившие не смогли захватить свалку.</Russian>
+			<Spanish>Los sobrevivientes no han asegurado la chatarrería.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_LUMBER_ANNOUNCE">
 			<English>Bandits set up a lumber mill!</English>
 			<German>Banditen haben ein Sägewerk eingerichtet!</German>
 			<Russian>Бандиты обосновались на лесопилке!</Russian>
+			<Spanish>Los bandidos están estableciendo un aserradero!</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_LUMBER_WIN">
 			<English>Survivors secured the lumber.</English>
 			<German>Überlebende haben das Holz an sich gerissen.</German>
 			<Russian>Выжившие захватили лесопилку.</Russian>
+			<Spanish>Los sobrevivientes han asegurado el aserradero.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_LUMBER_FAIL">
 			<English>Survivors did not secure the lumber.</English>
 			<German>Das Holz des Sägewerkes wird abtransportiert.</German>
 			<Russian>Выжившие не смогли вовремя захватить лесопилку.</Russian>
+			<Spanish>Los sobrevivientes no han asegurado el aserradero.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_MAYOR_ANNOUNCE">
 			<English>The Mayor has gone rogue!</English>
 			<German>Der Bürgermeister ist korrupt!</German>
 			<Russian>Коррумпированный Мэр прячется в особняке!</Russian>
+			<Spanish>El Alcalde se ha vuelto deshonesto!</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_MAYOR_WIN">
 			<English>The rogue mayor has been taken out.</English>
 			<German>Der Bürgermeister wurde ausgeschalten.</German>
 			<Russian>Особняк Мэра под контролем выживших.</Russian>
+			<Spanish>El alcalde deshonesto ha sido eliminado.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_MAYOR_FAIL">
 			<English>Survivors were unable to take the mayor down.</English>
 			<German>Der Bürgermeister konnte unentdeckt davon kommen.</German>
 			<Russian>Выжившие не смогли захватить особняк Мэра.</Russian>
+			<Spanish>Los sobrevivientes no pudieron eliminar al Alcalde.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_MSC_ANNOUNCE">
 			<English>Bandits have taken over a medical supply camp!</English>
 			<German>Banditen haben ein Medizincamp übernommen!</German>
 			<Russian>Обнаружен бандитский медицинский лагерь!</Russian>
+			<Spanish>Los bandidos han tomado control de un campamento de suministros médicos!</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_MSC_WIN">
 			<English>Survivors have secured the medical supply camp.</English>
 			<German>Überlebende haben das Medizincamp unter ihre Kontrolle gebracht.</German>
 			<Russian>Выжившие взяли под контроль медицинский лагерь.</Russian>
+			<Spanish>Los sobrevivientes han asegurado el campamento de suministros médicos.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_MSC_FAIL">
 			<English>Survivors did not secure the medical supply camp.</English>
 			<German>Das Medizincamp wird abgebaut.</German>
 			<Russian>Выжившим не удалось захватить медицинский лагерь.</Russian>
+			<Spanish>Los sobrevivientes no aseguraron el campamento de suministros médicos.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_PATROL_ANNOUNCE">
 			<English>Bandits have started to patrol in %1!</English>
 			<German>Banditen haben in %1 eine Patroullie gestartet!</German>
 			<Russian>Бандиты начали патрулирование в %1!</Russian>
+			<Spanish>Los bandidos han comenzado a patrullar en %1!</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_PATROL_WIN">
 			<English>Heroes have taken out the bandit patrol.</English>
 			<German>Helden haben die Banditenpatroullie ausgeschalten.</German>
 			<Russian>Герои уничтожили Бандитский патруль.</Russian>
+			<Spanish>Los héroes han eliminado la patrulla de bandidos.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_PATROL_FAIL">
 			<English>Bandits managed to reach their destination.</English>
 			<German>Die Banditenpatroullie ist am Zielpunkt angekommen.</German>
 			<Russian>Бандиты успешно закончили патрулирование.</Russian>
+			<Spanish>Los bandidos se las arreglaron para alcanzar su destino.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_RADIO_ANNOUNCE">
 			<English>Bandits set up a radio tower!</English>
 			<German>Banditen haben einen Funkturm errichtet!</German>
 			<Russian>Бандиты основали радиовышку.</Russian>
+			<Spanish>Los bandidos instalaron una Torre de Radio!</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_RADIO_WIN">
 			<English>Survivors secured the radio tower.</English>
 			<German>Überlebende haben den Funkturm für sich beansprucht.</German>
 			<Russian>Выжившие захватили радиовышку.</Russian>
+			<Spanish>Los sobrevivientes aseguraron la Torre de Radio.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_RADIO_FAIL">
 			<English>Survivors did not secure the radio tower.</English>
 			<German>Der Funkturm wird abgebaut.</German>
 			<Russian>Выжившим не удалось захватить радиовышку.</Russian>
+			<Spanish>Los sobrevivientes no aseguraron la Torre de Radio.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_TANK_ANNOUNCE">
 			<English>A bandit tank column stopped to resupply at an outpost!</English>
 			<German>Eine Panzerkolonne der Banditen muss an einem Außenposten aufmunitionieren!</German>
 			<Russian>Танковая колонна Бандитов остановилась для пополнения запасов!</Russian>
+			<Spanish>Una columna de tanques de bandidos se detuvo para reabastecerse!</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_TANK_WIN">
 			<English>Survivors have secured the tank column.</English>
 			<German>Überlebende haben die Panzerkolonne übernommen.</German>
 			<Russian>Выжившие захватили танковую колонну.</Russian>
+			<Spanish>Sobrevivientes han asegurado la columna de tanques.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_TANK_FAIL">
 			<English>Survivors did not secure the tank column.</English>
 			<German>Die Panzerkolonne setzt ihren Weg fort.</German>
 			<Russian>Выжившим не удалось захватить танковую колонну.</Russian>
+			<Spanish>Los sobrevivientes no aseguraron la columna de tanques.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_WEAPONCACHE_ANNOUNCE">
 			<English>Bandits have obtained a weapon crate!</English>
 			<German>Banditen haben eine Waffenkiste abgefangen!</German>
 			<Russian>Бандиты обнаружили ящик с оружием!</Russian>
+			<Spanish>Los bandidos han obtenido una caja de armas!</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_WEAPONCACHE_WIN">
 			<English>Survivors have secured the weapon crate.</English>
 			<German>Überlebende haben die Waffenkiste für sich beansprucht.</German>
 			<Russian>Выжившие захватили ящик с оружием.</Russian>
+			<Spanish>Sobrevivientes han asegurado la caja de armas.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_WEAPONCACHE_FAIL">
 			<English>Survivors did not secure the weapon crate.</English>
 			<German>Die Banditen haben die Waffenkiste fort geschafft.</German>
 			<Russian>Выжившие не смогли захватить ящик с оружием.</Russian>
+			<Spanish>Los sobrevivientes no aseguraron la caja de armas.</Spanish>
 		</Key>
 		<Key ID="STR_CL_PATROL_ARRIVE">
 			<English>The patrol arrived at %1, heading towards %2!</English>
 			<German>Eine Patroullie ist in %1, Richtung %2!</German>
 			<Russian>Патруль прибыл в %1, отправляется в %2!</Russian>
+			<Spanish>La patrulla arrivó a %1, dirigiéndose a %2!</Spanish>
 		</Key>
 		<Key ID="STR_CL_PATROL_MOVE">
 			<English>The patrol is seen moving towards %1.</English>
 			<German>Die Patroullie wurde Richtung %1 gesichtet.</German>
 			<Russian>Патруль замечен в направлении %1.</Russian>
+			<Spanish>La patrulla ha sido vista moviéndose hacia %1.</Spanish>
 		</Key>
 		<Key ID="STR_CL_AUTOCLAIM_ANNOUNCE">
 			<English>AutoClaim: If you want to claim %1, then do not leave the mission area for %2 seconds!</English>
 			<German>AutoClaim: Wenn du %1 beanspruchen willst, bleib für %2 Sekunden im Missionsbereich!</German>
 			<Russian>AutoClaim: Если вы хотите претендовать на 1%, то не покидайте зону миссии в течении 2% секунд!</Russian>
+			<Spanish>Reclamar: Si quieres reclamar %1, entonces no dejes el area de la misión por %2 segundos!</Spanish>
 		</Key>
 		<Key ID="STR_CL_AUTOCLAIM_NOCLAIM">
 			<English>AutoClaim: You did not claim %1!</English>
 			<German>AutoClaim: Du hast %1 nicht beansprucht!</German>
 			<Russian>Вы не претендуете %1!</Russian>
+			<Spanish>Reclamar: No reclamaste %1!</Spanish>
 		</Key>
 		<Key ID="STR_CL_AUTOCLAIM_RETURN">
 			<English>You have left the mission area! You have %1 seconds to return!</English>
 			<German>Du hast den Missionsbereich verlassen! Du hast %1 um zurückzukehren!</German>
 			<Russian>Вы покинули зону миссии! У вас есть %1 секунд чтобы вернуться!</Russian>
+			<Spanish>Has dejado el área de la misión! Tienes %1 segundos para volver!</Spanish>
 		</Key>
 		<Key ID="STR_CL_AUTOCLAIM_RECLAIM">
 			<English>You are back in the mission area!</English>
 			<German>Du bist wieder im Missionsbereich!</German>
 			<Russian>Вы вернулись обратно в зону миссии!</Russian>
+			<Spanish>Has regresado al área de la misión!</Spanish>
 		</Key>
 		<Key ID="STR_CL_AUTOCLAIM_CLAIM">
 			<English>AutoClaim: %1 has claimed %2! A marker has been placed!</English>
 			<German>AutoClaim: %1 hat %2 beansprucht! Ein Marker wurde gesetzt!</German>
 			<Russian>AutoClaim: %1 заявил о %2! Маркер установлен!</Russian>
+			<Spanish>Reclamar: %1 ha reclamado %2! Un marcador ha sido establedido!</Spanish>
 		</Key>
 		<Key ID="STR_CL_AUTOCLAIM_ABANDON">
 			<English>AutoClaim: %1 has abandoned %2! The marker has been removed!</English>
 			<German>AutoClaim: %1 hat %2 verlassen! Der Marker wurde entfernt!</German>
 			<Russian>AutoClaim: %1 отказался от %2! Маркер удален!</Russian>
+			<Spanish>Reclamar: %1 ha abandonado %2! El marcador ha sido removido!</Spanish>
 		</Key>
 	</Package>
 
-	<Package name="EpochServerEvents">
+<Package name="EpochServerEvents">
 		<Key ID="STR_CL_ESE_IKEA_HINT">
 			<English>&lt;t align='center' color='#00FF11' shadow='2' size='1.75'&gt;Construction Crate&lt;/t&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;IKEA truck lost its Cargo!&lt;/t&gt;</English>
 			<German>&lt;t align='center' color='#00FF11' shadow='2' size='1.75'&gt;Materialkiste&lt;/t&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Ein Ikea-Truck hat seine Materialien verloren!&lt;/t&gt;</German>
 			<Russian>&lt;t align='center' color='#00FF11' shadow='2' size='1.75'&gt;Строительные материалы&lt;/t&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Грузовик ИКЕЯ потерял свой груз!&lt;/t&gt;</Russian>
+			<Spanish>&lt;t align='center' color='#00FF11' shadow='2' size='1.75'&gt;Caja de Construcción&lt;/t&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Un camión de IKEA perdió su carga!&lt;/t&gt;</Spanish>
 		</Key>
 		<Key ID="STR_CL_ESE_TREASURE_HINT">
 			<English>&lt;t align='center' color='#FFFF66' shadow='2' size='1.75'&gt;Treasure Crate&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Pirates have hidden their treasure in a crate!&lt;/t&gt;</English>
 			<German>&lt;t align='center' color='#FFFF66' shadow='2' size='1.75'&gt;Schatztruhe&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Piraten haben ihren Schatz in einer Truhe versteckt!&lt;/t&gt;</German>
 			<Russian>&lt;t align='center' color='#FFFF66' shadow='2' size='1.75'&gt;Ящик с сокровищами&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Пираты спрятали свои сокровища в сундуке!&lt;/t&gt;</Russian>
+			<Spanish>&lt;t align='center' color='#FFFF66' shadow='2' size='1.75'&gt;Cofre del Tesoro&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Los Piratas han escondido su tesoro en una caja!&lt;/t&gt;</Spanish>
 		</Key>
 		<Key ID="STR_CL_ESE_MILITARY_HINT">
 			<English>&lt;t align='center' color='#FF0000' shadow='2' size='1.75'&gt;Military Crate&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;A special forces unit lost a crate full of weapons!&lt;/t&gt;</English>
 			<German>&lt;t align='center' color='#FF0000' shadow='2' size='1.75'&gt;Militärkiste&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Eine Spezialeinheit hat eine Kiste voll mit Waffen verloren!&lt;/t&gt;</German>
 			<Russian>&lt;t align='center' color='#FF0000' shadow='2' size='1.75'&gt;Военный груз&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Группа военных потеряла груз с оружием!&lt;/t&gt;</Russian>
+			<Spanish>&lt;t align='center' color='#FF0000' shadow='2' size='1.75'&gt;Caja Militar&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Una Unidad de las Fuerzas Especiales perdió un cajón lleno de armas!&lt;/t&gt;</Spanish>
 		</Key>
 		<Key ID="STR_CL_ESE_UNSUPPLY_HINT">
 			<English>&lt;t align='center' color='#0D00FF' shadow='2' size='1.75'&gt;Supply Crate&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;UN Agency drops life-saving supplies for Survivors!&lt;/t&gt;</English>
 			<German>&lt;t align='center' color='#0D00FF' shadow='2' size='1.75'&gt;Versorgungskiste&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Die UN wirft lebensrettende Vorräte für Überlebende ab!&lt;/t&gt;</German>
 			<Russian>&lt;t align='center' color='#0D00FF' shadow='2' size='1.75'&gt;Гуманитарная помощь&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;ООН осуществила доставку необходимых вещей для выживших!&lt;/t&gt;</Russian>
+			<Spanish>&lt;t align='center' color='#0D00FF' shadow='2' size='1.75'&gt;Caja de Suministros&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;La ONU ha arrojado suministros de supervivencia para los sobrevivientes!&lt;/t&gt;</Spanish>
 		</Key>
 		<Key ID="STR_CL_ESE_IKEA">
 			<English>IKEA truck lost its Cargo!</English>
 			<German>Ein Ikea-Truck hat seine Materialien verloren!</German>
 			<Russian>Грузовик ИКЕЯ потерял свой груз!</Russian>
+			Spanish>Un camión de IKEA perdió su carga!</spanish>
 		</Key>
 		<Key ID="STR_CL_ESE_TREASURE">
 			<English>Pirates have hidden their treasure in a crate!</English>
 			<German>Piraten haben ihren Schatz in einer Truhe versteckt!</German>
 			<Russian>Пираты спрятали свои сокровища в сундуке!</Russian>
+			<Spanish>Los Piratas han escondido su tesoro en un cofre!</Spanish>
 		</Key>
 		<Key ID="STR_CL_ESE_MILITARY">
 			<English>A special forces unit lost a crate full of weapons!</English>
 			<German>Eine Spezialeinheit hat eine Kiste voll mit Waffen verloren!</German>
 			<Russian>Группа военных потеряла груз с оружием!</Russian>
+			<Spanish>Una unidad de las fuerzas especiales perdió una caja llena de armas!</Spanish>
 		</Key>
 		<Key ID="STR_CL_ESE_UNSUPPLY">
 			<English>UN Agency drops life-saving supplies for Survivors!</English>
 			<German>Die UN wirft lebensrettende Vorräte für Überlebende ab!</German>
 			<Russian>ООН осуществила доставку необходимых вещей для выживших!</Russian>
+			<Spanish>La ONU arrojó suministros de supervivencia a los sobrevivientes!</Spanish>
 		</Key>
 	</Package>
 </Project>
