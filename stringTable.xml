@@ -2216,7 +2216,7 @@
 		</Key>
 	</Package>
 
-  <Package name="EpochServerEvents">
+	<Package name="EpochServerEvents">
 		<Key ID="STR_CL_ESE_IKEA_HINT">
 			<English>&lt;t align='center' color='#00FF11' shadow='2' size='1.75'&gt;Construction Crate&lt;/t&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;IKEA truck lost its Cargo!&lt;/t&gt;</English>
 			<German>&lt;t align='center' color='#00FF11' shadow='2' size='1.75'&gt;Materialkiste&lt;/t&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Ein Ikea-Truck hat seine Materialien verloren!&lt;/t&gt;</German>
@@ -2245,7 +2245,7 @@
 			<English>IKEA truck lost its Cargo!</English>
 			<German>Ein Ikea-Truck hat seine Materialien verloren!</German>
 			<Russian>Грузовик ИКЕЯ потерял свой груз!</Russian>
-      <Spanish>Un camión de IKEA perdió su carga!</Spanish>
+			<Spanish>Un camión de IKEA perdió su carga!</Spanish>
 		</Key>
 		<Key ID="STR_CL_ESE_TREASURE">
 			<English>Pirates have hidden their treasure in a crate!</English>
