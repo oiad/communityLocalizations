@@ -337,6 +337,7 @@
 			<English>Removed HeliPad: %1</English>
 			<German>Helipad entfernt: %1</German>
 			<Russian>Удалена площадка: %1</Russian>
+			<Spanish>Helipuerto removido: %1</Spanish>
 		</Key>
 	</Package>
 
@@ -1056,38 +1057,47 @@
 		<Key ID="STR_CL_LOG_FAIL_PLAYER">
 			<English>There is a player inside %1.</English>
 			<German>Es befindet sich ein Spieler in %1.</German>
+			<Spanish>Hay un jugador dentro de %1.</Spanish>
 		</Key>
 		<Key ID="STR_CL_LOG_LIFT_FAIL_ALREADY">
 			<English>%1 is already being towed by another vehicle.</English>
 			<German>%1 wird bereits von einem anderen Fahrzeug abgeschleppt.</German>
+			<Spanish>%1 está siendo remolcado por otro vehículo.</Spanish>
 		</Key>
 		<Key ID="STR_CL_LOG_TOW_SELECT">
 			<English>Select the vehicle that you want to tow %1 with</English>
 			<German>Wähle das Fahrzeug aus, mit welchem du %1 abschleppen willst.</German>
+			<Spanish>Elige el vehículo que quieres que %1 remolque.</Spanish>
 		</Key>
 		<Key ID="STR_CL_LOG_TOW_FAR">
 			<English>%1 is too far from the towing vehicle to be towed.</English>
 			<German>%1 ist zu weit vom abschleppenden Fahrzeug entfernt.</German>
+			<Spanish>%1 está muy lejos del vehículo remolcador para ser remolcado.</Spanish>
 		</Key>
 		<Key ID="STR_CL_LOG_TOW_TRANSIT">
 			<English>%1 is in transit.</English>
 			<German>%1 ist unterwegs.</German>
+			<Spanish>%1 está en tránsito.</Spanish>
 		</Key>
 		<Key ID="STR_CL_LOG_UNTOWED">
 			<English>%1 has been untowed.</English>
 			<German>%1 wurde abgekoppelt.</German>
+			<Spanish>%1 ya no está en el remolque.</Spanish>
 		</Key>
 		<Key ID="STR_CL_LOG_UNTOW">
 			<English>Untow this vehicle</English>
 			<German>Kopple dieses Fahrzeug ab</German>
+			<Spanish>Quitar del remolque.</Spanish>
 		</Key>
 		<Key ID="STR_CL_LOG_TOW">
 			<English>Tow selected vehicle behind this vehicle</English>
 			<German>Kopple ausgewähltes Fahrzeug hinter dieses</German>
+			<Spanish>Remolcar el vehículo seleccionado detrás de este vehículo.</Spanish>
 		</Key>
 		<Key ID="STR_CL_LOG_TOW_VEHICLE">
 			<English>Tow this vehicle</English>
 			<German>Schleppe dieses Fahrzeug ab</German>
+			<Spanish>Remolcar este vehículo.</Spanish>
 		</Key>
 	</Package>
 
