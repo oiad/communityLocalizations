@@ -31,6 +31,7 @@ Community based Localization / Translation files for popular mods - by salival
 * @AMan for German translations
 * @TheDuke77 for French translations
 * @juandayz for Spanish translations
+* @LadyVal for Spanish translations
 * @dreamforceinc for Russian translations
 * @FordGH for Russian translations
 * @Snowman for Russian translations
