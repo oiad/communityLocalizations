@@ -22,6 +22,7 @@ Community based Localization / Translation files for popular mods - by salival
 * WAI by [@worldwidesorrow (repo here)](https://github.com/worldwidesorrow/WICKED-AI)
 * Server Events [@worldwidesorrow (repohere)](https://github.com/worldwidesorrow/Epoch-Server-Events)
 * Over9000 Gambling Script [@AirwavesMan (repohere)](https://github.com/AirwavesMan/Over9000-Gambling-Script)
+* Animated Crash Spawner [@worldwidesorrow (repohere)](https://github.com/worldwidesorrow/Animated-Crash-Spawner)
 
 # Thanks to:
 
