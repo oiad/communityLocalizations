@@ -1,5 +1,5 @@
 # Community localizations/translations
-Community based Localization / Translation files for popular mods - by salival
+Community based Localization / Translation files for popular mods - by salival and epoch community
 
 * Discussion URL: https://epochmod.com/forum/topic/44788-community-based-translations/
 
@@ -28,7 +28,7 @@ Community based Localization / Translation files for popular mods - by salival
 
 * @ebayShopper for original ESSv3 translations
 * @BigEgg17 for original Safe Zones translations
-* @worldwidesorrow for original WAI & SE translations
+* @worldwidesorrow for original WAI, SE & ACS translations
 * @DAmNRelentless for German translations
 * @AMan for German translations
 * @TheDuke77 for French translations
