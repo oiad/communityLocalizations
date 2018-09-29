@@ -2272,8 +2272,8 @@
 			<German>Freiversuch, Preis 1x</German>
 		</Key>		
 		<Key ID="STR_CL_GAMBLE_PRICEFREE_NO_CARDS">
-			<English>You have no Cards for a free try!</English>
-			<German>Du hast keine Karten für einen Freiversuch!</German>
+			<English>You have no ticket for a free try!</English>
+			<German>Du hast keine Karte für einen Freiversuch!</German>
 		</Key>		
 		<Key ID="STR_CL_GAMBLE_PRICE1x">
 			<English>Gamble for 1.000 Coins, Price 1x</English>
@@ -2300,8 +2300,8 @@
 			<German>Du hast nicht genug Coins um zu wetten.</German>
 		</Key>	
 		<Key ID="STR_CL_GAMBLE_NO_LUCK">
-			<English>Ohh..., that was close but no luck this time!!!</English>
-			<German>Ohh..., das war knapp aber diesmal kein Glück!!!</German>
+			<English>That was close, no luck this time!</English>
+			<German>Das war knapp aber diesmal kein Glück!</German>
 		</Key>		
 		<Key ID="STR_CL_GAMBLE_WON">
 			<English>You won %2x %1.</English>
@@ -2324,43 +2324,43 @@
 	<Package name="AnimatedCrashSpawner">
 		<Key ID="STR_CL_ACS_ANNOUNCE_HINT">
 			<English>&lt;t align='center' color='#00FF11' shadow='2' size='1.75'&gt;Distressed %1&lt;/t&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;A %1 is in distress!&lt;/t&gt;</English>
-			<German>&lt;t align='center' color='#00FF11' shadow='2' size='1.75'&gt;%1 in Not&lt;/t&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Ein(e) %1 ist in Not!&lt;/t&gt;</German>
+			<German>&lt;t align='center' color='#00FF11' shadow='2' size='1.75'&gt;%1 in Schwierigkeiten&lt;/t&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Ein(e) %1 ist in Schwierigkeiten!&lt;/t&gt;</German>
 		</Key>
 		<Key ID="STR_CL_ACS_WATERCRASH_HINT">
 			<English>&lt;t align='center' color='#FFFF66' shadow='2' size='1.75'&gt;Distressed %1&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;The %1 has crashed into the water!&lt;br/&gt;No loot can be secured.&lt;/t&gt;</English>
-			<German>&lt;t align='center' color='#FFFF66' shadow='2' size='1.75'&gt;%1 in Not&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;%1 ist ins Wasser gekracht!&lt;br/&gt;Die Ausrüstung ist verloren&lt;/t&gt;</German>
+			<German>&lt;t align='center' color='#FFFF66' shadow='2' size='1.75'&gt;%1 in Schwierigkeiten&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;%1 ist ins Wasser gekracht!&lt;br/&gt;Die Fracht ist verloren.&lt;/t&gt;</German>
 		</Key>
 		<Key ID="STR_CL_ACS_CRASH_HINT">
 			<English>&lt;t align='center' color='#FF0000' shadow='2' size='1.75'&gt;Distressed %1&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;The %1 has crashed, go and secure the loot!&lt;/t&gt;</English>
-			<German>&lt;t align='center' color='#FF0000' shadow='2' size='1.75'&gt;%1 in Not&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;%1 ist abgestürzt, geh und sichere die Ausrüstung!&lt;/t&gt;</German>
+			<German>&lt;t align='center' color='#FF0000' shadow='2' size='1.75'&gt;%1 in Schwierigkeiten&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;%1 ist abgestürzt, geh und sichere die Fracht!&lt;/t&gt;</German>
 		</Key>
 		<Key ID="STR_CL_ACS_TIMEOUT_HINT">
 			<English>&lt;t align='center' color='#0D00FF' shadow='2' size='1.75'&gt;Distressed %1&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Survivors did not secure the %1 crash site!&lt;/t&gt;</English>
-			<German>&lt;t align='center' color='#0D00FF' shadow='2' size='1.75'&gt;%1 in Not&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Die %1 - Unfallstelle wurde nicht gesichert!&lt;/t&gt;</German>
+			<German>&lt;t align='center' color='#0D00FF' shadow='2' size='1.75'&gt;%1 in Schwierigkeiten&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Die %1 - Absturzstelle wurde nicht gesichert!&lt;/t&gt;</German>
 		</Key>
 		<Key ID="STR_CL_ACS_SUCCESS_HINT">
 			<English>&lt;t align='center' color='#0D00FF' shadow='2' size='1.75'&gt;Distressed %1&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Survivors have secured the %1 crash site!&lt;/t&gt;</English>
-			<German>&lt;t align='center' color='#0D00FF' shadow='2' size='1.75'&gt;%1 in Not&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Die %1 - Unfallstelle wurde gesichert!&lt;/t&gt;</German>
+			<German>&lt;t align='center' color='#0D00FF' shadow='2' size='1.75'&gt;%1 in Schwierigkeiten&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Die %1 - Absturzstelle wurde gesichert!&lt;/t&gt;</German>
 		</Key>
 		<Key ID="STR_CL_ACS_ANNOUNCE">
 			<English>A %1 is in distress! Watch for it and go to the crash site to secure the loot!</English>
-			<German>Ein(e) %1 ist in Not! Halte Ausschau nach der Unfallstelle und sichere die Ausrüstung!</German>
+			<German>Ein(e) %1 ist in Schwierigkeiten! Halte Ausschau nach der Absturzstelle und sichere die Fracht!</German>
 		</Key>
 		<Key ID="STR_CL_ACS_WATERCRASH">
 			<English>The %1 has crashed into the water, no loot can be secured.</English>
-			<German>%1 ist ins Wasser gekracht. Die Ausrüstung ist verloren.</German>
+			<German>%1 ist ins Wasser gekracht. Die Fracht ist verloren.</German>
 		</Key>
 		<Key ID="STR_CL_ACS_CRASH">
 			<English>The %1 has crashed, go and secure the loot!</English>
-			<German>%1 ist abgestürzt, geh und sichere die Ausrüstung!</German>
+			<German>%1 ist abgestürzt, geh und sichere die Fracht!</German>
 		</Key>
 		<Key ID="STR_CL_ACS_TIMEOUT">
 			<English>Survivors did not secure the %1 crash site!</English>
-			<German>Die %1 - Unfallstelle wurde nicht gesichert!</German>
+			<German>Die %1 - Absturzstelle wurde nicht gesichert!</German>
 		</Key>
 		<Key ID="STR_CL_ACS_SUCCESS">
 			<English>Survivors have secured the %1 crash site!</English>
-			<German>Die %1 - Unfallstelle wurde gesichert!</German>
+			<German>Die %1 - Absturzstelle wurde gesichert!</German>
 		</Key>
 	</Package>
 </Project>
