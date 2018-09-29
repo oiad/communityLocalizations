@@ -2265,40 +2265,56 @@
 			<Spanish>La ONU arrojó suministros de supervivencia a los sobrevivientes!</Spanish>
 		</Key>
 	</Package>
-	
-	<Package name="Over9000Gambling">	
+
+	<Package name="Over9000Gambling">
+		<Key ID="STR_CL_GAMBLE_PRICEFREE">
+			<English>Gamble for free, Price 1x</English>
+			<German>Freiversuch, Preis 1x</German>
+		</Key>
 		<Key ID="STR_CL_GAMBLE_PRICEFREE_NO_CARDS">
 			<English>You have no ticket for a free try!</English>
 			<German>Du hast kein Ticket für einen Freiversuch!</German>
-		</Key>		
+		</Key>
+		<Key ID="STR_CL_GAMBLE_PRICE1x">
+			<English>Gamble for 1.000 %1, Price 1x</English>
+			<German>Wetten für 1.000 %1, Preis 1x</German>
+		</Key>
+		<Key ID="STR_CL_GAMBLE_PRICE2x">
+			<English>Gamble for 2.000 %1, Price 2x</English>
+			<German>Wetten für 2.000 %1, Preis 2x</German>
+		</Key>
+		<Key ID="STR_CL_GAMBLE_PRICE3x">
+			<English>Gamble for 3.000 %1, Price 3x</English>
+			<German>Wetten für 3.000 %1, Preis 3x</German>
+		</Key>
 		<Key ID="STR_CL_GAMBLE_GAMBLING_FOR_X_COINS">
 			<English>You are gambling for %1 %2!</English>
 			<German>Du wettest für %1 %2!</German>
-		</Key>	
+		</Key>
 		<Key ID="STR_CL_GAMBLE_GAMBLING_FOR_FREE">
 			<English>You are gambling for free!</English>
 			<German>Du wettest mit einem Freiversuch!</German>
-		</Key>			
+		</Key>
 		<Key ID="STR_CL_GAMBLE_NO_MONEY">
 			<English>You have not enough %1 to gamble.</English>
 			<German>Du hast nicht genug %1 um zu wetten.</German>
-		</Key>	
+		</Key>
 		<Key ID="STR_CL_GAMBLE_NO_LUCK">
 			<English>That was close, no luck this time!</English>
 			<German>Das war knapp aber diesmal kein Glück!</German>
-		</Key>		
+		</Key>
 		<Key ID="STR_CL_GAMBLE_WON">
 			<English>You won %1x %2.</English>
 			<German>Du hast %1x %2 gewonnen.</German>
-		</Key>	
+		</Key>
 		<Key ID="STR_CL_GAMBLE_WON_COINS">
 			<English>You won %1 %2.</English>
 			<German>Du hast %1 %2 gewonnen.</German>
-		</Key>	
+		</Key>
 		<Key ID="STR_CL_GAMBLE_WON_COINS_JACKPOT">
 			<English>You won the Jackpot of %1 %2!</English>
 			<German>Du hast den Jackpot von %1 %2 gewonnen!</German>
-		</Key>	
+		</Key>
 		<Key ID="STR_CL_GAMBLE_ALREADY">
 			<English>Slow down you Gambling Queen!</English>
 			<German>Mach mal langsam du Zockerqueen!</German>
