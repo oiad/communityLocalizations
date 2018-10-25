@@ -1647,7 +1647,6 @@
 			<German>Eine Soldatengruppe hat ein Medizincamp aufgeschlagen!</German>
 			<Russian>Обнаружен медицинский лагерь!</Russian>
 			<Spanish>Un escuadrón ha instalado un campamento de suministros médicos!</Spanish>
-			
 		</Key>
 		<Key ID="STR_CL_BANDIT_MSC_WIN">
 			<English>Survivors have taken control of the medical supply camp.</English>
@@ -1809,7 +1808,7 @@
 			<English>Bandits have disabled an armed vehicle!</English>
 			<German>Banditen haben ein bewaffnetes Fahrzeug ausgeschalten!</German>
 			<Russian>Бандиты захватили вооруженный транспорт!</Russian>
-			<Spanish>Los bandidos han desabilitado un vehículo armado!</Spanish>			
+			<Spanish>Los bandidos han desabilitado un vehículo armado!</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_ARMEDVEHICLE_WIN">
 			<English>Survivors have secured the armed vehicle.</English>
@@ -2320,7 +2319,7 @@
 			<German>Mach mal langsam du Zockerqueen!</German>
 		</Key>
 	</Package>
-	
+
 	<Package name="AnimatedCrashSpawner">
 		<Key ID="STR_CL_ACS_ANNOUNCE_HINT">
 			<English>&lt;t align='center' color='#00FF11' shadow='2' size='1.75'&gt;Distressed %1&lt;/t&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;A %1 is in distress!&lt;/t&gt;</English>
