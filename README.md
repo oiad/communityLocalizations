@@ -29,9 +29,10 @@ Community based Localization / Translation files for popular mods - by salival a
 * @ebayShopper for original ESSv3 translations
 * @BigEgg17 for original Safe Zones translations
 * @worldwidesorrow for original WAI, SE & ACS translations
+* @AMan for original Gambling translations
 * @DAmNRelentless for German translations
-* @AMan for German translations
 * @TheDuke77 for French translations
+* @MigSDev5 for French translations
 * @juandayz for Spanish translations
 * @LadyVal for Spanish translations
 * @dreamforceinc for Russian translations
