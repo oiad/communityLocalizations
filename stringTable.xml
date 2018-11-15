@@ -2413,11 +2413,11 @@
 			<Spanish>Los sobrevivientes no aseguraron la caja de armas.</Spanish>
 		</Key>
 		<Key ID="STR_CL_PATROL_ARRIVE">
-			<English>The patrol arrived at %1, heading towards %2!</English>
-			<German>Eine Patroullie ist in %1, Richtung %2!</German>
-			<French>La patrouille est arrivé a %1, et se dirige vers %2!</French>
-			<Russian>Патруль прибыл в %1, отправляется в %2!</Russian>
-			<Spanish>La patrulla arrivó a %1, dirigiéndose a %2!</Spanish>
+			<English>The patrol arrived at %1!</English>
+			<German>Eine Patroullie ist in %1!</German>
+			<French>La patrouille est arrivé a %1!</French>
+			<Russian>Патруль прибыл в %1!</Russian>
+			<Spanish>La patrulla arrivó a %1!</Spanish>
 		</Key>
 		<Key ID="STR_CL_PATROL_MOVE">
 			<English>The patrol is seen moving towards %1.</English>
@@ -2425,6 +2425,9 @@
 			<French>La patrouille se dirige vers %1.</French>
 			<Russian>Патруль замечен в направлении %1.</Russian>
 			<Spanish>La patrulla ha sido vista moviéndose hacia %1.</Spanish>
+		</Key>
+		<Key ID="STR_CL_PATROL_DISABLED">
+			<English>The %1 Patrol has become disabled!</English>
 		</Key>
 		<Key ID="STR_CL_AUTOCLAIM_ANNOUNCE">
 			<English>AutoClaim: If you want to claim %1, then do not leave the mission area for %2 seconds!</English>
@@ -2468,36 +2471,62 @@
 			<Russian>AutoClaim: %1 отказался от %2! Маркер удален!</Russian>
 			<Spanish>Reclamar: %1 ha abandonado %2! El marcador ha sido removido!</Spanish>
 		</Key>
+		<Key ID="STR_CL_BANDIT_AIRDROP_ANNOUNCE">
+			<English>A %1 is air dropping a %2 for the PMC!</English>
+		</Key>
+		<Key ID="STR_CL_BANDIT_AIRDROP_CRASH">
+			<English>The %1 has crashed!</English>
+		</Key>
+		<Key ID="STR_CL_BANDIT_AIRDROP_DROP">
+			<English>The %1 has been dropped!</English>
+		</Key>
+		<Key ID="STR_CL_BANDIT_AIRDROP_WIN">
+			<English>Bandits have stolen the %1!</English>
+		</Key>
+		<Key ID="STR_CL_BANDIT_AIRDROP_FAIL">
+			<English>Bandits could not steal the %1</English>
+		</Key>
+		<Key ID="STR_CL_HERO_AIRDROP_ANNOUNCE">
+			<English>A %1 is air dropping a %2 for the Taliban!</English>
+		</Key>
+		<Key ID="STR_CL_HERO_AIRDROP_CRASH">
+			<English>The %1 has crashed!</English>
+		</Key>
+		<Key ID="STR_CL_HERO_AIRDROP_DROP">
+			<English>The %1 has been dropped!</English>
+		</Key>
+		<Key ID="STR_CL_HERO_AIRDROP_WIN">
+			<English>Survivors have secured the %1!</English>
+		</Key>
+		<Key ID="STR_CL_HERO_AIRDROP_FAIL">
+			<English>Survivors did not secure the %1</English>
+		</Key>
+		<Key ID="STR_CL_BANDIT_FIRESTATION_ANNOUNCE">
+			<English>Heroes are guarding a fire station!</English>
+		</Key>
+		<Key ID="STR_CL_BANDIT_FIRESTATION_WIN">
+			<English>Bandits have taken the fire station!</English>
+		</Key>
+		<Key ID="STR_CL_BANDIT_FIRESTATION_FAIL">
+			<English>Bandits failed to secure the fire station!</English>
+		</Key>
+		<Key ID="STR_CL_HERO_FIRESTATION_ANNOUNCE">
+			<English>Bandits are attacking a fire station!</English>
+		</Key>
+		<Key ID="STR_CL_HERO_FIRESTATION_WIN">
+			<English>Survivors have secured the fire station!</English>
+		</Key>
+		<Key ID="STR_CL_HERO_FIRESTATION_FAIL">
+			<English>Survivors failed to secure the fire station!</English>
+		</Key>
 	</Package>
 
 	<Package name="EpochServerEvents">
-		<Key ID="STR_CL_ESE_IKEA_HINT">
-			<English>&lt;t align='center' color='#00FF11' shadow='2' size='1.75'&gt;Construction Crate&lt;/t&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;IKEA truck lost its Cargo!&lt;/t&gt;</English>
-			<German>&lt;t align='center' color='#00FF11' shadow='2' size='1.75'&gt;Materialkiste&lt;/t&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Ein Ikea-Truck hat seine Materialien verloren!&lt;/t&gt;</German>
-			<Russian>&lt;t align='center' color='#00FF11' shadow='2' size='1.75'&gt;Строительные материалы&lt;/t&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Грузовик ИКЕЯ потерял свой груз!&lt;/t&gt;</Russian>
-			<Spanish>&lt;t align='center' color='#00FF11' shadow='2' size='1.75'&gt;Caja de Construcción&lt;/t&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Un camión de IKEA perdió su carga!&lt;/t&gt;</Spanish>
-			<French>&lt;t align='center' color='#00FF11' shadow='2' size='1.75'&gt;Caisse de Construction&lt;/t&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Un camion IKEA a perdue sa cargaison!&lt;/t&gt;</French>			
-		</Key>
-		<Key ID="STR_CL_ESE_TREASURE_HINT">
-			<English>&lt;t align='center' color='#FFFF66' shadow='2' size='1.75'&gt;Treasure Crate&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Pirates have hidden their treasure in a crate!&lt;/t&gt;</English>
-			<German>&lt;t align='center' color='#FFFF66' shadow='2' size='1.75'&gt;Schatztruhe&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Piraten haben ihren Schatz in einer Truhe versteckt!&lt;/t&gt;</German>
-			<Russian>&lt;t align='center' color='#FFFF66' shadow='2' size='1.75'&gt;Ящик с сокровищами&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Пираты спрятали свои сокровища в сундуке!&lt;/t&gt;</Russian>
-			<Spanish>&lt;t align='center' color='#FFFF66' shadow='2' size='1.75'&gt;Cofre del Tesoro&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Los Piratas han escondido su tesoro en una caja!&lt;/t&gt;</Spanish>
-			<French>&lt;t align='center' color='#FFFF66' shadow='2' size='1.75'&gt;Caisse aux Trésort&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Des pirates on cacher un trésort dans une caisse!&lt;/t&gt;</French>			
-		</Key>
-		<Key ID="STR_CL_ESE_MILITARY_HINT">
-			<English>&lt;t align='center' color='#FF0000' shadow='2' size='1.75'&gt;Military Crate&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;A special forces unit lost a crate full of weapons!&lt;/t&gt;</English>
-			<German>&lt;t align='center' color='#FF0000' shadow='2' size='1.75'&gt;Militärkiste&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Eine Spezialeinheit hat eine Kiste voll mit Waffen verloren!&lt;/t&gt;</German>
-			<Russian>&lt;t align='center' color='#FF0000' shadow='2' size='1.75'&gt;Военный груз&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Группа военных потеряла груз с оружием!&lt;/t&gt;</Russian>
-			<Spanish>&lt;t align='center' color='#FF0000' shadow='2' size='1.75'&gt;Caja Militar&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Una Unidad de las Fuerzas Especiales perdió un cajón lleno de armas!&lt;/t&gt;</Spanish>
-			<French>&lt;t align='center' color='#FF0000' shadow='2' size='1.75'&gt;Caisse Militaire&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Une unité des forces spéciales a perdu une caisse pleine d'armes!&lt;/t&gt;</French>			
-		</Key>
-		<Key ID="STR_CL_ESE_UNSUPPLY_HINT">
-			<English>&lt;t align='center' color='#0D00FF' shadow='2' size='1.75'&gt;Supply Crate&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;UN Agency drops life-saving supplies for Survivors!&lt;/t&gt;</English>
-			<German>&lt;t align='center' color='#0D00FF' shadow='2' size='1.75'&gt;Versorgungskiste&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Die UN wirft lebensrettende Vorräte für Überlebende ab!&lt;/t&gt;</German>
-			<Russian>&lt;t align='center' color='#0D00FF' shadow='2' size='1.75'&gt;Гуманитарная помощь&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;ООН осуществила доставку необходимых вещей для выживших!&lt;/t&gt;</Russian>
-			<Spanish>&lt;t align='center' color='#0D00FF' shadow='2' size='1.75'&gt;Caja de Suministros&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;La ONU ha arrojado suministros de supervivencia para los sobrevivientes!&lt;/t&gt;</Spanish>
-			<French>&lt;t align='center' color='#0D00FF' shadow='2' size='1.75'&gt;Caisse De  Provisions&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%1'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Une agence UN a parachuter des provisions pour les survivant!&lt;/t&gt;</French>			
+		<Key ID="STR_CL_ESE_IKEA_TITLE">
+			<English>Construction Crate</English>
+			<German>Materialkiste</German>
+			<Russian>Строительные материалы</Russian>
+			<Spanish>Caja de Construcción</Spanish>
 		</Key>
 		<Key ID="STR_CL_ESE_IKEA">
 			<English>IKEA truck lost its Cargo!</English>
@@ -2506,12 +2535,24 @@
 			<Russian>Грузовик ИКЕЯ потерял свой груз!</Russian>
 			<Spanish>Un camión de IKEA perdió su carga!</Spanish>
 		</Key>
+		<Key ID="STR_CL_ESE_TREASURE_TITLE">
+			<English>Treasure Crate</English>
+			<German>Schatztruhe</German>
+			<Russian>Ящик с сокровищами</Russian>
+			<Spanish>Cofre del Tesoro</Spanish>
+		</Key>
 		<Key ID="STR_CL_ESE_TREASURE">
 			<English>Pirates have hidden their treasure in a crate!</English>
 			<German>Piraten haben ihren Schatz in einer Truhe versteckt!</German>
 			<French>Des pirates on cacher un trésort dans une caisse!</French>
 			<Russian>Пираты спрятали свои сокровища в сундуке!</Russian>
 			<Spanish>Los Piratas han escondido su tesoro en un cofre!</Spanish>
+		</Key>
+		<Key ID="STR_CL_ESE_MILITARY_TITLE">
+			<English>Military Crate</English>
+			<German>Militärkiste</German>
+			<Russian>Военный груз</Russian>
+			<Spanish>Caja Militar</Spanish>
 		</Key>
 		<Key ID="STR_CL_ESE_MILITARY">
 			<English>A special forces unit lost a crate full of weapons!</English>
@@ -2520,12 +2561,36 @@
 			<Russian>Группа военных потеряла груз с оружием!</Russian>
 			<Spanish>Una unidad de las fuerzas especiales perdió una caja llena de armas!</Spanish>
 		</Key>
+		<Key ID="STR_CL_ESE_UNSUPPLY_TITLE">
+			<English>Supply Crate</English>
+			<German>Versorgungskiste</German>
+			<Russian>Гуманитарная помощь</Russian>
+			<Spanish>Caja de Suministros</Spanish>
+		</Key>
 		<Key ID="STR_CL_ESE_UNSUPPLY">
 			<English>UN Agency drops life-saving supplies for Survivors!</English>
 			<German>Die UN wirft lebensrettende Vorräte für Überlebende ab!</German>
 			<French>Une agence UN a parachuter des provisions pour les survivants!</French>
 			<Russian>ООН осуществила доставку необходимых вещей для выживших!</Russian>
 			<Spanish>La ONU arrojó suministros de supervivencia a los sobrevivientes!</Spanish>
+		</Key>
+		<Key ID="STR_CL_ESE_RUBBLETOWN_TITLE">
+			<English>Rubble Town</English>
+		</Key>
+		<Key ID="STR_CL_ESE_RUBBLETOWN">
+			<English>Mercenaries stashed a loot crate in rubble town!</English>
+		</Key>
+		<Key ID="STR_CL_ESE_LABYRINTH_TITLE">
+			<English>Labyrinth</English>
+		</Key>
+		<Key ID="STR_CL_ESE_LABYRINTH">
+			<English>David Bowie put a loot crate inside a Labyrinth!</English>
+		</Key>
+		<Key ID="STR_CL_ESE_VAULT_TITLE">
+			<English>Abandoned Safe</English>
+		</Key>
+		<Key ID="STR_CL_ESE_VAULT">
+			<English>There is an abandoned safe with 0000 as it's code!</English>
 		</Key>
 	</Package>
 
@@ -2598,30 +2663,8 @@
 	</Package>
 
 	<Package name="AnimatedCrashSpawner">
-		<Key ID="STR_CL_ACS_ANNOUNCE_HINT">
-			<English>&lt;t align='center' color='#00FF11' shadow='2' size='1.75'&gt;Distressed %1&lt;/t&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;A %1 is in distress!&lt;/t&gt;</English>
-			<German>&lt;t align='center' color='#00FF11' shadow='2' size='1.75'&gt;%1 in Schwierigkeiten&lt;/t&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Ein(e) %1 ist in Schwierigkeiten!&lt;/t&gt;</German>
-			<French>&lt;t align='center' color='#00FF11' shadow='2' size='1.75'&gt;En Détresse %1&lt;/t&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;A %1 est en détrèsse!&lt;/t&gt;</French>			
-		</Key>
-		<Key ID="STR_CL_ACS_WATERCRASH_HINT">
-			<English>&lt;t align='center' color='#FFFF66' shadow='2' size='1.75'&gt;Distressed %1&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;The %1 has crashed into the water!&lt;br/&gt;No loot can be secured.&lt;/t&gt;</English>
-			<German>&lt;t align='center' color='#FFFF66' shadow='2' size='1.75'&gt;%1 in Schwierigkeiten&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;%1 ist ins Wasser gekracht!&lt;br/&gt;Die Fracht ist verloren.&lt;/t&gt;</German>
-			<French>&lt;t align='center' color='#FFFF66' shadow='2' size='1.75'&gt;En Detresse %1&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;The %1 c'est cracher dans l'eau!&lt;br/&gt;Aucun loot ne peut etre securiser.&lt;/t&gt;</French>			
-		</Key>
-		<Key ID="STR_CL_ACS_CRASH_HINT">
-			<English>&lt;t align='center' color='#FF0000' shadow='2' size='1.75'&gt;Distressed %1&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;The %1 has crashed, go and secure the loot!&lt;/t&gt;</English>
-			<German>&lt;t align='center' color='#FF0000' shadow='2' size='1.75'&gt;%1 in Schwierigkeiten&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;%1 ist abgestürzt, geh und sichere die Fracht!&lt;/t&gt;</German>
-			<French>&lt;t align='center' color='#FF0000' shadow='2' size='1.75'&gt;En Detresse %1&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;The %1 c'est cracher, aller chercher le butin!&lt;/t&gt;</French>			
-		</Key>
-		<Key ID="STR_CL_ACS_TIMEOUT_HINT">
-			<English>&lt;t align='center' color='#0D00FF' shadow='2' size='1.75'&gt;Distressed %1&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Survivors did not secure the %1 crash site!&lt;/t&gt;</English>
-			<German>&lt;t align='center' color='#0D00FF' shadow='2' size='1.75'&gt;%1 in Schwierigkeiten&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Die %1 - Absturzstelle wurde nicht gesichert!&lt;/t&gt;</German>
-			<French>&lt;t align='center' color='#0D00FF' shadow='2' size='1.75'&gt;En Detresse %1&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Les survivants n'on pas securiser le site du crash %1!&lt;/t&gt;</French>			
-		</Key>
-		<Key ID="STR_CL_ACS_SUCCESS_HINT">
-			<English>&lt;t align='center' color='#0D00FF' shadow='2' size='1.75'&gt;Distressed %1&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Survivors have secured the %1 crash site!&lt;/t&gt;</English>
-			<German>&lt;t align='center' color='#0D00FF' shadow='2' size='1.75'&gt;%1 in Schwierigkeiten&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Die %1 - Absturzstelle wurde gesichert!&lt;/t&gt;</German>
-			<French>&lt;t align='center' color='#0D00FF' shadow='2' size='1.75'&gt;En Detresse %1&lt;/t&gt;&lt;br/&gt;&lt;img size='4' align='Center' image='%2'/&gt;&lt;br/&gt;&lt;t align='center' color='#ffffff'&gt;Les survivants on securiser le site du crash %1!&lt;/t&gt;</French>			
+		<Key ID="STR_CL_ACS_TITLE">
+			<English>Animated Crash</English>
 		</Key>
 		<Key ID="STR_CL_ACS_ANNOUNCE">
 			<English>A %1 is in distress! Watch for it and go to the crash site to secure the loot!</English>
