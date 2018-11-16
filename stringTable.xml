@@ -2603,6 +2603,7 @@
 		</Key>
 		<Key ID="STR_CL_ESE_LABYRINTH">
 			<English>David Bowie put a loot crate inside a Labyrinth!</English>
+			<Russian>David Bowie спрятал ящик с лутом в лабиринте!</Russian>
 		</Key>
 		<Key ID="STR_CL_ESE_VAULT_TITLE">
 			<English>Abandoned Safe</English>
@@ -2685,29 +2686,35 @@
 	<Package name="AnimatedCrashSpawner">
 		<Key ID="STR_CL_ACS_TITLE">
 			<English>Animated Crash</English>
+			<Russian>Анимированное крушение</Russian>
 		</Key>
 		<Key ID="STR_CL_ACS_ANNOUNCE">
 			<English>A %1 is in distress! Watch for it and go to the crash site to secure the loot!</English>
+			<Russian>%1 терпит бедствие! Наблюдайте за ним и идите к месту крушения для захвата лута!</Russian>
 			<German>Ein(e) %1 ist in Schwierigkeiten! Halte Ausschau nach der Absturzstelle und sichere die Fracht!</German>
 			<French>Un %1 EST EN Detresse, Regarder ou il se touver pour allez recuperer le butin!</French>
 		</Key>
 		<Key ID="STR_CL_ACS_WATERCRASH">
 			<English>The %1 has crashed into the water, no loot can be secured.</English>
+			<Russian>%1 потерпел крушение на воду. Увы, лут утонул.</Russian>
 			<German>%1 ist ins Wasser gekracht. Die Fracht ist verloren.</German>
 			<French>Le %1 c'est cracher dans l'eau, aucun butin n'est recuperable.</French>
 		</Key>
 		<Key ID="STR_CL_ACS_CRASH">
 			<English>The %1 has crashed, go and secure the loot!</English>
+			<Russian>%1 потерпел крушение. Захватите лут.</Russian>
 			<German>%1 ist abgestürzt, geh und sichere die Fracht!</German>
 			<French>Le %1 c'est cracher! Allez chercher le butin!</French>
 		</Key>
 		<Key ID="STR_CL_ACS_TIMEOUT">
 			<English>Survivors did not secure the %1 crash site!</English>
+			<Russian>Выжившие не смогли захватить %1 потерпевший крушение!</Russian>
 			<German>Die %1 - Absturzstelle wurde nicht gesichert!</German>
 			<French>Les survivants n'on pas securiser le site du crach du %1!</French>
 		</Key>
 		<Key ID="STR_CL_ACS_SUCCESS">
 			<English>Survivors have secured the %1 crash site!</English>
+			<Russian>Выжившие захватили %1 потерпевший крушение!</Russian>
 			<German>Die %1 - Absturzstelle wurde gesichert!</German>
 			<French>Les survivants on securiser le site du crash du %1!</French>
 		</Key>
