@@ -2428,6 +2428,7 @@
 		</Key>
 		<Key ID="STR_CL_PATROL_DISABLED">
 			<English>The %1 Patrol has become disabled!</English>
+			<Russian>Патруль %1 выключен.</Russian>
 		</Key>
 		<Key ID="STR_CL_AUTOCLAIM_ANNOUNCE">
 			<English>AutoClaim: If you want to claim %1, then do not leave the mission area for %2 seconds!</English>
@@ -2473,51 +2474,67 @@
 		</Key>
 		<Key ID="STR_CL_BANDIT_AIRDROP_ANNOUNCE">
 			<English>A %1 is air dropping a %2 for the PMC!</English>
+			<Russian>%1 будет сброшен в %2 для PMC!</Russian>
 		</Key>
 		<Key ID="STR_CL_BANDIT_AIRDROP_CRASH">
 			<English>The %1 has crashed!</English>
+			<Russian>%1 потерпел крушение!</Russian>
 		</Key>
 		<Key ID="STR_CL_BANDIT_AIRDROP_DROP">
 			<English>The %1 has been dropped!</English>
+			<Russian>%1 был сброшен!</Russian>
 		</Key>
 		<Key ID="STR_CL_BANDIT_AIRDROP_WIN">
 			<English>Bandits have stolen the %1!</English>
+			<Russian>Бандиты похитили %1!</Russian>
 		</Key>
 		<Key ID="STR_CL_BANDIT_AIRDROP_FAIL">
 			<English>Bandits could not steal the %1</English>
+			<Russian>Бандиты не смогли украсть!</Russian>
 		</Key>
 		<Key ID="STR_CL_HERO_AIRDROP_ANNOUNCE">
 			<English>A %1 is air dropping a %2 for the Taliban!</English>
+			<Russian>%1 будет сброшен в %2 для Талибов!</Russian>
 		</Key>
 		<Key ID="STR_CL_HERO_AIRDROP_CRASH">
 			<English>The %1 has crashed!</English>
+			<Russian>Потерпел крушение!</Russian>
 		</Key>
 		<Key ID="STR_CL_HERO_AIRDROP_DROP">
 			<English>The %1 has been dropped!</English>
+			<Russian>%1 был сброшен!</Russian>
 		</Key>
 		<Key ID="STR_CL_HERO_AIRDROP_WIN">
 			<English>Survivors have secured the %1!</English>
+			<Russian>Выжившие захватили %1!</Russian>
 		</Key>
 		<Key ID="STR_CL_HERO_AIRDROP_FAIL">
 			<English>Survivors did not secure the %1</English>
+			<Russian>Выжившие не смогли захватить %1!</Russian>
 		</Key>
 		<Key ID="STR_CL_BANDIT_FIRESTATION_ANNOUNCE">
 			<English>Heroes are guarding a fire station!</English>
+			<Russian>Герои охраняют пожарную часть!</Russian>
 		</Key>
 		<Key ID="STR_CL_BANDIT_FIRESTATION_WIN">
 			<English>Bandits have taken the fire station!</English>
+			<Russian>Бандиты захватили пожарную часть!</Russian>
 		</Key>
 		<Key ID="STR_CL_BANDIT_FIRESTATION_FAIL">
 			<English>Bandits failed to secure the fire station!</English>
+			<Russian>Бандиты не смогли захватить пожарную часть!</Russian>
 		</Key>
 		<Key ID="STR_CL_HERO_FIRESTATION_ANNOUNCE">
 			<English>Bandits are attacking a fire station!</English>
+			<Russian>Бандиты атаковали пожарную часть!</Russian>
 		</Key>
 		<Key ID="STR_CL_HERO_FIRESTATION_WIN">
 			<English>Survivors have secured the fire station!</English>
+			<Russian>Выжившие захватили у бандитов пожарную часть!</Russian>
 		</Key>
 		<Key ID="STR_CL_HERO_FIRESTATION_FAIL">
 			<English>Survivors failed to secure the fire station!</English>
+			<Russian>Выжившие не смогли захватить пожарную часть!</Russian>
 		</Key>
 	</Package>
 
@@ -2582,15 +2599,18 @@
 		</Key>
 		<Key ID="STR_CL_ESE_LABYRINTH_TITLE">
 			<English>Labyrinth</English>
+			<Russian>Лабиринт</Russian>
 		</Key>
 		<Key ID="STR_CL_ESE_LABYRINTH">
 			<English>David Bowie put a loot crate inside a Labyrinth!</English>
 		</Key>
 		<Key ID="STR_CL_ESE_VAULT_TITLE">
 			<English>Abandoned Safe</English>
+			<Russian>Брошенный сейф</Russian>
 		</Key>
 		<Key ID="STR_CL_ESE_VAULT">
 			<English>There is an abandoned safe with 0000 as it's code!</English>
+			<Russian>Брошенный сейф с кодом 0000</Russian>
 		</Key>
 	</Package>
 
