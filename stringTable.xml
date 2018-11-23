@@ -564,6 +564,12 @@
 			<French>Guichet</French>
 			<Spanish>Cajero Automatico</Spanish>
 		</Key>
+		<Key ID="STR_CL_ZSC_COMBO_RESET">
+			<English>The combination on this %1 has been reset to %2</English>
+		</Key>
+		<Key ID="STR_CL_ZSC_PACK_WARNING">
+			<English>You packed %1 while it had %2 %3 in it, it has been transferred to your %3 total.</English>
+		</Key>
 	</Package>
 
 	<Package name="remoteVehicle">
@@ -1845,21 +1851,21 @@
 			<Russian>Герои успешно закончили патрулирование.</Russian>
 			<Spanish>Los Héroes lograron alcanzar su destino.</Spanish>
 		</Key>
-		<Key ID="STR_CL_BANDIT_PRESIDENT_ANNOUNCE">
+		<Key ID="STR_CL_PRESIDENT_ANNOUNCE">
 			<English>The President is in town for a press conference!</English>
 			<German>Der Präsident ist für eine Pressekonferenz in der Stadt!</German>
 			<French>Le président est en ville pour faire uen conférence de presse!</French>
 			<Russian>Президент приехал в город на конференцию!</Russian>
 			<Spanish>El Presidednte está en la ciudad por una conferencia de prensa!</Spanish>
 		</Key>
-		<Key ID="STR_CL_BANDIT_PRESIDENT_WIN">
+		<Key ID="STR_CL_PRESIDENT_WIN">
 			<English>The President has been assassinated.</English>
 			<German>Der Präsident wurde ermordet.</German>
 			<French>Le président a été assasiné.</French>
 			<Russian>Президент был убит.</Russian>
 			<Spanish>El Presidente ha sido asesinado.</Spanish>
 		</Key>
-		<Key ID="STR_CL_BANDIT_PRESIDENT_FAIL">
+		<Key ID="STR_CL_PRESIDENT_FAIL">
 			<English>The President managed to get away.</English>
 			<French>Le président a términé sa conférence.</French>
 			<German>Sicherheitspersonal hat den Präsidenten aus der Stadt geschafft.</German>
@@ -1970,6 +1976,15 @@
 			<French>Les Bandits n'on pas sécuriser la cache d'armes.</French>
 			<Russian>Бандиты не смогли захватить ящик с оружием.</Russian>
 			<Spanish>Los bandidos no aseguraron el cache de armas!</Spanish>
+		</Key>
+		<Key ID="STR_CL_BANDIT_HEROPATROL_ANNOUNCE">
+			<English>A Hero scout patrol is checking out a new base location!</English>
+		</Key>
+		<Key ID="STR_CL_BANDIT_HEROPATROL_WIN">
+			<English>Bandits have killed the scout patrol.</English>
+		</Key>
+		<Key ID="STR_CL_BANDIT_HEROPATROL_FAIL">
+			<English>Bandits did not deal with the scout patrol.</English>
 		</Key>
 		<Key ID="STR_CL_HERO_ABANDONEDTRADER_ANNOUNCE">
 			<English>Bandits are securing an abandoned trader!</English>
@@ -2286,21 +2301,21 @@
 			<Russian>Выжившие не смогли вовремя захватить лесопилку.</Russian>
 			<Spanish>Los sobrevivientes no han asegurado el aserradero.</Spanish>
 		</Key>
-		<Key ID="STR_CL_HERO_MAYOR_ANNOUNCE">
+		<Key ID="STR_CL_MAYOR_ANNOUNCE">
 			<English>The Mayor has gone rogue!</English>
 			<German>Der Bürgermeister ist korrupt!</German>
 			<French>Le maire est devenue un voyou!</French>
 			<Russian>Коррумпированный Мэр прячется в особняке!</Russian>
 			<Spanish>El Alcalde se ha vuelto deshonesto!</Spanish>
 		</Key>
-		<Key ID="STR_CL_HERO_MAYOR_WIN">
+		<Key ID="STR_CL_MAYOR_WIN">
 			<English>The rogue mayor has been taken out.</English>
 			<German>Der Bürgermeister wurde ausgeschalten.</German>
 			<French>Le maire a été assasiné.</French>
 			<Russian>Особняк Мэра под контролем выживших.</Russian>
 			<Spanish>El alcalde deshonesto ha sido eliminado.</Spanish>
 		</Key>
-		<Key ID="STR_CL_HERO_MAYOR_FAIL">
+		<Key ID="STR_CL_MAYOR_FAIL">
 			<English>Survivors were unable to take the mayor down.</English>
 			<German>Der Bürgermeister konnte unentdeckt davon kommen.</German>
 			<French>Les survivant on mis trop de temps, le maire c'est enfuis.</French>
@@ -2740,6 +2755,48 @@
 			<Russian>Выжившие захватили %1 потерпевший крушение!</Russian>
 			<German>Die %1 - Absturzstelle wurde gesichert!</German>
 			<French>Les survivants on securiser le site du crash du %1!</French>
+		</Key>
+	</Package>
+	
+	<Package name="EvacChopper">
+		<Key ID="STR_CL_EC_NAME">
+			<English>Evac-Chopper</English>
+		</Key>
+		<Key ID="STR_CL_EC_CLEAR">
+			<English>Clearing Evac-Chopper, Move to Cancel.</English>
+		</Key>
+		<Key ID="STR_CL_EC_EXISTS">
+			<English>You already have an %1!</English>
+		</Key>
+		<Key ID="STR_CL_EC_NOT_OWNER">
+			<English>You are not the owner.</English>
+		</Key>
+		<Key ID="STR_CL_EC_MINIMUM_DISTANCE">
+			<English>You must be at least %1 meters away to call your %2.</English>
+		</Key>
+		<Key ID="STR_CL_EC_COUNTDOWN">
+			<English>%1 gets called in %2s - Move to Cancel!</English>
+		</Key>
+		<Key ID="STR_CL_EC_UNABLETOEVAC">
+			<English>The chopper is unable to fly to you.</English>
+		</Key>
+		<Key ID="STR_CL_EC_MARKER">
+			<English>Check the map for your disabled %1 marker.</English>
+		</Key>
+		<Key ID="STR_CL_EC_CRASHED">
+			<English>!!! CRASHED !!!</English>
+		</Key>
+		<Key ID="STR_CL_EC_DISABLED">
+			<English>!!! DISABLED !!!</English>
+		</Key>
+		<Key ID="STR_CL_EC_ARRIVED">
+			<English>!!! ARRIVED !!!</English>
+		</Key>
+		<Key ID="STR_CL_EC_NEED_COINS">
+			<English>You need %1 %2 to set your %3.</English>
+		</Key>
+		<Key ID="STR_CL_EC_NEED_BRIEFCASES">
+			<English>You need %1 to set your %2.</English>
 		</Key>
 	</Package>
 </Project>
