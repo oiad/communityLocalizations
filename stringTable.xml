@@ -1979,12 +1979,15 @@
 		</Key>
 		<Key ID="STR_CL_BANDIT_HEROPATROL_ANNOUNCE">
 			<English>A Hero scout patrol is checking out a new base location!</English>
+			<Russian>Разведчики Героев проверяют место под новую базу!</Russian>
 		</Key>
 		<Key ID="STR_CL_BANDIT_HEROPATROL_WIN">
 			<English>Bandits have killed the scout patrol.</English>
+			<Russian>Бандиты уничтожили Геройских разведчиков.</Russian>
 		</Key>
 		<Key ID="STR_CL_BANDIT_HEROPATROL_FAIL">
 			<English>Bandits did not deal with the scout patrol.</English>
+			<Russian>Бандиты не смголи уничтожить Геройских разведчиков.</Russian>
 		</Key>
 		<Key ID="STR_CL_HERO_ABANDONEDTRADER_ANNOUNCE">
 			<English>Bandits are securing an abandoned trader!</English>
