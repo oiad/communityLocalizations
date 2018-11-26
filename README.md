@@ -23,12 +23,13 @@ Community based Localization / Translation files for popular mods - by salival a
 * Server Events [@worldwidesorrow (repohere)](https://github.com/worldwidesorrow/Epoch-Server-Events)
 * Over9000 Gambling Script [@AirwavesMan (repohere)](https://github.com/AirwavesMan/Over9000-Gambling-Script)
 * Animated Crash Spawner [@worldwidesorrow (repohere)](https://github.com/worldwidesorrow/Animated-Crash-Spawner)
+* Evac Chopper [@worldwidesorrow (repohere)](https://github.com/worldwidesorrow/Just-Another-Evac-Chopper-Mod)
 
 # Thanks to:
 
 * @ebayShopper for original ESSv3 translations
 * @BigEgg17 for original Safe Zones translations
-* @worldwidesorrow for original WAI, SE & ACS translations
+* @worldwidesorrow for original WAI, SE, ACS & EC translations
 * @AMan for original Gambling translations
 * @DAmNRelentless for German translations
 * @TheDuke77 for French translations
