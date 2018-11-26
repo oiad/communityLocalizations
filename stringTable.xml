@@ -565,10 +565,12 @@
 			<Spanish>Cajero Automatico</Spanish>
 		</Key>
 		<Key ID="STR_CL_ZSC_COMBO_RESET">
-			<English>The combination on this %1 has been reset to %2</English>
+			<English>The combination on this %1 has been reset to %2.</English>
+			<German>Kombination von %1 wurde auf %2 zurück gesetzt.</German>
 		</Key>
 		<Key ID="STR_CL_ZSC_PACK_WARNING">
 			<English>You packed %1 while it had %2 %3 in it, it has been transferred to your %3 total.</English>
+			<German>%1 wurde mit %2 %3 eingepackt. Es wurde zu deinen %3 transferiert.</German>
 		</Key>
 	</Package>
 
@@ -1979,14 +1981,17 @@
 		</Key>
 		<Key ID="STR_CL_BANDIT_HEROPATROL_ANNOUNCE">
 			<English>A Hero scout patrol is checking out a new base location!</English>
+			<German>Eine Helden-Patroullie untersucht die Umgebung für einen neuen Stützpunkt!</German>
 			<Russian>Разведчики Героев проверяют место под новую базу!</Russian>
 		</Key>
 		<Key ID="STR_CL_BANDIT_HEROPATROL_WIN">
 			<English>Bandits have killed the scout patrol.</English>
+			<German>Banditen haben die Heldenpatroullie ausgeschalten.</German>
 			<Russian>Бандиты уничтожили Геройских разведчиков.</Russian>
 		</Key>
 		<Key ID="STR_CL_BANDIT_HEROPATROL_FAIL">
 			<English>Bandits did not deal with the scout patrol.</English>
+			<German>Die Helden-Patroullie hat keinen geeigneten Ort gefunden.</German>
 			<Russian>Бандиты не смголи уничтожить Геройских разведчиков.</Russian>
 		</Key>
 		<Key ID="STR_CL_HERO_ABANDONEDTRADER_ANNOUNCE">
@@ -2760,46 +2765,59 @@
 			<French>Les survivants on securiser le site du crash du %1!</French>
 		</Key>
 	</Package>
-	
+
 	<Package name="EvacChopper">
 		<Key ID="STR_CL_EC_NAME">
 			<English>Evac-Chopper</English>
+			<German>Evak-Heli</German>
 		</Key>
 		<Key ID="STR_CL_EC_CLEAR">
 			<English>Clearing Evac-Chopper, Move to Cancel.</English>
+			<German>Evak-Heli wird geräumt, zum Abbrechen bewegen.</German>
 		</Key>
 		<Key ID="STR_CL_EC_EXISTS">
 			<English>You already have an %1!</English>
+			<German>Du hast bereits eine(n) %1!</German>
 		</Key>
 		<Key ID="STR_CL_EC_NOT_OWNER">
 			<English>You are not the owner.</English>
+			<German>Du bist nicht der Besitzer.</German>
 		</Key>
 		<Key ID="STR_CL_EC_MINIMUM_DISTANCE">
 			<English>You must be at least %1 meters away to call your %2.</English>
+			<German>Du musst mindestens %1 Meter weit weg sein, um deine(n) %2 zu rufen.</German>
 		</Key>
 		<Key ID="STR_CL_EC_COUNTDOWN">
 			<English>%1 gets called in %2s - Move to Cancel!</English>
+			<German>%1 wird in %2s gerufen - Zum Abbrechen bewegen!</German>
 		</Key>
 		<Key ID="STR_CL_EC_UNABLETOEVAC">
 			<English>The chopper is unable to fly to you.</English>
+			<German>Der Heli kann nicht zu dir fliegen.</German>
 		</Key>
 		<Key ID="STR_CL_EC_MARKER">
 			<English>Check the map for your disabled %1 marker.</English>
+			<German>Guck auf die Karte um deine(n) %1 Marker zu sehen.</German>
 		</Key>
 		<Key ID="STR_CL_EC_CRASHED">
 			<English>!!! CRASHED !!!</English>
+			<German>!!! ABGESTÜRZT !!!</German>
 		</Key>
 		<Key ID="STR_CL_EC_DISABLED">
 			<English>!!! DISABLED !!!</English>
+			<German>!!! VERHINDERT !!!</German>
 		</Key>
 		<Key ID="STR_CL_EC_ARRIVED">
 			<English>!!! ARRIVED !!!</English>
+			<German>!!! ANGEKOMMEN !!!</German>
 		</Key>
 		<Key ID="STR_CL_EC_NEED_COINS">
 			<English>You need %1 %2 to set your %3.</English>
+			<German>Du benötigst %1 %2 um deine(n) %3 zu setzen.</German>
 		</Key>
 		<Key ID="STR_CL_EC_NEED_BRIEFCASES">
 			<English>You need %1 to set your %2.</English>
+			<German>Du benötigst %1 um deine(n) %2 zu setzen.</German>
 		</Key>
 	</Package>
 </Project>
