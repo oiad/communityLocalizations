@@ -837,7 +837,7 @@
 			<English>Vehicle Service Point nearby</English>
 			<German>Nahe einer Fahrzeug-Servicestation</German>
 			<French>Point de service véhicule a proximité</French>
-			<Russian>Пункт тех.обслуживания</Russian>
+			<Russian>Пункт техобслуживания</Russian>
 			<Spanish>Estación de Servicio cerca</Spanish>
 		</Key>
 		<Key ID="STR_CL_SP_UNABLE_REARM">
@@ -931,7 +931,7 @@
 			<English>No keys were found in your toolbelt or backpack.</English>
 			<German>Es wurden keine Schlüssel an deinem Gürtel oder im Rucksack gefunden.</German>
 			<French>Aucunes clé na été trouver dans votre invantaire ou votre sac.</French>
-			<Russian>Не найдены ключи в вашем инвентаре или рюкзаке</Russian>
+			<Russian>Не найдены ключи в вашем инвентаре или рюкзаке.</Russian>
 			<Spanish>Ninguna llave fue encontrada en tu cinturón o mochila.</Spanish>
 		</Key>
 		<Key ID="STR_CL_LV_BELONGS">
@@ -969,7 +969,7 @@
 			<English>These clothes have already been taken!</English>
 			<German>Diese Kleidung wurde bereits aufgenommen!</German>
 			<French>Ces vetements on déja été pris!</French>
-			<Russian>Эта одежда уже взята</Russian>
+			<Russian>Эта одежда уже взята!</Russian>
 			<Spanish>Estas ropas ya han sido tomadas!</Spanish>
 		</Key>
 		<Key ID="STR_CL_TC_NOT_SUPPORTED">
@@ -983,7 +983,7 @@
 			<English>%1 has been added to your inventory!</English>
 			<German>%1 wurde zu deinem Inventar hinzugefügt!</German>
 			<French>%1 ajouter a votre invantaire!</French>
-			<Russian>%1 добавлен в ваш инвентарь.</Russian>
+			<Russian>%1 добавлен в ваш инвентарь!</Russian>
 			<Spanish>%1 ha sido agregado a tu inventario!.</Spanish>
 		</Key>
 		<Key ID="STR_CL_TC_ADD_FAIL">
@@ -997,7 +997,7 @@
 			<English>Take Clothes</English>
 			<German>Kleidung nehmen</German>
 			<French>Prendre Vetements</French>
-			<Russian>Снять одежду.</Russian>
+			<Russian>Снять одежду</Russian>
 			<Spanish>Tomar la Ropa.</Spanish>
 		</Key>
 	</Package>
@@ -1083,7 +1083,7 @@
 			<English>You can't untow/drop a vehicle near a building/base you don't have access to.</English>
 			<German>Du kannst kein Fahrzeug in der Nähe von Objekten abstellen, die dir nicht gehören.</German>
 			<French>Vous ne pouvez pas decrocher/largué un vehicule pret d'un batiment/base dont vous vous n'avez pas accès.</French>
-			<Russian>Вы не можете отцепить/бросить транспорт около здания/базы, к которым у вас нет доступа.</Russian>
+			<Russian>Вы не можете отцепить/сбросить транспорт около здания/базы, к которым у вас нет доступа.</Russian>
 			<Spanish>No puedes arrojar/quitar remolque cerca de una construcción/base al que no tienes acceso.</Spanish>
 		</Key>
 		<Key ID="STR_CL_LOG_LIFT">
@@ -1104,14 +1104,14 @@
 			<English>%1 has been dropped.</English>
 			<German>%1 wurde abgestellt.</German>
 			<French>%1 a été largué.</French>
-			<Russian>%1 был сброшен</Russian>
+			<Russian>%1 был сброшен.</Russian>
 			<Spanish>%1 ha sido arrojado.</Spanish>
 		</Key>
 		<Key ID="STR_CL_LOG_ATTACHED">
 			<English>%1 is now being towed.</English>
 			<German>%1 wird nun abgeschleppt.</German>
 			<French>%1 est maintenant remorqué.</French>
-			<Russian>%1 буксируется</Russian>
+			<Russian>%1 буксируется.</Russian>
 			<Spanish>%1 está siendo remolcado.</Spanish>
 		</Key>
 		<Key ID="STR_CL_LOG_LIFT_FAIL_TOW">
@@ -1187,35 +1187,35 @@
 			<English>Within %1 Meters: %2 AI/players, %3 zombies, %4 vehicles</English>
 			<German>In %1 Meter: %2 AI/Spieler, %3 Zombies, %4 Fahrzeuge</German>
 			<French>Dans %1 Mètres: %2 AI/Joueurs, %3 Zombies, %4 Vehicules</French>
-			<Russian>В радиусе %1 Метров: %2 AI/игроков, %3 зомби, %4 транспорта.</Russian>
+			<Russian>В радиусе %1 метров: %2 AI/игроков, %3 зомби, %4 транспорта</Russian>
 			<Spanish>Dentro de %1 metros: %2 AI/Jugadores, %3 zombies, %4 vehículos</Spanish>
 		</Key>
 		<Key ID="STR_CL_CA_SCAN_NEARBY">
 			<English>Scan Nearby</English>
 			<German>Umgebung scannen</German>
 			<French>Scanné Alentours</French>
-			<Russian>Сканирование местности.</Russian>
+			<Russian>Сканирование местности</Russian>
 			<Spanish>Escanear las cercanías</Spanish>
 		</Key>
 		<Key ID="STR_CL_CA_RANGE_UP">
 			<English>Range Up</English>
 			<German>Reichweite erhöhen</German>
 			<French>Augmenter Rayon</French>
-			<Russian>Увеличить радиус.</Russian>
+			<Russian>Увеличить радиус</Russian>
 			<Spanish>Aumentar el rango</Spanish>
 		</Key>
 		<Key ID="STR_CL_CA_RANGE_DOWN">
 			<English>Range Down</English>
 			<German>Reichweite verringern</German>
 			<French>Réduire Rayon</French>
-			<Russian>Уменьшить радиус.</Russian>
+			<Russian>Уменьшить радиус</Russian>
 			<Spanish>Disminuir el rango</Spanish>
 		</Key>
 		<Key ID="STR_CL_CA_RANGE_GPS">
 			<English>GPS RANGE: %1</English>
 			<German>GPS-Reichweite: %1</German>
 			<French>Rayon du GPS: %1</French>
-			<Russian>GPS Радиус: %1</Russian>
+			<Russian>GPS-радиус: %1</Russian>
 			<Spanish>Rango del GPS: %1</Spanish>
 		</Key>
 	</Package>
@@ -1444,7 +1444,7 @@
 			<English>Bandits have secured the abandoned trader.</English>
 			<German>Die Banditen haben den verlassenen Händler unter ihrer Kontrolle.</German>
 			<French>Les Bandits on sécuriser le vendeur abandonné.</French>
-			<Russian>Бандиты захватили торговый город</Russian>
+			<Russian>Бандиты захватили торговый город.</Russian>
 			<Spanish>Bandidos han asegurado el mercado abandonado.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_ABANDONEDTRADER_FAIL">
@@ -1458,14 +1458,14 @@
 			<English>Heroes have taken an armed vehicle from the bandits.</English>
 			<German>Helden haben ein bewaffnetes Fahrzeug von den Banditen gestohlen.</German>
 			<French>Les Heros on pris un véhicule armé au Bandits.</French>
-			<Russian>Герои захватили у бандитов вооруженный транспорт!</Russian>
+			<Russian>Герои захватили у бандитов вооруженный транспорт.</Russian>
 			<Spanish>Héroes han tomado un vehículo armado de los bandidos.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_ARMEDVEHICLE_WIN">
 			<English>Bandits have secured the armed vehicle.</English>
 			<German>Banditen haben das bewaffnete Fahrzeug an sich genommen.</German>
 			<French>Les Bandits on sécuriser le véhicule armé.</French>
-			<Russian>Бандиты отбили вооруженный транспорт!</Russian>
+			<Russian>Бандиты отбили вооруженный транспорт.</Russian>
 			<Spanish>Los bandidos han asegurado el vehículo armado.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_ARMEDVEHICLE_FAIL">
@@ -1668,21 +1668,21 @@
 			<English>GEM TOWER! Climb up the tower and down the other side to get the loot!</English>
 			<German>EDELSTEIN-TURM! Klettere den Turm hinauf und auf der anderen Seite herunter, um deine Belohnung zu erhalten!</German>
 			<French>LA TOUR AUX GEMES: Escalader la tour,déscender de l'autre coter et recupéré les provisions.</French>
-			<Russian>БАШНЯ! Подняться на Башню и спуститься вниз по другой стороне, чтобы получить добычу!</Russian>
+			<Russian>БАШНЯ! Поднимись на Башню и спустись вниз по другой стороне, чтобы получить добычу!</Russian>
 			<Spanish>TORRE DE GEMAS! Escala la torre y desciende por el otro lado para conseguir el botín!</Spanish>
 		</Key>
 		<Key ID="STR_CL_GENERAL_GEMTOWER_WIN">
 			<English>Survivors captured the Gem Tower.</English>
 			<German>Überlebende haben den Edelsteinturm bezwungen.</German>
 			<French>Les survivants on capturé la tour.</French>
-			<Russian>Выжившие захватили БАШНЮ.</Russian>
+			<Russian>Выжившие захватили Башню.</Russian>
 			<Spanish>Sobrevivientes capturaron la Torre de las Gemas</Spanish>
 		</Key>
 		<Key ID="STR_CL_GENERAL_GEMTOWER_FAIL">
 			<English>Survivors were unable to capture the Gem Tower.</English>
 			<German>Keiner hat es geschafft den Edelsteinturm zu bezwingen.</German>
 			<French>Les survivant n'ont pas été capable de capturé la tour.</French>
-			<Russian>Выжившие не смогли захватить БАШНЮ.</Russian>
+			<Russian>Выжившие не смогли захватить Башню.</Russian>
 			<Spanish>Sobrevivientes no han podido capturar la Torre</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_HEROBASE_ANNOUNCE">
@@ -1843,7 +1843,7 @@
 			<English>Bandits have taken out the hero patrol.</English>
 			<German>Banditen haben die Heldenpatroullie ausgeschaltet.</German>
 			<French>Des Bandits on stopper la patrouille.</French>
-			<Russian>Бандиты уничтожили Геройский патруль</Russian>
+			<Russian>Бандиты уничтожили Геройский патруль.</Russian>
 			<Spanish>Bandidos han desbaratado la patrulla de héroes.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_PATROL_FAIL">
@@ -1913,7 +1913,7 @@
 			<English>Survivors have discovered a mass grave.</English>
 			<German>Überlebende haben ein Massengrab entdeckt.</German>
 			<French>Les survivant on découvert une fosse commune.</French>
-			<Russian>Выжившие обнаружили массоую могилу.</Russian>
+			<Russian>Выжившие обнаружили массовую могилу.</Russian>
 			<Spanish>Los sobrevivientes descubrieron una Fosa común.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_EXTRACTION_ANNOUNCE">
@@ -1992,7 +1992,7 @@
 		<Key ID="STR_CL_BANDIT_HEROPATROL_FAIL">
 			<English>Bandits did not deal with the scout patrol.</English>
 			<German>Die Helden-Patroullie hat keinen geeigneten Ort gefunden.</German>
-			<Russian>Бандиты не смголи уничтожить Геройских разведчиков.</Russian>
+			<Russian>Бандиты не смогли уничтожить Геройских разведчиков.</Russian>
 		</Key>
 		<Key ID="STR_CL_HERO_ABANDONEDTRADER_ANNOUNCE">
 			<English>Bandits are securing an abandoned trader!</English>
@@ -2054,7 +2054,7 @@
 			<English>Survivors were unable to capture the encampment.</English>
 			<German>Das temporäre Lager wurde abgebaut.</German>
 			<French>Les survivant n'on pas capturé le campement.</French>
-			<Russian>Выживние не смогли захватить лагерь.</Russian>
+			<Russian>Выжившие не смогли захватить лагерь.</Russian>
 			<Spanish>Los sobrevivientes fueron incapaces de capturar el campamento.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_BANDITOUTPOST_ANNOUNCE">
@@ -2222,7 +2222,7 @@
 			<English>Survivors did not secure the Crack House.</English>
 			<German>Das Drogenlaber wurde geräumt.</German>
 			<French>Les survivant n'on pas sécuriser la maison a carck.</French>
-			<Russian>Выжившине не смогли захватить наркопритон.</Russian>
+			<Russian>Выжившие не смогли захватить наркопритон.</Russian>
 			<Spanish>Los sobrevivientes no han asegurado la Casa de Crack.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_FARMER_ANNOUNCE">
@@ -2452,7 +2452,7 @@
 		<Key ID="STR_CL_PATROL_DISABLED">
 			<English>The %1 Patrol has become disabled!</English>
 			<German>Die Patroullie %1 wurde ausgeschalten!</German>
-			<Russian>Патруль %1 выключен!</Russian>
+			<Russian>Патруль %1 выключен!</Russian>	<!-- ??? -->
 		</Key>
 		<Key ID="STR_CL_AUTOCLAIM_ANNOUNCE">
 			<English>AutoClaim: If you want to claim %1, then do not leave the mission area for %2 seconds!</English>
@@ -2499,7 +2499,7 @@
 		<Key ID="STR_CL_BANDIT_AIRDROP_ANNOUNCE">
 			<English>A %1 is air dropping a %2 for the PMC!</English>
 			<German>Ein(e) %1 wirft ein(e) für die PMC ab!</German>
-			<Russian>%1 будет сброшен в %2 для PMC!</Russian>
+			<Russian>%1 будет сброшен в %2 для частной военной компании!</Russian>
 		</Key>
 		<Key ID="STR_CL_BANDIT_AIRDROP_CRASH">
 			<English>The %1 has crashed!</English>
@@ -2519,7 +2519,7 @@
 		<Key ID="STR_CL_BANDIT_AIRDROP_FAIL">
 			<English>Bandits could not steal the %1</English>
 			<German>%1 konnte nicht von Banditen gestohlen werden!</German>
-			<Russian>Бандиты не смогли украсть!</Russian>
+			<Russian>Бандиты не смогли украсть %1.</Russian>
 		</Key>
 		<Key ID="STR_CL_HERO_AIRDROP_ANNOUNCE">
 			<English>A %1 is air dropping a %2 for the Taliban!</English>
@@ -2529,7 +2529,7 @@
 		<Key ID="STR_CL_HERO_AIRDROP_CRASH">
 			<English>The %1 has crashed!</English>
 			<German>%1 ist abgestürzt!</German>
-			<Russian>Потерпел крушение!</Russian>
+			<Russian>%1 потерпел крушение!</Russian>
 		</Key>
 		<Key ID="STR_CL_HERO_AIRDROP_DROP">
 			<English>The %1 has been dropped!</English>
@@ -2634,10 +2634,12 @@
 		<Key ID="STR_CL_ESE_RUBBLETOWN_TITLE">
 			<English>Rubble Town</English>
 			<German>Trümmerstadt</German>
+			<Russian>Разрушенный Город</Russian>
 		</Key>
 		<Key ID="STR_CL_ESE_RUBBLETOWN">
 			<English>Mercenaries stashed a loot crate in rubble town!</English>
 			<German>Söldner haben eine Lagerkiste in der Trümmerstadt gebunkert!</German>
+			<Russian>Наемники спрятали ящик с добычей в развалинах города!</Russian>
 		</Key>
 		<Key ID="STR_CL_ESE_LABYRINTH_TITLE">
 			<English>Labyrinth</English>
@@ -2656,7 +2658,7 @@
 		<Key ID="STR_CL_ESE_VAULT">
 			<English>There is an abandoned safe with 0000 as it's code!</English>
 			<German>Es gibt einen herrenlosen Safe mit dem Code 0000!</German>
-			<Russian>Брошенный сейф с кодом 0000</Russian>
+			<Russian>Брошенный сейф с кодом 0000!</Russian>
 		</Key>
 	</Package>
 
