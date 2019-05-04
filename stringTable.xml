@@ -2499,7 +2499,7 @@
 		<Key ID="STR_CL_BANDIT_AIRDROP_ANNOUNCE">
 			<English>A %1 is air dropping a %2 for the PMC!</English>
 			<German>Ein(e) %1 wirft ein(e) für die PMC ab!</German>
-			<Russian>%1 будет сброшен в %2 для частной военной компании!</Russian>
+			<Russian>%2 будет сброшен из %1 для частной военной компании!</Russian>
 		</Key>
 		<Key ID="STR_CL_BANDIT_AIRDROP_CRASH">
 			<English>The %1 has crashed!</English>
@@ -2524,7 +2524,7 @@
 		<Key ID="STR_CL_HERO_AIRDROP_ANNOUNCE">
 			<English>A %1 is air dropping a %2 for the Taliban!</English>
 			<German>Ein(e) %1 wirft ein(e) für die Talibanen ab!</German>
-			<Russian>%1 будет сброшен в %2 для Талибов!</Russian>
+			<Russian>%2 будет сброшен из %1 для Талибов!</Russian>
 		</Key>
 		<Key ID="STR_CL_HERO_AIRDROP_CRASH">
 			<English>The %1 has crashed!</English>
