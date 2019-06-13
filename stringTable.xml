@@ -2822,4 +2822,247 @@
 			<German>Du benötigst %1 um deine(n) %2 zu setzen.</German>
 		</Key>
 	</Package>
+	
+	<Package name="DZMS">
+		<Key ID="STR_CL_DZMS_AN2_TITLE">
+			<English>AN2 Supply Drop</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_AN2_START">
+			<English>An AN2 with Supplies is Flying In!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_AN2_DEST">
+			<English>The AN2 has crashed, the supplies are destroyed!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_AN2_CLOSE">
+			<English>The AN2 is only 1200m out from the drop point!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_AN2_DROP">
+			<English>The AN2 has reached the location and dropped the cargo!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_AN2_FAIL">
+			<English>The AN2 Supply Drop timed out</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_AN2_WIN">
+			<English>The AN2 Supply Drop has been secured!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_APC_TITLE">
+			<English>APCs</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_APC_START">
+			<English>Soldiers are guarding 3 APCs!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_APC_WIN">
+			<English>The APCs have been secured!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_APC_FAIL">
+			<English>The APCs Mission timed out!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_AV_TITLE">
+			<English>Armed Vehicles</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_AV_START">
+			<English>Two Armed Vehicles are being guarded!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_AV_WIN">
+			<English>The Armed Vehicles have been secured!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_AV_FAIL">
+			<English>Guarded Armed Vehicles timed out</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_C130_TITLE">
+			<English>C130 Crash</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_C130_START">
+			<English>A C130 Carrying Supplies has Crashed!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_C130_WIN">
+			<English>The C130 Crash Site has been secured!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_C130_FAIL">
+			<English>The C130 Crash Site timed out</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_CONST_TITLE">
+			<English>Construction Site</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_CONST_START">
+			<English>A construction operation has been located!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_CONST_WIN">
+			<English>The Construction Site has been secured!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_CONST_FAIL">
+			<English>The Construction Site timed out</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_FB_TITLE">
+			<English>Firebase</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_FB_START">
+			<English>A Firebase is being constructed!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_FB_WIN">
+			<English>The Firebase has been secured!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_FB_FAIL">
+			<English>The Firebase has timed out</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_GS_TITLE">
+			<English>General Store</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_GS_START">
+			<English>The General Store is open for business!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_GS_WIN">
+			<English>The General Store staff has been killed!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_GS_FAIL">
+			<English>The General Store timed out</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_HC_TITLE">
+			<English>Helicopter Crash</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_HC_START">
+			<English>A Helicopter has Crashed!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_HC_WIN">
+			<English>The Helicopter Crash has been secured!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_HC_FAIL">
+			<English>The Helicopter Crash timed out</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_HL_TITLE">
+			<English>Helicopter Landing</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_HL_START">
+			<English>A Supply Helicopter has been Forced to Land!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_HL_WIN">
+			<English>The Helicopter has been secured!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_HL_FAIL">
+			<English>The Helicopter got away.</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_HUM_TITLE">
+			<English>Humvee Crash</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_HUM_START">
+			<English>A Humvee has crashed!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_HUM_WIN">
+			<English>The Humvee has been Secured!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_HUM_FAIL">
+			<English>Crashed Humvee timed out</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_MCACHE_TITLE">
+			<English>Medical Cache</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_MCACHE_START">
+			<English>A Medical Cache has been located!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_MCACHE_WIN">
+			<English>The Medical Cache has been secured!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_MCACHE_FAIL">
+			<English>Medical Cache timed out</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_MCAMP_TITLE">
+			<English>Medical Camp</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_MCAMP_START">
+			<English>A Medical Camp is treating patients!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_MCAMP_WIN">
+			<English>The Medical Camp has been secured!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_MCAMP_FAIL">
+			<English>Medical Camp timed out</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_MOP_TITLE">
+			<English>Medical Outpost</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_MOP_START">
+			<English>A Medical Outpost is resupplying the area!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_MOP_WIN">
+			<English>The Medical Outpost has been secured!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_MOP_FAIL">
+			<English>Medical Outpost timed out</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_WCACHE_TITLE">
+			<English>Weapons Cache</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_WCACHE_START">
+			<English>A Weapons Cache has been overrun!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_WCACHE_WIN">
+			<English>The Weapons Cache has been secured!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_WCACHE_FAIL">
+			<English>Weapons Cache timed out</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_PS_TITLE">
+			<English>Patrol Squad</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_PS_START">
+			<English>A Patrol Squad has been spotted!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_PS_WIN">
+			<English>The Squad has been Wiped Out!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_PS_FAIL">
+			<English>The Squad finished their patrol.</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_STASH_TITLE">
+			<English>Stash House</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_STASH_START">
+			<English>A Weapon Stash House has been located!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_STASH_WIN">
+			<English>The Stash House has been secured!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_STASH_FAIL">
+			<English>Stash House timed out</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_URAL_TITLE">
+			<English>Ural Ambush</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_URAL_START">
+			<English>A Ural Carrying Supplies has been ambushed!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_URAL_WIN">
+			<English>The Ural Supplies have been secured!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_URAL_FAIL">
+			<English>Ural Supplies Timed Out</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_WT_TITLE">
+			<English>Weapons Truck</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_WT_START">
+			<English>A Weapons Truck has crashed!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_WT_WIN">
+			<English>Weapons Truck has been secured!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_WT_FAIL">
+			<English>Weapons Truck timed out</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_VEH1">
+			<English>Vehicle Saved. Key is in the gear!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_VEH2">
+			<English>Vehicle Saved!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_VEH3">
+			<English>Drive this vehicle to a safe location! It will save when you get out.</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_VEH4">
+			<English>Vehicle Location Saved! Gear left in the vehicle will be deleted at restart!</English>
+		</Key>
+		<Key ID="STR_CL_DZMS_VEH5">
+			<English>Warning: This vehicle will disappear on server restart!</English>
+		</Key>
+	</Package>
 </Project>
