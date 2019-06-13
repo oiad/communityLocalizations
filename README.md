@@ -24,6 +24,7 @@ Community based Localization / Translation files for popular mods - by salival a
 * Over9000 Gambling Script [@AirwavesMan (repohere)](https://github.com/AirwavesMan/Over9000-Gambling-Script)
 * Animated Crash Spawner [@worldwidesorrow (repohere)](https://github.com/worldwidesorrow/Animated-Crash-Spawner)
 * Evac Chopper [@worldwidesorrow (repohere)](https://github.com/worldwidesorrow/Just-Another-Evac-Chopper-Mod)
+* DZMS [@worldwidesorrow (repohere)](https://github.com/worldwidesorrow/DZMS-DayZMissionSystem)
 
 # Thanks to:
 
