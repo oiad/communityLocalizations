@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <Project name="DayZMission">
 	<Package name="ESS">
 		<Key ID="STR_ESS_GROUP">
@@ -1418,6 +1419,54 @@
 		</Key>
 	</Package>
 
+	<Package name="starterKit">
+		<Key ID="STR_CL_SK_WARNING">
+			<English>Your starter kit will spawn in front of you in %1 seconds!, best to claim it in a SAFE place! Move to cancel!</English>
+			<Russian>Ваш набор новичка появится напротив вас через %1 секунд!, рекомендуется брать его в БЕЗОПАСНОМ месте! Подвигайтесь, чтобы отменить!</Russian>
+			<French>Votre kit de démarrage apparaîtra devant vous dans %1 secondes!, mieux le réclamer dans un endroit SÉCURITAIRE! Déplacez-vous pour annuler!</French>
+		</Key>
+		<Key ID="STR_CL_SK_CLAIM">
+			<English>Claim Starter Kit</English>
+			<Russian>Заберите набор новичка</Russian>
+			<French>Réclamer votre kit de démarrage.</French>
+		</Key>
+		<Key ID="STR_CL_SK_GROUND">
+			<English>Your starter kit must be deployed on the ground.</English>
+			<Russian>Ваш набор новичка должен появится на земле.</Russian>
+			<French>Votre kit de démarrage doit être déployé au sol.</French>
+		</Key>
+		<Key ID="STR_CL_SK_ROAD">
+			<English>You can't deploy your starter kit on the road.</English>
+			<Russian>Вы не можете запросить свой набор новичка на дороге.</Russian>
+			<French>Vous ne pouvez pas déployer votre kit de démarrage sur la route.</French>
+		</Key>
+		<Key ID="STR_CL_SK_DEBUG">
+			<English>You can't deploy your starter kit in the debug, please report this to an admin.</English>
+			<Russian>Вы не можете запросить свой набор новичка через данное меню, пожалуйста сообщите об этом администратору.</Russian>
+			<French>Vous ne pouvez pas déployer votre kit de démarrage dans le débogage. Veuillez informer un administrateur.</French>
+		</Key>
+		<Key ID="STR_CL_SK_CANCELLED">
+			<English>Starter kit claiming was cancelled!</English>
+			<Russian>Запрос набора новичка был отменён!</Russian>
+			<French>Réclamation de votre kit de démarrage a été annulé.</French>
+		</Key>
+		<Key ID="STR_CL_SK_FAIL">
+			<English>Unable to claim your starter kit, please try again in a minute, if this persists, please let an admin know.</English>
+			<Russian>Невозможно запросить свой набор новичка, пожалуйста попробуйте снова через минуту, если всё повторится, пожалуйста сообщите администратору об этом.</Russian>
+			<French>Impossible de réclamer votre kit de démarrage, veuillez réessayer dans une minute, si cela persiste, veuillez en informer un administrateur.</French>
+		</Key>
+		<Key ID="STR_CL_SK_COMPLETE">
+			<English>Please remember the location! It will be tied to your player UID so you don't need the combination to open it.</English>
+			<Russian>Пожалуйста, запомните место расположения! Набор будет привязан к вашему стим ID поэтому вам не потребуется пароль чтобы его открыть.</Russian>
+			<French>N'oubliez pas l'emplacement! Il sera lié à votre UID afin que vous n'ayez pas besoin de la combinaison pour l'ouvrir.</French>
+		</Key>
+		<Key ID="STR_CL_SK_COMPLETE_SERVER">
+			<English>Your starter kit has been deployed, the combination is: %1</English>
+			<Russian>Ваш набор новичка был запрошен, комбинация: %1</Russian>
+			<French>Votre kit de démarrage a été déployé, la combinaison est: %1</French>
+		</Key>
+	</Package>
+
 	<Package name="WickedAI">
 		<Key ID="STR_CL_MISSION_ANNOUNCE">
 			<English>Mission Announcement</English>
@@ -2822,7 +2871,7 @@
 			<German>Du benötigst %1 um deine(n) %2 zu setzen.</German>
 		</Key>
 	</Package>
-	
+
 	<Package name="DZMS">
 		<Key ID="STR_CL_DZMS_AN2_TITLE">
 			<English>AN2 Supply Drop</English>
@@ -3065,6 +3114,7 @@
 			<English>Warning: This vehicle will disappear on server restart!</English>
 		</Key>
 	</Package>
+
 	<Package name="advancedTrading">
 		<Key ID="STR_CL_AT_CATEGORY_ATTACHMENTS">
 			<English>Attachments</English>

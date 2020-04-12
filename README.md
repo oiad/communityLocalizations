@@ -19,6 +19,7 @@ Community based Localization / Translation files for popular mods - by salival a
 * Click Actions/Deploy Anything [(repo here)](https://github.com/oiad/deployAnything)
 * Safe Zones by [@BigEgg17 (repo here)](https://github.com/BigEgg17/Safe-Zones)
 * Change code [(repo here)](https://github.com/oiad/changeCode)
+* Starter Kit [(repo here)](https://github.com/oiad/starterKit)
 * WAI by [@worldwidesorrow (repo here)](https://github.com/worldwidesorrow/WICKED-AI)
 * Server Events [@worldwidesorrow (repohere)](https://github.com/worldwidesorrow/Epoch-Server-Events)
 * Over9000 Gambling Script [@AirwavesMan (repohere)](https://github.com/AirwavesMan/Over9000-Gambling-Script)
