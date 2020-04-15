@@ -1422,46 +1422,55 @@
 	<Package name="starterKit">
 		<Key ID="STR_CL_SK_WARNING">
 			<English>Your starter kit will spawn in front of you in %1 seconds!, best to claim it in a SAFE place! Move to cancel!</English>
+			<German>Dein Starter-Kit wird in %1 Sekunden vor dir erscheinen! Suche dir einen sicheren Ort, um das Starter-Kit zu beanspruchen. Bewege dich um die Aktion abzubrechen!</German>
 			<Russian>Ваш набор новичка появится напротив вас через %1 секунд!, рекомендуется брать его в БЕЗОПАСНОМ месте! Подвигайтесь, чтобы отменить!</Russian>
 			<French>Votre kit de démarrage apparaîtra devant vous dans %1 secondes!, mieux le réclamer dans un endroit SÉCURITAIRE! Déplacez-vous pour annuler!</French>
 		</Key>
 		<Key ID="STR_CL_SK_CLAIM">
 			<English>Claim Starter Kit</English>
+			<German>Starter-Kit beanspruchen</German>
 			<Russian>Заберите набор новичка</Russian>
 			<French>Réclamer votre kit de démarrage.</French>
 		</Key>
 		<Key ID="STR_CL_SK_GROUND">
 			<English>Your starter kit must be deployed on the ground.</English>
+			<German>Dein Starter-Kit muss sich auf dem Boden befinden, damit du es aufbauen kannst!</German>
 			<Russian>Ваш набор новичка должен появится на земле.</Russian>
 			<French>Votre kit de démarrage doit être déployé au sol.</French>
 		</Key>
 		<Key ID="STR_CL_SK_ROAD">
 			<English>You can't deploy your starter kit on the road.</English>
+			<German>Du kannst dein Starter-Kit nicht auf einer Straße aufbauen!</German>
 			<Russian>Вы не можете запросить свой набор новичка на дороге.</Russian>
 			<French>Vous ne pouvez pas déployer votre kit de démarrage sur la route.</French>
 		</Key>
 		<Key ID="STR_CL_SK_DEBUG">
 			<English>You can't deploy your starter kit in the debug, please report this to an admin.</English>
+			<German>Du kannst dein Starter-Kit nicht in der Debug-Zone aufbauen, bitte melde dich bei einem Admin!</German>
 			<Russian>Вы не можете запросить свой набор новичка через данное меню, пожалуйста сообщите об этом администратору.</Russian>
 			<French>Vous ne pouvez pas déployer votre kit de démarrage dans le débogage. Veuillez informer un administrateur.</French>
 		</Key>
 		<Key ID="STR_CL_SK_CANCELLED">
 			<English>Starter kit claiming was cancelled!</English>
+			<German>Du hast das Beanspruchen des Starter-Kits abgebrochen!</German>
 			<Russian>Запрос набора новичка был отменён!</Russian>
 			<French>Réclamation de votre kit de démarrage a été annulé.</French>
 		</Key>
 		<Key ID="STR_CL_SK_FAIL">
 			<English>Unable to claim your starter kit, please try again in a minute, if this persists, please let an admin know.</English>
+			<German>Du konntest das Starter-Kit nicht beanspruchen, bitte versuche es in einer Minute erneut. Falls das Problem weiterhin besteht, wende dich an einen Admin!</German>
 			<Russian>Невозможно запросить свой набор новичка, пожалуйста попробуйте снова через минуту, если всё повторится, пожалуйста сообщите администратору об этом.</Russian>
 			<French>Impossible de réclamer votre kit de démarrage, veuillez réessayer dans une minute, si cela persiste, veuillez en informer un administrateur.</French>
 		</Key>
 		<Key ID="STR_CL_SK_COMPLETE">
 			<English>Please remember the location! It will be tied to your player UID so you don't need the combination to open it.</English>
+			<German>Vergiss die Position nicht. Das Kit wird an deine Spieler-UID gebunden, so brauchst du keine Kombination zum Öffnen.</German>
 			<Russian>Пожалуйста, запомните место расположения! Набор будет привязан к вашему стим ID поэтому вам не потребуется пароль чтобы его открыть.</Russian>
 			<French>N'oubliez pas l'emplacement! Il sera lié à votre UID afin que vous n'ayez pas besoin de la combinaison pour l'ouvrir.</French>
 		</Key>
 		<Key ID="STR_CL_SK_COMPLETE_SERVER">
 			<English>Your starter kit has been deployed, the combination is: %1</English>
+			<German>Du hast das Starter-Kit erfolgreich beansprucht, die Kombination lautet: %1</German>
 			<Russian>Ваш набор новичка был запрошен, комбинация: %1</Russian>
 			<French>Votre kit de démarrage a été déployé, la combinaison est: %1</French>
 		</Key>
