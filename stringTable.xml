@@ -568,10 +568,14 @@
 		<Key ID="STR_CL_ZSC_COMBO_RESET">
 			<English>The combination on this %1 has been reset to %2.</English>
 			<German>Kombination von %1 wurde auf %2 zurück gesetzt.</German>
+			<Russian>Комбинация на этом %1 была сброшена на %2</Russian>
+			<French>La combinaison sur ce %1 a été réinitialisé à %2.</French>
 		</Key>
 		<Key ID="STR_CL_ZSC_PACK_WARNING">
-			<English>You packed %1 while it had %2 %3 in it, it has been transferred to your %3 total.</English>
+			<English>You packed the %1 while it had %2 %3 in it, it has been transferred to your %3 total.</English>
 			<German>%1 wurde mit %2 %3 eingepackt. Es wurde zu deinen %3 transferiert.</German>
+			<Russian>Вы сложили %1 пока там имелось %2 %3 внутри, содержимое загрузилось в ваш %3</Russian>
+			<French>Vous avez emballé le %1 alors qu'il contenait %2 %3, il a été transféré au total de vos %3.</French>
 		</Key>
 	</Package>
 
