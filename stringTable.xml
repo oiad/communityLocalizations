@@ -1185,6 +1185,10 @@
 			<French>Remorquer ce véhicule</French>
 			<Spanish>Remolcar este vehículo.</Spanish>
 		</Key>
+		<Key ID="STR_CL_LOG_FAIL_GETIN">
+			<English>You can't enter a vehicle while it's being towed!</English>
+			<Russian>Вы не можете сесть в транспорт, пока его буксируют!</Russian>
+		</Key>
 	</Package>
 
 	<Package name="clickActions">
