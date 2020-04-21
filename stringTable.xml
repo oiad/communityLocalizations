@@ -796,7 +796,7 @@
 		<Key ID="STR_CL_VKC_WAIT">
 			<English>Please wait while your vehicle is being prepared.</English>
 			<Russian>Подождите, пока ваша техника будет готова.</Russian>
-			<German>Bitte warten, während dein Fahrzeug vorbereitet wird.</German>
+			<German>Bitte warte, während dein Fahrzeug vorbereitet wird.</German>
 			<French>Merci de patienter pendant que le véhicule est préparer.</French>
 			<Spanish>Por favor, espera mientras tu vehículo es preparado</Spanish>
 		</Key>
@@ -809,7 +809,7 @@
 		</Key>
 		<Key ID="STR_CL_VKC_FAIL_UPGRADE">
 			<English>Failed to upgrade %1, you have been refunded the cost. If this continues, contact the admin</English>
-			<German>Upgrade für %1 fehlgeschlagen, dir wurden die Kosten zurückerstattet. Kontaktiere den Admin, falls das Problem weiterhin auftritt.</German>
+			<German>Upgrade für %1 fehlgeschlagen, dir wurden die Kosten zurückerstattet. Kontaktiere einen Admin, falls das Problem weiterhin besteht.</German>
 			<French>L'upgrade de %1 a échouer, vous avez été rembourser. Si cela se reproduit contacter l'admin.</French>
 			<Russian>Ошибка в апгрейде %1, средства возвращены. Если это продолжится, свяжитесь с админом.</Russian>
 			<Spanish>Fallo al actualizar %1,el costo te fue reintegrado. Si continua, contacta a un administrador.</Spanish>
@@ -955,7 +955,7 @@
 		</Key>
 		<Key ID="STR_CL_LV_FOUND">
 			<English>Found %1 matching vehicles, check your map for marked locations.</English>
-			<German>%1 passende Fahrzeuge gefunden, schau auf die Karte um die Positionen zu sehen.</German>
+			<German>%1 passende Fahrzeuge gefunden, schaue auf die Karte, um die Positionen zu sehen.</German>
 			<French>%1 véhicule trouver, controler votre carte pour connaitre la position.</French>
 			<Russian>Найдено %1 техники, проверьте отметки на карте.</Russian>
 			<Spanish>%1 vehículos encontrados, chequea tu mapa para ver las locaciones.</Spanish>
@@ -1031,7 +1031,7 @@
 		</Key>
 		<Key ID="STR_CL_BA_RIP_UNKNOWN">
 			<English>Rest in peace, unknown soldier....</English>
-			<German>Ruhe in Frieden, wer auch immer du bist...</German>
+			<German>Ruhe in Frieden, wer auch immer du warst...</German>
 			<French>Repose en paix, soldat inconnu....</French>
 			<Russian>Покойся с миром, неизвестный чувак...</Russian>
 			<Spanish>Descansa en paz, soldado desconocido...</Spanish>
@@ -1052,7 +1052,7 @@
 		</Key>
 		<Key ID="STR_CL_BA_BUTCHER1">
 			<English>butcher</English>
-			<German>Schlachten</German>
+			<German>schlachten</German>
 			<French>Désossé</French>
 			<Russian>разделать</Russian>
 			<Spanish>destrozar</Spanish>
@@ -1121,7 +1121,7 @@
 		</Key>
 		<Key ID="STR_CL_LOG_LIFT_FAIL_TOW">
 			<English>Can't lift %1, it's towing another vehicle.</English>
-			<German>%1 kann nicht angehoben werden, es schleppt ein anderes Fahrzeug ab.</German>
+			<German>%1 kann nicht angehoben werden, da es bereits ein anderes Fahrzeug abschleppt.</German>
 			<French>Impossible de treuiller %1, car il est attacher a un autre véhicule.</French>
 			<Russian>Нельзя буксировать %1, так как он буксирует другой транспорт.</Russian>
 			<Spanish>No se puede levantar %1, está siendo remolcado por otro vehículo.</Spanish>
@@ -1197,7 +1197,7 @@
 		</Key>
 		<Key ID="STR_CL_LOG_FAIL_GETIN">
 			<English>You can't enter a vehicle while it's being towed!</English>
-			<German>Du kannst nicht in das Fahrzeug einsteigen während es abgeschleppt wird!</German>
+			<German>Du kannst nicht in das Fahrzeug einsteigen, während es abgeschleppt wird!</German>
 			<French>Vous ne pouvez pas entrer dans un véhicule pendant qu'il est remorqué!</French>
 			<Russian>Вы не можете сесть в транспорт, пока его буксируют!</Russian>
 		</Key>
@@ -1286,14 +1286,14 @@
 		</Key>
 		<Key ID="STR_CL_DA_DEPLOY_PERM_NO">
 			<English>Warning: Deployed vehicles DO NOT SAVE after server restart!</English>
-			<German>Warnung: Gebaute Fahrzeuge werden NICHT nach einem Restart gespeichert!</German>
+			<German>Warnung: Gebaute Fahrzeuge werden NICHT nach einem Server-Neustart gespeichert!</German>
 			<French>Attention: Le véhicule déployer N'EST PAS SAUVEGARDER après le redémarage.</French>
 			<Russian>Внимание: Скрафченный транспорт НЕ СОХРАНЯЕТСЯ после рестарта сервера!</Russian>
 			<Spanish>Precaución: los vehículos desplegados NO SE SALVARÁN en el reinicio!</Spanish>
 		</Key>
 		<Key ID="STR_CL_DA_DEPLOY_PERM_OK">
 			<English>This vehicle is permanent and will persist through server restarts!</English>
-			<German>Dieses Fahrzeug ist permanent und wird auch nach Restarts noch verfügbar sein!</German>
+			<German>Dieses Fahrzeug ist permanent und wird auch nach einem Server-Neustart verfügbar sein!</German>
 			<French>Ce véhicule est permanent, il persiste apres le redémarage!</French>
 			<Russian>Данный транспорт является постоянным и он сохранится после рестарта!</Russian>
 			<Spanish>Este vehículo es permanente y persistirá luego del reinicio!</Spanish>
@@ -1359,14 +1359,14 @@
 	<Package name="Safe_Zones">
 		<Key ID="STR_CL_SZ_ENTER">
 			<English>You entered a safe zone!</English>
-			<German>Du hast eine Safezone betreten!</German>
+			<German>Du hast eine Safe Zone betreten!</German>
 			<French>Vous entré dans une zone protégé!</French>
 			<Russian>Вы вошли в безопасную зону!</Russian>
 			<Spanish>Has entrado en una zona segura!</Spanish>
 		</Key>
 		<Key ID="STR_CL_SZ_EXIT">
 			<English>You left the safe zone!</English>
-			<German>Du hast die Safezone verlassen!</German>
+			<German>Du hast die Safe Zone verlassen!</German>
 			<French>Vous quitter la zone protégé!</French>
 			<Russian>Вы покинули безопасную зону!</Russian>
 			<Spanish>Has abandonado la zona segura!</Spanish>
@@ -1380,7 +1380,7 @@
 		</Key>
 		<Key ID="STR_CL_SZ_FIRE">
 			<English>You cannot fire your weapon in a safe zone!</English>
-			<German>Du kannst in einer Safezone nicht schießen!</German>
+			<German>Du kannst in einer Safe Zone nicht schießen!</German>
 			<French>Vous ne pouvez pas ouvrir le feu dans une zone protégé!</French>
 			<Russian>Вы не можете стрелять в безопасной зоне!</Russian>
 			<Spanish>No puedes diparar un arma en una zona segura!</Spanish>
@@ -1394,21 +1394,21 @@
 		</Key>
 		<Key ID="STR_CL_SZ_ENDING">
 			<English>Protection ending in %1 second(s)!</English>
-			<German>Der Safezone-Schutz endet in %1 Sekunde(n)!</German>
+			<German>Der Safe-Zone-Schutz endet in %1 Sekunde(n)!</German>
 			<French>La protèction se termine dans %1 seconde(s)!</French>
 			<Russian>Защита перестанет действовать через %1 сек.!</Russian>
 			<Spanish>La protección termina en %1 segundos(s)!</Spanish>
 		</Key>
 		<Key ID="STR_CL_SZ_TIME">
 			<English>You were only in the safe zone for %1 second(s)!</English>
-			<German>Du warst nur %1 Sekunde(n) in der Safezone!</German>
+			<German>Du warst nur %1 Sekunde(n) in der Safe Zone!</German>
 			<French>Vous n'etiez dans la zone proteger pour %1 seconde(s)!</French>
 			<Russian>Вы были в безопасной зоне %1 сек.!</Russian>
 			<Spanish>Solo has estado en la zona segura por %1 segundo(s)!</Spanish>
 		</Key>
 		<Key ID="STR_CL_SZ_DISABLED">
 			<English>Protection disabled!</English>
-			<German>Safezone-Schutz deaktiviert!</German>
+			<German>Safe-Zone-Schutz deaktiviert!</German>
 			<French>Protection désactiver!</French>
 			<Russian>Защита отключена!</Russian>
 			<Spanish>Protección deshabilitada!</Spanish>
@@ -1500,30 +1500,37 @@
 		<Key ID="STR_CL_CRL_NEED">
 			<English>You need a hotwire kit to crack the lock.</English>
 			<Russian>Вам нужна отмычка, чтобы взломать замок.</Russian>
+			<German>Du brauchst ein Aufbruchswerkzeug, um das Schloss zu knacken.</German>
 		</Key>
 		<Key ID="STR_CL_CRL_FAIL_UNLOCKED">
 			<English>Object is already unlocked?</English>
 			<Russian>Объект уже открыт?</Russian>
+			<German>Das Objekt ist bereits offen?</German>
 		</Key>
 		<Key ID="STR_CL_CRL_FAIL_TYPE">
-			<English>You are unable to crack this type of %1</English>
-			<Russian>Вы не можете взломать этот тип %1</Russian>
+			<English>You are unable to crack this type of %1.</English>
+			<Russian>Вы не можете взломать этот тип %1.</Russian>
+			<German>Du bist nicht in der Lage ein Objekt der Art %1 zu knacken.</German>
 		</Key>
 		<Key ID="STR_CL_CRL_FAIL_MOVE">
 			<English>Cracking cancelled! You cannot move while cracking the lock!</English>
 			<Russian>Взлом отменён! Вы не должны двигаться, пока взламываете замок!</Russian>
+			<German>Du hast das Aufbrechen abgebrochen, du darfst dich, während du ein Schloss knackst, nicht bewegen!</German>
 		</Key>
 		<Key ID="STR_CL_CRL_SUCCESS">
 			<English>You managed to crack the lock!</English>
 			<Russian>Вам удалось взломать замок!</Russian>
+			<German>Du hast es geschafft, das Schloss zu knacken.</German>
 		</Key>
 		<Key ID="STR_CL_CRL_FAIL">
 			<English>You were unable to crack the lock.</English>
 			<Russian>Вы не смогли взломать замок.</Russian>
+			<German>Du hast es nicht geschafft, das Schloss zu knacken.</German>
 		</Key>
 		<Key ID="STR_CL_CRL_CRACK">
 			<English>Crack %1</English>
 			<Russian>Взломать %1</Russian>
+			<German>%1 aufbrechen </German>
 		</Key>
 	</Package>
 
@@ -1593,7 +1600,7 @@
 		</Key>
 		<Key ID="STR_CL_GENERAL_ARMYBASE_WIN">
 			<English>Survivors have secured the ARMY Base.</English>
-			<German>Überlebende haben das Lager der Armee unter Kontrolle.</German>
+			<German>Überlebende haben das Lager der Armee unter ihre Kontrolle.</German>
 			<French>Les Survivants on sécuriser la base militaire.</French>
 			<Russian>Выжившие захватили армейскую базу.</Russian>
 			<Spanish>Sobrevivientes han asegurado la base de la Armada</Spanish>
@@ -1670,7 +1677,7 @@
 		</Key>
 		<Key ID="STR_CL_BANDIT_MV22_ANNOUNCE">
 			<English>A group of red cross volunteers are giving away medical supplies!</English>
-			<German>Eine Gruppe Freiwilliger des Roten Kreuzes verteilen Medizin!</German>
+			<German>Eine Gruppe Freiwilliger des Roten Kreuzes verteilt Medizin!</German>
 			<French>Un groupe de volontaires de la croix rouge donnent des provition médicales!</French>
 			<Russian>Группа добровольцев из Красного Креста раздает предметы медицины из захваченного MV22!</Russian>
 			<Spanish>Un grupo de voluntarios de la Cruz Roja están entregando suministros médicos</Spanish>
@@ -1691,7 +1698,7 @@
 		</Key>
 		<Key ID="STR_CL_GENERAL_CROPRAIDER_ANNOUNCE">
 			<English>Crooked cops are about to raid the weed crops of a hippie commune!</English>
-			<German>Korrupte Polizisten sind dabei Cannabis einer Hippie-Kommune zu stehlen!</German>
+			<German>Korrupte Polizisten sind dabei das Cannabis einer Hippie-Kommune zu stehlen!</German>
 			<French>Des flics tordus sont sur le point de volé le cannabis de la communautée hippie!</French>
 			<Russian>Полиция собирается совершить налет на общину хиппи!</Russian>
 			<Spanish>Policías corruptos están por asaltar la plantación de marihuana de una comunidad hippie!</Spanish>
@@ -2690,7 +2697,7 @@
 	<Package name="EpochServerEvents">
 		<Key ID="STR_CL_ESE_IKEA_TITLE">
 			<English>Construction Crate</English>
-			<German>Materialkiste</German>
+			<German>Baumaterialkiste</German>
 			<Russian>Строительные материалы</Russian>
 			<Spanish>Caja de Construcción</Spanish>
 		</Key>
@@ -2961,243 +2968,321 @@
 	<Package name="DZMS">
 		<Key ID="STR_CL_DZMS_AN2_TITLE">
 			<English>AN2 Supply Drop</English>
+			<German>AN2 Versorgungsabwurf</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_AN2_START">
-			<English>An AN2 with Supplies is Flying In!</English>
+			<English>An AN2 with Supplies is flying in!</English>
+			<German>Eine AN2 mit Vorräten ist auf dem Weg zur markierten Position!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_AN2_DEST">
 			<English>The AN2 has crashed, the supplies are destroyed!</English>
+			<German>Die AN2 ist abgestürzt und alle Vorräte wurden zerstört!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_AN2_CLOSE">
 			<English>The AN2 is only 1200m out from the drop point!</English>
+			<German>Die AN2 ist nur noch 1200m vom Abwurfpunkt entfernt!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_AN2_DROP">
 			<English>The AN2 has reached the location and dropped the cargo!</English>
+			<German>Die AN2 hat den Abwurfpunkt erreicht und die Vorräte abgeworfen!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_AN2_FAIL">
-			<English>The AN2 Supply Drop timed out</English>
+			<English>The AN2 Supply Drop timed out!</English>
+			<German>Die Mission 'AN2 Versorgungsabwurf' wurde durch ein Zeitlimit beendet!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_AN2_WIN">
 			<English>The AN2 Supply Drop has been secured!</English>
+			<German>Der AN2 Versorgungsabwurf wurde gesichert!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_APC_TITLE">
 			<English>APCs</English>
 		</Key>
 		<Key ID="STR_CL_DZMS_APC_START">
 			<English>Soldiers are guarding 3 APCs!</English>
+			<German>Soldaten bewachen 3 APCs!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_APC_WIN">
 			<English>The APCs have been secured!</English>
+			<German>Die APCs wurden gesichert!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_APC_FAIL">
 			<English>The APCs Mission timed out!</English>
+			<German>Die Mission 'APCs' wurde durch ein Zeitlimit beendet!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_AV_TITLE">
 			<English>Armed Vehicles</English>
+			<German>Bewaffnete Fahrzeuge</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_AV_START">
 			<English>Two Armed Vehicles are being guarded!</English>
+			<German>Zwei bewaffnete Fahrzeuge werden bewacht!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_AV_WIN">
 			<English>The Armed Vehicles have been secured!</English>
+			<German>Die bewaffneten Fahrzeuge wurden gesichert!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_AV_FAIL">
-			<English>Guarded Armed Vehicles timed out</English>
+			<English>The guarded Armed Vehicles timed out!</English>
+			<German>Die Mission 'Bewaffnete Fahrzeuge' wurde durch ein Zeitlimit beendet!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_C130_TITLE">
 			<English>C130 Crash</English>
+			<German>C130 Absturz</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_C130_START">
-			<English>A C130 Carrying Supplies has Crashed!</English>
+			<English>A C130 Carrying Supplies has crashed!</English>
+			<German>Eine C130 mit Materialien ist abgestürzt!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_C130_WIN">
 			<English>The C130 Crash Site has been secured!</English>
+			<German>Der C130 Absturz wurde gesichert!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_C130_FAIL">
-			<English>The C130 Crash Site timed out</English>
+			<English>The C130 Crash Site timed out!</English>
+			<German>Die Mission 'C130 Absturz' wurde durch ein Zeitlimit beendet!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_CONST_TITLE">
 			<English>Construction Site</English>
+			<German>Baustelle</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_CONST_START">
 			<English>A construction operation has been located!</English>
+			<German>Auf einer Baustelle wurden verdächtige Aktivitäten gesichtet!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_CONST_WIN">
 			<English>The Construction Site has been secured!</English>
+			<German>Die Baustelle wurde gesichert!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_CONST_FAIL">
-			<English>The Construction Site timed out</English>
+			<English>The Construction Site timed out!</English>
+			<German>Die Mission 'Baustelle' wurde durch ein Zeitlimit beendet!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_FB_TITLE">
 			<English>Firebase</English>
+			<German>Angriffsbasis</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_FB_START">
 			<English>A Firebase is being constructed!</English>
+			<German>Eine Angriffsbasis wird derzeit aufgebaut!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_FB_WIN">
 			<English>The Firebase has been secured!</English>
+			<German>die Angriffsbasis wurde gesichert!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_FB_FAIL">
-			<English>The Firebase has timed out</English>
+			<English>The Firebase timed out!</English>
+			<German>Die Mission 'Angriffsbasis' wurde durch ein Zeitlimit beendet!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_GS_TITLE">
 			<English>General Store</English>
+			<German>Gemischtwarenladen</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_GS_START">
 			<English>The General Store is open for business!</English>
+			<German>Ein Gemischtwarenladen hat geöffnet!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_GS_WIN">
 			<English>The General Store staff has been killed!</English>
+			<German>Der Gemischtwarenladen wurde ausgeräumt!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_GS_FAIL">
-			<English>The General Store timed out</English>
+			<English>The General Store timed out!</English>
+			<German>Die Mission 'Gemischtwarenladen' wurde durch ein Zeitlimit beendet!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_HC_TITLE">
 			<English>Helicopter Crash</English>
+			<German>Helikopter-Absturz</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_HC_START">
-			<English>A Helicopter has Crashed!</English>
+			<English>A Helicopter has crashed!</English>
+			<German>Ein Helikopter ist abgestürzt!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_HC_WIN">
 			<English>The Helicopter Crash has been secured!</English>
+			<German>Der Helikopter-Absturz wurde gesichert!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_HC_FAIL">
-			<English>The Helicopter Crash timed out</English>
+			<English>The Helicopter Crash timed out!</English>
+			<German>Die Mission 'Helikopter-Absturz' wurde durch ein Zeitlimit beendet!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_HL_TITLE">
 			<English>Helicopter Landing</English>
+			<German>Helikopter-Landung</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_HL_START">
-			<English>A Supply Helicopter has been Forced to Land!</English>
+			<English>A Supply Helicopter has been forced to land!</English>
+			<German>Ein Helikopter mit Vorräten wurde zur Landung gezwungen!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_HL_WIN">
 			<English>The Helicopter has been secured!</English>
+			<German>Der Helikopter wurde gesichert!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_HL_FAIL">
 			<English>The Helicopter got away.</English>
+			<German>Die Mission 'Helikopter-Landung' wurde durch ein Zeitlimit beendet!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_HUM_TITLE">
 			<English>Humvee Crash</English>
 		</Key>
 		<Key ID="STR_CL_DZMS_HUM_START">
 			<English>A Humvee has crashed!</English>
+			<German>Ein Humvee ist gecrasht!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_HUM_WIN">
-			<English>The Humvee has been Secured!</English>
+			<English>The Humvee has been secured!</English>
+			<German>Der gecrashte Humvee wurde gesichert!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_HUM_FAIL">
-			<English>Crashed Humvee timed out</English>
+			<English>The Crashed Humvee timed out!</English>
+			<German>Die Mission 'Humvee Crash' wurde durch ein Zeitlimit beendet!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_MCACHE_TITLE">
 			<English>Medical Cache</English>
+			<German>Medizinisches Versteck</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_MCACHE_START">
 			<English>A Medical Cache has been located!</English>
+			<German>Ein medizinisches Versteck wurde lokalisiert!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_MCACHE_WIN">
 			<English>The Medical Cache has been secured!</English>
+			<German>Das medizinische Versteck wurde gesichert!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_MCACHE_FAIL">
-			<English>Medical Cache timed out</English>
+			<English>The Medical Cache timed out!</English>
+			<German>Die Mission 'Medizinisches Versteck' wurde durch ein Zeitlimit beendet!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_MCAMP_TITLE">
 			<English>Medical Camp</English>
+			<German>Medizinisches Camp</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_MCAMP_START">
 			<English>A Medical Camp is treating patients!</English>
+			<German>Ein medizinisches Camp behandelt Patienten!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_MCAMP_WIN">
 			<English>The Medical Camp has been secured!</English>
+			<German>Das medizinische Camp wurde gesichert!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_MCAMP_FAIL">
-			<English>Medical Camp timed out</English>
+			<English>The Medical Camp timed out!</English>
+			<German>Die Mission 'Medizinisches Camp' wurde durch ein Zeitlimit beendet!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_MOP_TITLE">
 			<English>Medical Outpost</English>
+			<German>Medizinischer Außenposten</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_MOP_START">
 			<English>A Medical Outpost is resupplying the area!</English>
+			<German>Ein medizinischer Außenposten beliefert die Umgebung!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_MOP_WIN">
 			<English>The Medical Outpost has been secured!</English>
+			<German>Der medizinische Außenposten wurde gesichert!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_MOP_FAIL">
-			<English>Medical Outpost timed out</English>
+			<English>The Medical Outpost timed out!</English>
+			<German>Die Mission 'Medizinischer Außenposten' wurde durch ein Zeitlimit beendet!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_WCACHE_TITLE">
 			<English>Weapons Cache</English>
+			<German>Waffenversteck</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_WCACHE_START">
 			<English>A Weapons Cache has been overrun!</English>
+			<German>Ein Waffenversteck wurde überrannt!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_WCACHE_WIN">
 			<English>The Weapons Cache has been secured!</English>
+			<German>Das Waffenversteck wurde gesichert!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_WCACHE_FAIL">
-			<English>Weapons Cache timed out</English>
+			<English>The Weapons Cache timed out!</English>
+			<German>Die Mission 'Waffenversteck' wurde durch ein Zeitlimit beendet!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_PS_TITLE">
 			<English>Patrol Squad</English>
+			<German>Patrouille</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_PS_START">
 			<English>A Patrol Squad has been spotted!</English>
+			<German>Eine Patrouille wurde gesichtet!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_PS_WIN">
-			<English>The Squad has been Wiped Out!</English>
+			<English>The Squad has been wiped out!</English>
+			<German>Die Patrouille wurde ausgeschaltet!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_PS_FAIL">
 			<English>The Squad finished their patrol.</English>
+			<German>Die Mission 'Patrouille' wurde durch ein Zeitlimit beendet!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_STASH_TITLE">
 			<English>Stash House</English>
+			<German>Verstecktes Lagerhaus</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_STASH_START">
 			<English>A Weapon Stash House has been located!</English>
+			<German>Ein verstecktes Lagerhaus mit Waffen wurde lokalisiert!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_STASH_WIN">
 			<English>The Stash House has been secured!</English>
+			<German>Das versteckte Lagerhaus wurde gesichert!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_STASH_FAIL">
-			<English>Stash House timed out</English>
+			<English>The Stash House timed out!</English>
+			<German>Die Mission 'Verstecktes Lagerhaus' wurde durch ein Zeitlimit beendet!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_URAL_TITLE">
 			<English>Ural Ambush</English>
+			<German>Ural Hinterhalt</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_URAL_START">
 			<English>A Ural Carrying Supplies has been ambushed!</English>
+			<German>Ein Ural mit Vorräten ist in einen Hinterhalt geraten!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_URAL_WIN">
 			<English>The Ural Supplies have been secured!</English>
+			<German>Der Ural und die Vorräte wurden gesichert!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_URAL_FAIL">
-			<English>Ural Supplies Timed Out</English>
+			<English>The Ural Ambush timed out!</English>
+			<German>Die Mission 'Ural Hinterhalt' wurde durch ein Zeitlimit beendet!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_WT_TITLE">
 			<English>Weapons Truck</English>
+			<German>Waffen LKW</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_WT_START">
 			<English>A Weapons Truck has crashed!</English>
+			<German>Ein LKW mit Waffen hatten einen Unfall!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_WT_WIN">
 			<English>Weapons Truck has been secured!</English>
+			<German>Der LKW und die Waffen wurden gesichert!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_WT_FAIL">
-			<English>Weapons Truck timed out</English>
+			<English>The Weapons Truck timed out!</English>
+			<German>Die Mission 'Waffen LKW' wurde durch ein Zeitlimit beendet!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_VEH1">
 			<English>Vehicle Saved. Key is in the gear!</English>
+			<German>Das Fahrzeug wurde gespeichert und der Schlüssel befindet sich in deiner Ausrüstung!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_VEH2">
 			<English>Vehicle Saved!</English>
+			<German>Fahrzeug gespeichert!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_VEH3">
 			<English>Drive this vehicle to a safe location! It will save when you get out.</English>
+			<German>Fahre das Fahrzeug zu einer sicheren Position. Beim Ausstieg wird das Fahrzeug gespeichert!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_VEH4">
 			<English>Vehicle Location Saved! Gear left in the vehicle will be deleted at restart!</English>
+			<German>Fahrzeugposition gespeichert, die verbleibende Ausrüstung im Fahrzeug wird bei Server-Neustart gelöscht!</German>
 		</Key>
 		<Key ID="STR_CL_DZMS_VEH5">
 			<English>Warning: This vehicle will disappear on server restart!</English>
+			<German>Warnung: Dieses Fahrzeug wird bei Server-Neustart gelöscht!</German>
 		</Key>
 	</Package>
 
