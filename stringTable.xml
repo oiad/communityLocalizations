@@ -2891,7 +2891,8 @@
 	</Package>
 
 	<Package name="EvacChopper">
-		<English>Evac-Chopper</English>
+		<Key ID="STR_CL_EC_NAME">
+			<English>Evac-Chopper</English>
 			<Russian>Эвакуационный-Вертолет</Russian>
 			<German>Evak-Heli</German>
 		</Key>
