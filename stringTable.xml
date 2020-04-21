@@ -1129,6 +1129,7 @@
 		<!-- This is an old translation I don't know what it does, so let's just leave it -->
 		<Key ID="STR_CL_LOG_LIFT_FAIL_TOWED">
 			<English>OBJECT '%1' IS BEING BY A PLAYER.</English>
+			<Russian>Объект '%1' используется другим игроком.</Russian>
 			<French>L'object '%1' est en cours par un autre joueur.</French>
 		</Key>
 		<Key ID="STR_CL_LOG_FAIL_PLAYER">
@@ -2773,66 +2774,79 @@
 	<Package name="Over9000Gambling">
 		<Key ID="STR_CL_GAMBLE_PRICEFREE">
 			<English>Gamble for free, Price 1x</English>
+			<Russian>Бесплатные Азартные игры, Цена 1x</Russian>
 			<German>Freiversuch, Preis 1x</German>
 			<French>Jouer Gratuitement, Prix 1x</French>
 		</Key>
 		<Key ID="STR_CL_GAMBLE_PRICEFREE_NO_CARDS">
 			<English>You have no ticket for a free try!</English>
+			<Russian>У вас нет билета на бесплатную попытку!</Russian>
 			<German>Du hast kein Ticket für einen Freiversuch!</German>
 			<French>Vous n'avez pas de ticket pour essayer gratuitement!</French>
 		</Key>
 		<Key ID="STR_CL_GAMBLE_PRICE1x">
 			<English>Gamble for 1.000 %1, Price 1x</English>
+			<Russian>Ставка 1.000 %1, Цена 1x</Russian>
 			<German>Wetten für 1.000 %1, Preis 1x</German>
 			<French>Jouer pour 1.000 %1, prix 1x</French>
 		</Key>
 		<Key ID="STR_CL_GAMBLE_PRICE2x">
 			<English>Gamble for 2.000 %1, Price 2x</English>
+			<Russian>Ставка 2.000 %1, Цена 2x</Russian>
 			<German>Wetten für 2.000 %1, Preis 2x</German>
 			<French>Jouer pour 2.000 %1, prix 2x</French>
 		</Key>
 		<Key ID="STR_CL_GAMBLE_PRICE3x">
 			<English>Gamble for 3.000 %1, Price 3x</English>
+			<Russian>Ставка 3.000 %1, Цена 3x</Russian>
 			<German>Wetten für 3.000 %1, Preis 3x</German>
 			<French>Jouer pour 3.000 %1, prix 3x</French>
 		</Key>
 		<Key ID="STR_CL_GAMBLE_GAMBLING_FOR_X_COINS">
 			<English>You are gambling for %1 %2!</English>
+			<Russian>Вы ставите на %1 %2!</Russian>
 			<German>Du wettest für %1 %2!</German>
 			<French>Vous Jouer pour %1 %2!</French>
 		</Key>
 		<Key ID="STR_CL_GAMBLE_GAMBLING_FOR_FREE">
 			<English>You are gambling for free!</English>
+			<Russian>Вы делаете бесплатную попытку!</Russian>
 			<German>Du wettest mit einem Freiversuch!</German>
 			<French>Vous jouer gratuitement!</French>
 		</Key>
 		<Key ID="STR_CL_GAMBLE_NO_MONEY">
 			<English>You have not enough %1 to gamble.</English>
+			<Russian>У вас недостаточно %1 для игры!</Russian>
 			<German>Du hast nicht genug %1 um zu wetten.</German>
 			<French>Vous n'avez pas assez de %1 pour jouer.</French>
 		</Key>
 		<Key ID="STR_CL_GAMBLE_NO_LUCK">
 			<English>That was close, no luck this time!</English>
+			<Russian>Это было близко, повезет в другой раз!</Russian>
 			<German>Das war knapp aber diesmal kein Glück!</German>
 			<French>C'est pas loin, pas de chance cette fois!</French>
 		</Key>
 		<Key ID="STR_CL_GAMBLE_WON">
 			<English>You won %1x %2.</English>
+			<Russian>Вы выиграли %1x %2.</Russian>
 			<German>Du hast %1x %2 gewonnen.</German>
 			<French>Vous avez gagné %1x %2</French>
 		</Key>
 		<Key ID="STR_CL_GAMBLE_WON_COINS">
 			<English>You won %1 %2.</English>
+			<Russian>Вы выиграли %1 %2.</Russian>
 			<German>Du hast %1 %2 gewonnen.</German>
 			<French>Vous avez gagné %1 %2.</French>
 		</Key>
 		<Key ID="STR_CL_GAMBLE_WON_COINS_JACKPOT">
 			<English>You won the Jackpot of %1 %2!</English>
+			<Russian>Вы выиграли Джекпот %1 %2!</Russian>
 			<German>Du hast den Jackpot von %1 %2 gewonnen!</German>
 			<French>Vous avez gagné le Jackpot %1 %2</French>
 		</Key>
 		<Key ID="STR_CL_GAMBLE_ALREADY">
 			<English>Slow down you Gambling Queen!</English>
+			<Russian>Помедленнее, Королева Азартных игр!</Russian>
 			<German>Mach mal langsam du Zockerqueen!</German>
 			<French>Ralentis tu est la reine du jeux!</French>
 		</Key>
@@ -2877,56 +2891,68 @@
 	</Package>
 
 	<Package name="EvacChopper">
-		<Key ID="STR_CL_EC_NAME">
-			<English>Evac-Chopper</English>
+		<English>Evac-Chopper</English>
+			<Russian>Эвакуационный-Вертолет</Russian>
 			<German>Evak-Heli</German>
 		</Key>
 		<Key ID="STR_CL_EC_CLEAR">
 			<English>Clearing Evac-Chopper, Move to Cancel.</English>
+			<Russian>Эвак-вертолет очищен, переносим в отмену.</Russian>
 			<German>Evak-Heli wird geräumt, zum Abbrechen bewegen.</German>
 		</Key>
 		<Key ID="STR_CL_EC_EXISTS">
 			<English>You already have an %1!</English>
+			<Russian>У вас уже есть %1!</Russian>
 			<German>Du hast bereits eine(n) %1!</German>
 		</Key>
 		<Key ID="STR_CL_EC_NOT_OWNER">
 			<English>You are not the owner.</English>
+			<Russian>Вы не являетесь владельцем.</Russian>
 			<German>Du bist nicht der Besitzer.</German>
 		</Key>
 		<Key ID="STR_CL_EC_MINIMUM_DISTANCE">
 			<English>You must be at least %1 meters away to call your %2.</English>
+			<Russian>Вы должны быть на расстоянии не менее %1 метров, чтобы вызвать %2.</Russian>
 			<German>Du musst mindestens %1 Meter weit weg sein, um deine(n) %2 zu rufen.</German>
 		</Key>
 		<Key ID="STR_CL_EC_COUNTDOWN">
 			<English>%1 gets called in %2s - Move to Cancel!</English>
+			<Russian>%1 вызывается в %2s - перейти к отмене!.</Russian>
 			<German>%1 wird in %2s gerufen - Zum Abbrechen bewegen!</German>
 		</Key>
 		<Key ID="STR_CL_EC_UNABLETOEVAC">
 			<English>The chopper is unable to fly to you.</English>
+			<Russian>Вертолет не может прилететь к вам.</Russian>
 			<German>Der Heli kann nicht zu dir fliegen.</German>
 		</Key>
 		<Key ID="STR_CL_EC_MARKER">
 			<English>Check the map for your disabled %1 marker.</English>
+			<Russian>Проверьте карту на наличие выключенного %1 маркера.</Russian>
 			<German>Guck auf die Karte um deine(n) %1 Marker zu sehen.</German>
 		</Key>
 		<Key ID="STR_CL_EC_CRASHED">
 			<English>!!! CRASHED !!!</English>
+			<Russian>!!! РАЗБИЛСЯ !!!</Russian>
 			<German>!!! ABGESTÜRZT !!!</German>
 		</Key>
 		<Key ID="STR_CL_EC_DISABLED">
 			<English>!!! DISABLED !!!</English>
+			<Russian>!!! ОТКЛЮЧЕН !!!</Russian>
 			<German>!!! VERHINDERT !!!</German>
 		</Key>
 		<Key ID="STR_CL_EC_ARRIVED">
 			<English>!!! ARRIVED !!!</English>
+			<Russian>!!! ПРИБЫЛ !!!</Russian>
 			<German>!!! ANGEKOMMEN !!!</German>
 		</Key>
 		<Key ID="STR_CL_EC_NEED_COINS">
 			<English>You need %1 %2 to set your %3.</English>
+			<Russian>Вам нужно %1 %2 для установки %3</Russian>
 			<German>Du benötigst %1 %2 um deine(n) %3 zu setzen.</German>
 		</Key>
 		<Key ID="STR_CL_EC_NEED_BRIEFCASES">
 			<English>You need %1 to set your %2.</English>
+			<Russian>Вам нужно %1 для установки %2</Russian>
 			<German>Du benötigst %1 um deine(n) %2 zu setzen.</German>
 		</Key>
 	</Package>
