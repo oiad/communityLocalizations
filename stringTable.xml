@@ -1233,7 +1233,7 @@
 			<Spanish>Disminuir el rango</Spanish>
 		</Key>
 		<Key ID="STR_CL_CA_RANGE_GPS">
-			<English>GPS RANGE: %1</English>
+			<English>GPS Range: %1</English>
 			<German>GPS-Reichweite: %1</German>
 			<French>Rayon du GPS: %1</French>
 			<Russian>GPS-радиус: %1</Russian>
@@ -1353,6 +1353,33 @@
 			<French>Vous avez déployer un %1 vérrouillable, la clé est: %2</French>
 			<Russian>Вы скрафтили запираемый %1, ключ: %2.</Russian>
 			<Spanish>Has desplegado un/a %1 con cerradura, la llave es: %2</Spanish>
+		</Key>
+	</Package>
+
+	<Package name="perSettings">
+		<Key ID="STR_CL_PS_VIEW_SET">
+			<English>View distance set to: %1m</English>
+		</Key>
+		<Key ID="STR_CL_PS_VIEW_FPS">
+			<English>Warning: The higher the view distance the lower your FPS will be.</English>
+		</Key>
+		<Key ID="STR_CL_PS_GRASS_TOGGLED">
+			<English>Grass toggled: %1</English>
+		</Key>
+		<Key ID="STR_CL_PS_ENVIRONMENT_TOGGLED">
+			<English>Environment sounds turned: %1</English>
+		</Key>
+		<Key ID="STR_CL_PS_VIEW_DISTANCE">
+			<English>View Distance:</English>
+		</Key>
+		<Key ID="STR_CL_PS_VIEW">
+			<English>Click on one of the distance options below</English>
+		</Key>
+		<Key ID="STR_CL_PS_ENVIRONMENT">
+			<English>Environment sounds: %1</English>
+		</Key>
+		<Key ID="STR_CL_PS_GRASS">
+			<English>Toggle grass: %1</English>
 		</Key>
 	</Package>
 

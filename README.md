@@ -21,6 +21,7 @@ Community based Localization / Translation files for popular mods - by salival a
 * Change code [(repo here)](https://github.com/oiad/changeCode)
 * Starter Kit [(repo here)](https://github.com/oiad/starterKit)
 * Crack lockables [(repo here)](https://github.com/oiad/crackLockables)
+* Persistent settings [(repo here)](https://github.com/oiad/persistantSettings)
 * WAI by [@worldwidesorrow (repo here)](https://github.com/worldwidesorrow/WICKED-AI)
 * Server Events [@worldwidesorrow (repohere)](https://github.com/worldwidesorrow/Epoch-Server-Events)
 * Over9000 Gambling Script [@AirwavesMan (repohere)](https://github.com/AirwavesMan/Over9000-Gambling-Script)
