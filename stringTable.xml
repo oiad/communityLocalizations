@@ -1359,27 +1359,35 @@
 	<Package name="perSettings">
 		<Key ID="STR_CL_PS_VIEW_SET">
 			<English>View distance set to: %1m</English>
+			<German>Sichtweite setzen auf: %1m</German>
 		</Key>
 		<Key ID="STR_CL_PS_VIEW_FPS">
 			<English>Warning: The higher the view distance the lower your FPS will be.</English>
+			<German>Warnung: Höhere Sichtweiten können die FPS beeinflussen!</German>
 		</Key>
 		<Key ID="STR_CL_PS_GRASS_TOGGLED">
 			<English>Grass toggled: %1</English>
+			<German>Gras: %1</German>
 		</Key>
 		<Key ID="STR_CL_PS_ENVIRONMENT_TOGGLED">
 			<English>Environment sounds turned: %1</English>
+			<German>Umgebungsgeräusche: %1</German>
 		</Key>
 		<Key ID="STR_CL_PS_VIEW_DISTANCE">
 			<English>View Distance:</English>
+			<German>Sichtweite:</German>
 		</Key>
 		<Key ID="STR_CL_PS_VIEW">
 			<English>Click on one of the distance options below</English>
+			<German>Klicke auf eine der untenstehenden Distanzoptionen</German>
 		</Key>
 		<Key ID="STR_CL_PS_ENVIRONMENT">
 			<English>Environment sounds: %1</English>
+			<German>Umgebungsgeräusche: %1</German>
 		</Key>
 		<Key ID="STR_CL_PS_GRASS">
 			<English>Toggle grass: %1</English>
+			<German>Gras: %1</German>
 		</Key>
 	</Package>
 
