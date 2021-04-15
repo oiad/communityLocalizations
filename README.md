@@ -3,9 +3,12 @@ Community based Localization / Translation files for popular mods - by salival a
 
 * Discussion URL: https://epochmod.com/forum/topic/44788-community-based-translations/
 
-# The following mods have already a localizations that comes with Epoch 1.0.7:
+# Supported mods:
 
-<details>
+At the moment no new mods are supported.
+
+# The following mods have already a localization that comes with Epoch 1.0.7:
+
 * ESSv3 spawn script by [@ebayShopper (repo here)](https://github.com/ebayShopper/ESSV3)
 * ZSC [(repo here)](https://github.com/oiad/ZSC)
 * Remote Vehicle [(repo here)](https://github.com/oiad/remoteVehicle)
@@ -29,7 +32,6 @@ Community based Localization / Translation files for popular mods - by salival a
 * Animated Crash Spawner [@worldwidesorrow (repohere)](https://github.com/worldwidesorrow/Animated-Crash-Spawner)
 * Evac Chopper [@worldwidesorrow (repohere)](https://github.com/worldwidesorrow/Just-Another-Evac-Chopper-Mod)
 * DZMS [@worldwidesorrow (repohere)](https://github.com/worldwidesorrow/DZMS-DayZMissionSystem)
-</details>
 
 # Thanks to:
 
@@ -48,13 +50,14 @@ Community based Localization / Translation files for popular mods - by salival a
 * @RedLink-kam for Russian translations
 * @UncleDeath for Russian translations
 
-# Supported mods:
-
-At the moment no new mods are supported.
-
 # Install:
 
 1. Make sure any mods you have installed on your server that have a <code>stringTable.xml</code> are compatible with this repo. [here](https://github.com/oiad/communityLocalizations/#supported-mods)
 1. Copy the supplied <code>stringTable.xml</code> to your mission folder.
 
 **[>> Download <<](https://github.com/oiad/communityLocalizations/archive/master.zip)**
+
+# Old Releases:	
+
+**** *Epoch 1.0.6.2* ****
+**[>> Download <<](https://github.com/oiad/communityLocalizations/archive/refs/tags/Epoch_1.0.6.2.zip)**
