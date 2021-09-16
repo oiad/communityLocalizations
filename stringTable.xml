@@ -3,150 +3,198 @@
 	<Package name="Mission and Events Markers">
 		<Key ID="STR_CL_HEMP_FARM">
 			<English>Hemp Farm</English>
+			<German>Hanffarm</German>
 		</Key>
 		<Key ID="STR_CL_ESE_FUELBOMB_TITLE">
 			<English>Fuel Station Bomb</English>
+			<German>Tankstellenbombe</German>
 		</Key>
 		<Key ID="STR_CL_ESE_FUELBOMB_START">
-			<English>A bomb has been planted on a truck at the %1 fuel station. It will explode in %2 minutes</English>
+			<English>A bomb has been planted on a truck at the %1 fuel station. It will explode in %2 minutes.</English>
+			<German>An einem Lastwagen nahe der %1 Tankstelle, wurde eine Bombe gelegt. Sie wird in %2 Minuten explodieren.</German>
 		</Key>
 		<Key ID="STR_CL_ESE_FUELBOMB_END">
-			<English>Explosion at the %1 fuel station! Recover the building supplies!</English>
+			<English>Explosion at the %1 fuel station! Recover the remaining supplies!</English>
+			<German>Explosion an der %1 Tankstelle! Hole dir die verbleibenden Vorräte!</German>
 		</Key>
 		<Key ID="STR_CL_ESE_CRASHSITE_MARKER">
-			<English>%1 Crashsite</English>
+			<English>%1 Crash Site</English>
+			<German>%1 Absturz</German>
 		</Key>
 		<Key ID="STR_CL_ESE_MECHANIC_TITLE">
 			<English>Mechanic's Vehicle</English>
+			<German>Fahrzeug des Mechanikers</German>
 		</Key>
 		<Key ID="STR_CL_ESE_MECHANIC_START">
-			<English>A mechanic has left his truck full of upgrade parts in the large garage near %1</English>
+			<English>A mechanic has left his truck full of upgrade parts in the large garage near %1.</English>
+			<German>Ein Mechaniker hat seinen LKW voller Upgrade-Teile in der großen Garage in der Nähe von %1 gelassen.</German>
 		</Key>
 		<Key ID="STR_CL_CLAIM_MARKER">
 			<English>Claimed by %1</English>
+			<German>Beansprucht von %1</German>
 		</Key>
 		<Key ID="STR_CL_TIMEOUT_MARKER">
 			<English>%1 Claim Timeout [%2]</English>
+			<German>%1 Anspruchauszeit [%2]</German>
 		</Key>
 		<Key ID="STR_CL_CLAIM_WARNING">
 			<English>You are in %1's mission. Ask %1 for permission!</English>
+			<German>Du befindest dich in der Mission von %1. Frage %1 um Erlaubnis!</German>
 		</Key>
 		<Key ID="STR_CL_CLEARED_MARKER">
 			<English>Cleared by %1</English>
+			<German>Beendet von %1</German>
 		</Key>
 		<Key ID="STR_CL_MISSION_HERO">
 			<English>Hero %1</English>
+			<German>Held %1</German>
 		</Key>
 		<Key ID="STR_CL_MISSION_BANDIT">
 			<English>Bandit %1</English>
+			<German>Bandit %1</German>
 		</Key>
 		<Key ID="STR_CL_MISSION_HEROS">
 			<English>Heroes</English>
+			<German>Helden</German>
 		</Key>
 		<Key ID="STR_CL_MISSION_BANDITS">
 			<English>Bandits</English>
+			<German>Banditen</German>
 		</Key>
 		<Key ID="STR_CL_MISSION_HERO_COUNT">
 			<English>Hero %1 (%2 %3)</English>
+			<German>Held %1 (%2 %3)</German>
 		</Key>
 		<Key ID="STR_CL_MISSION_BANDIT_COUNT">
 			<English>Bandit %1 (%2 %3)</English>
+			<German>Bandit %1 (%2 %3)</German>
 		</Key>
 		<Key ID="STR_CL_BASE_TITLE">
 			<English>Military Base</English>
+			<German>Militärbasis</German>
 		</Key>
 		<Key ID="STR_CL_ABANDONEDTRADER_TITLE">
 			<English>Abandoned Trader</English>
+			<German>Verlassener Händler</German>
 		</Key>
 		<Key ID="STR_CL_ARMEDVEHICLE_TITLE">
 			<English>Disabled %1</English>
+			<German>Deaktiviert %1</German>
 		</Key>
 		<Key ID="STR_CL_ARMYBASE_TITLE">
 			<English>Army Base</English>
+			<German>Armeebasis</German>
 		</Key>
 		<Key ID="STR_CL_BHCRASH_TITLE">
 			<English>Black Hawk Crash</English>
+			<German>Black Hawk Absturz</German>
 		</Key>
 		<Key ID="STR_CL_URAL_TITLE">
 			<English>Ural Attack</English>
+			<German>Ural Angriff</German>
 		</Key>
 		<Key ID="STR_CL_CANNIBALCAVE_TITLE">
 			<English>Cannibal Cave</English>
+			<German>Kannibalenhöhle</German>
 		</Key>
 		<Key ID="STR_CL_MV22_TITLE">
-			<English>Captured MV22</English>
+			<English>Captured MV-22</English>
+			<German>Gekaperte MV-22</German>
 		</Key>
 		<Key ID="STR_CL_AIRDROP_TITLE">
 			<English>%1 Air Drop</English>
+			<German>%1 Luftlieferung</German>
 		</Key>
 		<Key ID="STR_CL_WAIPATROL_TITLE">
 			<English>Armed Patrol</English>
+			<German>Bewaffnete Patrouille</German>
 		</Key>
 		<Key ID="STR_CL_CROPRADIER_TITLE">
 			<English>Crop Raider</English>
+			<German>Ernteräuber</German>
 		</Key>
 		<Key ID="STR_CL_DRONE_TITLE">
 			<English>Drone Pilot</English>
+			<German>Drohnenpilot</German>
 		</Key>
 		<Key ID="STR_CL_DRUGBUST_TITLE">
 			<English>Drug Bust</English>
+			<German>Drogenrazzia</German>
 		</Key>
 		<Key ID="STR_CL_FARMER_TITLE">
 			<English>Farmer</English>
 		</Key>
 		<Key ID="STR_CL_FIRESTATION_TITLE">
 			<English>Fire Station</English>
+			<German>Feuerwehr</German>
 		</Key>
 		<Key ID="STR_CL_GEMTOWER_TITLE">
 			<English>Gem Tower</English>
+			<German>Edelsteinturm</German>
 		</Key>
 		<Key ID="STR_CL_WAI_IKEA_TITLE">
 			<English>IKEA Convoy</English>
+			<German>IKEA-Konvoi</German>
 		</Key>
 		<Key ID="STR_CL_JUNKYARD_TITLE">
 			<English>Junk Yard</English>
+			<German>Schrottplatz</German>
 		</Key>
 		<Key ID="STR_CL_LUMBERMILL_TITLE">
 			<English>Lumber Mill</English>
+			<German>Sägewerk</German>
 		</Key>
 		<Key ID="STR_CL_PRESIDENT_TITLE">
 			<English>President's in Town</English>
+			<German>Präsident in der Stadt</German>
 		</Key>
 		<Key ID="STR_CL_EXTRACTION_TITLE">
 			<English>Sniper Extraction %1</English>
+			<German>Scharfschützen-Extraktion %1</German>
 		</Key>
 		<Key ID="STR_CL_FARM_TITLE">
 			<English>The Farm</English>
+			<German>Der Bauernhof</German>
 		</Key>
 		<Key ID="STR_CL_MAYOR_TITLE">
 			<English>Mayors Mansion</English>
+			<German>Bürgermeistervilla</German>
 		</Key>
 		<Key ID="STR_CL_WAI_MSC_TITLE">
 			<English>Medical Supply Camp</English>
+			<German>Medizincamp</German>
 		</Key>
 		<Key ID="STR_CL_WAI_OUTPOST_TITLE">
 			<English>Outpost</English>
+			<German>Vorposten</German>
 		</Key>
 		<Key ID="STR_CL_RADIOTOWER_TITLE">
 			<English>Radio Tower</English>
+			<German>Funkturm</German>
 		</Key>
 		<Key ID="STR_CL_WAI_PATROL_TITLE">
 			<English>Scout Patrol</English>
+			<German>Spähpatrouille</German>
 		</Key>
 		<Key ID="STR_CL_SLAUGHTERHOUSE_TITLE">
 			<English>Slaughter House</English>
+			<German>Schlachthaus</German>
 		</Key>
 		<Key ID="STR_CL_WAI_TANK_TITLE">
 			<English>Tank Column</English>
+			<German>Panzerkolonne</German>
 		</Key>
 		<Key ID="STR_CL_WAI_WEAPONCACHE_TITLE">
 			<English>Weapon Cache</English>
+			<German>Waffenversteck</German>
 		</Key>
 		<Key ID="STR_CL_GRAYSKULL_TITLE">
 			<English>Castle Grayskull</English>
+			<German>Schloss Grayskull</German>
 		</Key>
 		<Key ID="STR_CL_WUHAN_TITLE">
 			<English>Wuhan Lab</English>
+			<German>Wuhan Labor</German>
 		</Key>
 	</Package>
 	<Package name="WickedAI">
@@ -1288,21 +1336,27 @@
 		</Key>
 		<Key ID="STR_CL_GRAYSKULL_ANNOUNCE">
 			<English>Castle Grayskull is under attack!</English>
+			<German>Castle Grayskull wird angegriffen!</German>
 		</Key>
 		<Key ID="STR_CL_GRAYSKULL_WIN">
-			<English>Survivors have secured Castle Grayskull</English>
+			<English>Survivors have secured Castle Grayskull.</English>
+			<German>Überlebende haben Castle Grayskull unter ihre Kontrolle gebracht.</German>
 		</Key>
 		<Key ID="STR_CL_GRAYSKULL_FAIL">
-			<English>Survivors did not secure Castle Grayskull</English>
+			<English>Survivors did not secure Castle Grayskull.</English>
+			<German>Überlebende konnten Castle Grayskull nicht unter ihre Kontrolle bringen.</German>
 		</Key>
 		<Key ID="STR_CL_WUHAN_ANNOUNCE">
-			<English>Wuhan Lab scientists are guarding Dr. Fauci</English>
+			<English>Wuhan Lab scientists are guarding Dr. Fauci.</English>
+			<German>Wuhan Lab Wissenschaftler bewachen Dr. Fauci.</German>
 		</Key>
 		<Key ID="STR_CL_WUHAN_WIN">
-			<English>Dr. Fauci has been relieved of duty</English>
+			<English>Dr. Fauci has been relieved of duty.</English>
+			<German>Dr. Fauci wurde für immer von seinen Diensten entbunden.</German>
 		</Key>
 		<Key ID="STR_CL_WUHAN_FAIL">
-			<English>Dr. Fauci is still lying about the virus origins</English>
+			<English>Dr. Fauci is still lying about the virus origins.</English>
+			<German>Dr. Fauci erzählt noch immer Lügen über die Herkunft des Virus.</German>
 		</Key>
 	</Package>
 </Project>
