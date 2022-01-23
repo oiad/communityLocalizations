@@ -528,11 +528,11 @@
 			<Spanish>Sobrevivientes no han asegurado la chatarrería.</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_LUMBERMILL_ANNOUNCE">
-			<English>Heroes are setting up a lumber mill!</English>
-			<German>Helden haben ein Sägewerk eingerichtet!</German>
-			<French>Les Héros on mis en place une scierie!</French>
-			<Russian>Герои обосновались на лесопилке!</Russian>
-			<Spanish>Los Hérores están ensamblando un aserradero!</Spanish>
+			<English>Bandits set up a lumber mill!</English>
+			<German>Banditen haben ein Sägewerk eingerichtet!</German>
+			<French>Des bandits on mis en place une scierie!</French>
+			<Russian>Бандиты обосновались на лесопилке!</Russian>
+			<Spanish>Los bandidos están estableciendo un aserradero!</Spanish>
 		</Key>
 		<Key ID="STR_CL_BANDIT_LUMBERMILL_WIN">
 			<English>Survivors secured the lumber.</English>
@@ -1047,11 +1047,11 @@
 			<Spanish>Los sobrevivientes no han asegurado la chatarrería.</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_LUMBER_ANNOUNCE">
-			<English>Bandits set up a lumber mill!</English>
-			<German>Banditen haben ein Sägewerk eingerichtet!</German>
-			<French>Des bandits on mis en place une scierie!</French>
-			<Russian>Бандиты обосновались на лесопилке!</Russian>
-			<Spanish>Los bandidos están estableciendo un aserradero!</Spanish>
+			<English>Heroes are setting up a lumber mill!</English>
+			<German>Helden haben ein Sägewerk eingerichtet!</German>
+			<French>Les Héros on mis en place une scierie!</French>
+			<Russian>Герои обосновались на лесопилке!</Russian>
+			<Spanish>Los Hérores están ensamblando un aserradero!</Spanish>
 		</Key>
 		<Key ID="STR_CL_HERO_LUMBER_WIN">
 			<English>Survivors secured the lumber.</English>
